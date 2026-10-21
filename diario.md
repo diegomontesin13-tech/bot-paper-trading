@@ -24,3 +24,4 @@
 - Abiertas: long kPEPE, long BNB
 - Sin señal: HYPE, XRP, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:COIN, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-10-21 14:19 UTC · sin operaciones · patrimonio $9.988,56 (-0.11%)
