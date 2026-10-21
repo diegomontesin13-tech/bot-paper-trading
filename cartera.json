@@ -15,7 +15,7 @@
    "objetivo": 83.87,
    "comision_entrada": 3.28,
    "abierta_en": "2026-10-21T08:35:47+00:00",
-   "revisada_hasta": 1792573500000,
+   "revisada_hasta": 1792575000000,
    "motivo": "1h: precio sobre EMA20/50/200, RSI 61, MACD>0 con histograma positivo; stop 1,5 ATR (0,83)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 386.22154560237095,
    "comision_entrada": 6.146706954129768,
    "abierta_en": "2026-10-21T09:03:51+00:00",
-   "revisada_hasta": 1792573500000,
+   "revisada_hasta": 1792575000000,
    "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 0.00484844,
    "comision_entrada": 1.643385873753349,
    "abierta_en": "2026-10-21T09:03:51+00:00",
-   "revisada_hasta": 1792573500000,
+   "revisada_hasta": 1792575000000,
    "motivo": "tendencia long con momento (fuerza 2.3 ATR)"
   }
  ],
@@ -75,7 +75,7 @@
   }
  ],
  "comisiones_pagadas": 22.120597828338077,
- "ultima_ejecucion": "2026-10-21T09:05:16+00:00",
+ "ultima_ejecucion": "2026-10-21T09:33:57+00:00",
  "ultimo_resumen": null,
  "pausado": false,
  "historial_patrimonio": [
@@ -86,6 +86,10 @@
   [
    "2026-10-21T09:05:16+00:00",
    9855.76
+  ],
+  [
+   "2026-10-21T09:33:57+00:00",
+   9875.68
   ]
  ],
  "siguiente_id": 5

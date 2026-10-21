@@ -8,3 +8,4 @@
 - Sin señal: FARTCOIN, TRUMP, xyz:NVDA, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:COPPER
 
 - 2026-10-21 09:05 UTC · sin operaciones · patrimonio $9.855,76 (-1.44%)
+- 2026-10-21 09:33 UTC · sin operaciones · patrimonio $9.875,68 (-1.24%)
