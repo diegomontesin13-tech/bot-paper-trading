@@ -416,11 +416,11 @@ def buscar_predicciones(c, precios, mids, cache_1h, ahora, eventos):
 # ---------- avisos y diario ----------
 
 def avisar(titulo, mensaje, etiquetas=("chart_with_upwards_trend",), prioridad=3):
-    tema = os.environ.get("NTFY_TOPIC")
+    tema = (os.environ.get("NTFY_TOPIC") or "").strip()
     if not tema:
         print(f"[ntfy desactivado] {titulo}: {mensaje}")
         return
-    servidor = os.environ.get("NTFY_SERVER") or "https://ntfy.sh"
+    servidor = (os.environ.get("NTFY_SERVER") or "").strip() or "https://ntfy.sh"
     cuerpo = json.dumps({"topic": tema, "title": titulo, "message": mensaje,
                          "tags": list(etiquetas), "priority": prioridad}).encode()
     req = urllib.request.Request(servidor.rstrip("/"), data=cuerpo,
