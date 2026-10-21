@@ -1,16 +1,88 @@
 {
  "capital_inicial": 10000,
- "efectivo": 4106.66,
+ "efectivo": 309.1330194883694,
  "posiciones": [
-  {"id": 1, "simbolo": "HYPE", "mercado": "cripto", "lado": "long", "precio_entrada": 81.382, "nocional": 6552.5, "apalancamiento": 3, "margen": 2184.17, "stop": 80.14, "objetivo": 83.87, "comision_entrada": 3.28, "abierta_en": "2026-10-21T08:35:47+00:00", "revisada_hasta": null, "motivo": "1h: precio sobre EMA20/50/200, RSI 61, MACD>0 con histograma positivo; stop 1,5 ATR (0,83)"},
-  {"id": 2, "simbolo": "xyz:NVDA", "mercado": "accion", "lado": "long", "precio_entrada": 219.8, "nocional": 11101.01, "apalancamiento": 3, "margen": 3700.34, "stop": 217.82, "objetivo": 223.76, "comision_entrada": 5.55, "abierta_en": "2026-10-21T08:35:47+00:00", "revisada_hasta": null, "motivo": "1h: precio sobre EMA20/50/200, RSI 60,7, MACD>0 con histograma positivo; stop 1,5 ATR (1,32)"}
+  {
+   "id": 1,
+   "simbolo": "HYPE",
+   "mercado": "cripto",
+   "lado": "long",
+   "precio_entrada": 81.382,
+   "nocional": 6552.5,
+   "apalancamiento": 3,
+   "margen": 2184.17,
+   "stop": 80.14,
+   "objetivo": 83.87,
+   "comision_entrada": 3.28,
+   "abierta_en": "2026-10-21T08:35:47+00:00",
+   "revisada_hasta": 1792573200000,
+   "motivo": "1h: precio sobre EMA20/50/200, RSI 61, MACD>0 con histograma positivo; stop 1,5 ATR (0,83)"
+  },
+  {
+   "id": 3,
+   "simbolo": "xyz:TSLA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 380.12,
+   "nocional": 12293.41,
+   "apalancamiento": 3,
+   "margen": 4097.8,
+   "stop": 377.06922719881453,
+   "objetivo": 386.22154560237095,
+   "comision_entrada": 6.146706954129768,
+   "abierta_en": "2026-10-21T09:03:51+00:00",
+   "revisada_hasta": 1792573431000,
+   "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
+  },
+  {
+   "id": 4,
+   "simbolo": "kPEPE",
+   "mercado": "memecoin",
+   "lado": "long",
+   "precio_entrada": 0.004574,
+   "nocional": 3286.77,
+   "apalancamiento": 1,
+   "margen": 3286.77,
+   "stop": 0.0044367799999999995,
+   "objetivo": 0.00484844,
+   "comision_entrada": 1.643385873753349,
+   "abierta_en": "2026-10-21T09:03:51+00:00",
+   "revisada_hasta": 1792573431000,
+   "motivo": "tendencia long con momento (fuerza 2.3 ATR)"
+  }
  ],
  "predicciones": [],
- "cerradas": [],
- "comisiones_pagadas": 8.83,
- "ultima_ejecucion": "2026-10-21T08:35:47+00:00",
+ "cerradas": [
+  {
+   "id": 2,
+   "simbolo": "xyz:NVDA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 219.8,
+   "nocional": 11101.01,
+   "apalancamiento": 3,
+   "margen": 3700.34,
+   "stop": 217.82,
+   "objetivo": 223.76,
+   "comision_entrada": 5.55,
+   "abierta_en": "2026-10-21T08:35:47+00:00",
+   "revisada_hasta": 1792573200000,
+   "motivo": "1h: precio sobre EMA20/50/200, RSI 60,7, MACD>0 con histograma positivo; stop 1,5 ATR (1,32)",
+   "precio_salida": 217.82,
+   "cerrada_en": "2026-10-21T09:03:51+00:00",
+   "pnl": -111.05,
+   "razon_cierre": "stop-loss"
+  }
+ ],
+ "comisiones_pagadas": 22.120597828338077,
+ "ultima_ejecucion": "2026-10-21T09:03:51+00:00",
  "ultimo_resumen": null,
  "pausado": false,
- "historial_patrimonio": [],
- "siguiente_id": 3
+ "historial_patrimonio": [
+  [
+   "2026-10-21T09:03:51+00:00",
+   9858.67
+  ]
+ ],
+ "siguiente_id": 5
 }
