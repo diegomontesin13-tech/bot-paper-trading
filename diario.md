@@ -15,3 +15,12 @@
 - 2026-10-21 11:50 UTC · sin operaciones · patrimonio $9.820,12 (-1.80%)
 - 2026-10-21 12:16 UTC · sin operaciones · patrimonio $9.809,59 (-1.90%)
 - 2026-10-21 13:03 UTC · sin operaciones · patrimonio $9.905,20 (-0.95%)
+
+## 2026-10-21 13:40 UTC · patrimonio $9.980,57 (-0.19%)
+
+- Cerrado long HYPE a 80.14 (stop-loss): -$106,51
+- Cerrado long xyz:TSLA a 386.2215 (objetivo): +$184,94
+- Abierto long BNB 3x $16.318,25 a 745.2 (stop 740.6385, obj. 754.323)
+- Abiertas: long kPEPE, long BNB
+- Sin señal: HYPE, XRP, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:COIN, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
