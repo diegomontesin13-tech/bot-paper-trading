@@ -1,0 +1,16 @@
+{
+ "capital_inicial": 10000,
+ "efectivo": 4106.66,
+ "posiciones": [
+  {"id": 1, "simbolo": "HYPE", "mercado": "cripto", "lado": "long", "precio_entrada": 81.382, "nocional": 6552.5, "apalancamiento": 3, "margen": 2184.17, "stop": 80.14, "objetivo": 83.87, "comision_entrada": 3.28, "abierta_en": "2026-10-21T08:35:47+00:00", "revisada_hasta": null, "motivo": "1h: precio sobre EMA20/50/200, RSI 61, MACD>0 con histograma positivo; stop 1,5 ATR (0,83)"},
+  {"id": 2, "simbolo": "xyz:NVDA", "mercado": "accion", "lado": "long", "precio_entrada": 219.8, "nocional": 11101.01, "apalancamiento": 3, "margen": 3700.34, "stop": 217.82, "objetivo": 223.76, "comision_entrada": 5.55, "abierta_en": "2026-10-21T08:35:47+00:00", "revisada_hasta": null, "motivo": "1h: precio sobre EMA20/50/200, RSI 60,7, MACD>0 con histograma positivo; stop 1,5 ATR (1,32)"}
+ ],
+ "predicciones": [],
+ "cerradas": [],
+ "comisiones_pagadas": 8.83,
+ "ultima_ejecucion": "2026-10-21T08:35:47+00:00",
+ "ultimo_resumen": null,
+ "pausado": false,
+ "historial_patrimonio": [],
+ "siguiente_id": 3
+}
