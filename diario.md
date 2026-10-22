@@ -46,3 +46,11 @@
 - 2026-10-22 00:38 UTC · sin operaciones · patrimonio $10.070,28 (+0.70%)
 - 2026-10-22 01:20 UTC · sin operaciones · patrimonio $10.073,14 (+0.73%)
 - 2026-10-22 01:53 UTC · sin operaciones · patrimonio $9.939,95 (-0.60%)
+
+## 2026-10-22 02:31 UTC · patrimonio $9.811,43 (-1.89%)
+
+- Cerrado long BNB a 740.6385 (stop-loss): -$116,16
+- Abierto short xyz:NATGAS 3x $13.063,00 a 3.1826 (stop 3.2065, obj. 3.1348)
+- Abiertas: long kPEPE, short xyz:NATGAS
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:CL
+
