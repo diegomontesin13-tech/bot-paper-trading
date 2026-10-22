@@ -122,3 +122,4 @@
 - Abiertas: short xyz:GOLD, long xyz:AAPL, short xyz:KR200, short HYPE
 - Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-10-22 16:08 UTC · sin operaciones · patrimonio $10.556,53 (+5.57%)
