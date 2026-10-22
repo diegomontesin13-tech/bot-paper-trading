@@ -76,3 +76,10 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:COPPER
 
 - 2026-10-22 07:47 UTC · sin operaciones · patrimonio $9.733,42 (-2.67%)
+
+## 2026-10-22 08:22 UTC · patrimonio $9.757,25 (-2.43%)
+
+- Abierto long xyz:BRENTOIL 3x $72,65 a 108.035 (stop 107.1081, obj. 109.8888)
+- Abiertas: short xyz:NATGAS, short xyz:GOLD, long xyz:AAPL, long xyz:BRENTOIL
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:COPPER
+
