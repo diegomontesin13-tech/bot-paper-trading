@@ -55,3 +55,4 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:CL
 
 - 2026-10-22 03:04 UTC · sin operaciones · patrimonio $9.810,09 (-1.90%)
+- 2026-10-22 03:32 UTC · sin operaciones · patrimonio $9.849,39 (-1.51%)
