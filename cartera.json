@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 65.65177349888654,
+ "efectivo": 38.50159687759078,
  "posiciones": [
   {
    "id": 6,
@@ -15,7 +15,7 @@
    "objetivo": 3.134760078791052,
    "comision_entrada": 6.5315006400650235,
    "abierta_en": "2026-10-22T02:31:15+00:00",
-   "revisada_hasta": 1792649700000,
+   "revisada_hasta": 1792652700000,
    "motivo": "tendencia short con momento (fuerza 3.0 ATR)"
   },
   {
@@ -31,8 +31,24 @@
    "objetivo": 4038.9934000000003,
    "comision_entrada": 8.027438047228667,
    "abierta_en": "2026-10-22T05:17:53+00:00",
-   "revisada_hasta": 1792649700000,
+   "revisada_hasta": 1792652700000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
+  },
+  {
+   "id": 8,
+   "simbolo": "xyz:AAPL",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 343.86,
+   "nocional": 81.33,
+   "apalancamiento": 3,
+   "margen": 27.11,
+   "stop": 341.10912,
+   "objetivo": 349.36176,
+   "comision_entrada": 0.04066426852914992,
+   "abierta_en": "2026-10-22T07:05:52+00:00",
+   "revisada_hasta": 1792652752000,
+   "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
   }
  ],
  "predicciones": [],
@@ -138,8 +154,8 @@
    "razon_cierre": "tendencia rota"
   }
  ],
- "comisiones_pagadas": 64.03194633194158,
- "ultima_ejecucion": "2026-10-22T06:16:24+00:00",
+ "comisiones_pagadas": 64.07261060047074,
+ "ultima_ejecucion": "2026-10-22T07:05:52+00:00",
  "ultimo_resumen": "2026-10-21",
  "pausado": false,
  "historial_patrimonio": [
@@ -302,7 +318,11 @@
   [
    "2026-10-22T06:16:24+00:00",
    9688.92
+  ],
+  [
+   "2026-10-22T07:05:52+00:00",
+   9733.03
   ]
  ],
- "siguiente_id": 8
+ "siguiente_id": 9
 }

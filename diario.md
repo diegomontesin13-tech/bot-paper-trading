@@ -68,3 +68,10 @@
 
 - 2026-10-22 05:49 UTC · sin operaciones · patrimonio $9.824,19 (-1.76%)
 - 2026-10-22 06:16 UTC · sin operaciones · patrimonio $9.688,92 (-3.11%)
+
+## 2026-10-22 07:05 UTC · patrimonio $9.733,03 (-2.67%)
+
+- Abierto long xyz:AAPL 3x $81,33 a 343.86 (stop 341.1091, obj. 349.3618)
+- Abiertas: short xyz:NATGAS, short xyz:GOLD, long xyz:AAPL
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:COPPER
+
