@@ -98,3 +98,11 @@
 
 - 2026-10-22 12:08 UTC · sin operaciones · patrimonio $10.036,16 (+0.36%)
 - 2026-10-22 13:02 UTC · sin operaciones · patrimonio $9.993,90 (-0.06%)
+
+## 2026-10-22 13:43 UTC · patrimonio $10.229,58 (+2.30%)
+
+- Cerrado short xyz:META a 651.4622 (objetivo): +$195,81
+- Abierto short xyz:AMD 3x $7.552,65 a 525.89 (stop 533.0155, obj. 511.6391)
+- Abiertas: short xyz:GOLD, long xyz:AAPL, long xyz:BRENTOIL, short xyz:KR200, short xyz:AMD
+- Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:SILVER, xyz:COPPER
+
