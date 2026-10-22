@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 26.622244170460817,
+ "efectivo": 50.18290678099995,
  "posiciones": [
   {
    "id": 7,
@@ -15,7 +15,7 @@
    "objetivo": 4038.9934000000003,
    "comision_entrada": 8.027438047228667,
    "abierta_en": "2026-10-22T05:17:53+00:00",
-   "revisada_hasta": 1792678500000,
+   "revisada_hasta": 1792680900000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   },
   {
@@ -31,24 +31,8 @@
    "objetivo": 349.36176,
    "comision_entrada": 0.04066426852914992,
    "abierta_en": "2026-10-22T07:05:52+00:00",
-   "revisada_hasta": 1792678500000,
+   "revisada_hasta": 1792680900000,
    "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
-  },
-  {
-   "id": 9,
-   "simbolo": "xyz:BRENTOIL",
-   "mercado": "materia_prima",
-   "lado": "long",
-   "precio_entrada": 108.035,
-   "nocional": 72.65,
-   "apalancamiento": 3,
-   "margen": 24.22,
-   "stop": 107.10807895523254,
-   "objetivo": 109.8888420895349,
-   "comision_entrada": 0.036323123125159326,
-   "abierta_en": "2026-10-22T08:22:58+00:00",
-   "revisada_hasta": 1792678500000,
-   "motivo": "tendencia long con momento (fuerza 0.6 ATR)"
   },
   {
    "id": 10,
@@ -63,7 +47,7 @@
    "objetivo": 836.480843421561,
    "comision_entrada": 3.3045899488956603,
    "abierta_en": "2026-10-22T11:36:22+00:00",
-   "revisada_hasta": 1792678500000,
+   "revisada_hasta": 1792680900000,
    "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
   },
   {
@@ -79,7 +63,7 @@
    "objetivo": 511.63906156728996,
    "comision_entrada": 3.776327464947656,
    "abierta_en": "2026-10-22T13:43:38+00:00",
-   "revisada_hasta": 1792678500000,
+   "revisada_hasta": 1792680900000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   }
  ],
@@ -224,10 +208,30 @@
    "cerrada_en": "2026-10-22T13:43:38+00:00",
    "pnl": 195.81,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 9,
+   "simbolo": "xyz:BRENTOIL",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 108.035,
+   "nocional": 72.65,
+   "apalancamiento": 3,
+   "margen": 24.22,
+   "stop": 107.10807895523254,
+   "objetivo": 109.8888420895349,
+   "comision_entrada": 0.036323123125159326,
+   "abierta_en": "2026-10-22T08:22:58+00:00",
+   "revisada_hasta": 1792680900000,
+   "motivo": "tendencia long con momento (fuerza 0.6 ATR)",
+   "precio_salida": 107.10807895523254,
+   "cerrada_en": "2026-10-22T14:55:18+00:00",
+   "pnl": -0.7,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 82.76004627898024,
- "ultima_ejecucion": "2026-10-22T14:19:50+00:00",
+ "comisiones_pagadas": 82.7960596169545,
+ "ultima_ejecucion": "2026-10-22T14:55:18+00:00",
  "ultimo_resumen": "2026-10-21",
  "pausado": false,
  "historial_patrimonio": [
@@ -438,6 +442,10 @@
   [
    "2026-10-22T14:19:50+00:00",
    10401.78
+  ],
+  [
+   "2026-10-22T14:55:18+00:00",
+   10527.54
   ]
  ],
  "siguiente_id": 13
