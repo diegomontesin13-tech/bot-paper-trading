@@ -58,3 +58,11 @@
 - 2026-10-22 03:32 UTC · sin operaciones · patrimonio $9.849,39 (-1.51%)
 - 2026-10-22 04:07 UTC · sin operaciones · patrimonio $9.823,44 (-1.77%)
 - 2026-10-22 04:49 UTC · sin operaciones · patrimonio $9.840,77 (-1.59%)
+
+## 2026-10-22 05:17 UTC · patrimonio $9.697,94 (-3.02%)
+
+- Cerrado long kPEPE a 0.004488 (tendencia rota): -$65,05
+- Abierto short xyz:GOLD 3x $16.054,88 a 4088.05 (stop 4112.58, obj. 4038.99)
+- Abiertas: short xyz:NATGAS, short xyz:GOLD
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:CL, xyz:COPPER
+

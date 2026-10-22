@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 2201.9446620407834,
+ "efectivo": 65.65177349888654,
  "posiciones": [
-  {
-   "id": 4,
-   "simbolo": "kPEPE",
-   "mercado": "memecoin",
-   "lado": "long",
-   "precio_entrada": 0.004574,
-   "nocional": 3286.77,
-   "apalancamiento": 1,
-   "margen": 3286.77,
-   "stop": 0.0044367799999999995,
-   "objetivo": 0.00484844,
-   "comision_entrada": 1.643385873753349,
-   "abierta_en": "2026-10-21T09:03:51+00:00",
-   "revisada_hasta": 1792644300000,
-   "motivo": "tendencia long con momento (fuerza 2.3 ATR)"
-  },
   {
    "id": 6,
    "simbolo": "xyz:NATGAS",
@@ -31,8 +15,24 @@
    "objetivo": 3.134760078791052,
    "comision_entrada": 6.5315006400650235,
    "abierta_en": "2026-10-22T02:31:15+00:00",
-   "revisada_hasta": 1792644300000,
+   "revisada_hasta": 1792646100000,
    "motivo": "tendencia short con momento (fuerza 3.0 ATR)"
+  },
+  {
+   "id": 7,
+   "simbolo": "xyz:GOLD",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 4088.05,
+   "nocional": 16054.88,
+   "apalancamiento": 3,
+   "margen": 5351.63,
+   "stop": 4112.5783,
+   "objetivo": 4038.9934000000003,
+   "comision_entrada": 8.027438047228667,
+   "abierta_en": "2026-10-22T05:17:53+00:00",
+   "revisada_hasta": 1792646273000,
+   "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   }
  ],
  "predicciones": [],
@@ -116,10 +116,30 @@
    "cerrada_en": "2026-10-22T02:31:15+00:00",
    "pnl": -116.16,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 4,
+   "simbolo": "kPEPE",
+   "mercado": "memecoin",
+   "lado": "long",
+   "precio_entrada": 0.004574,
+   "nocional": 3286.77,
+   "apalancamiento": 1,
+   "margen": 3286.77,
+   "stop": 0.0044367799999999995,
+   "objetivo": 0.00484844,
+   "comision_entrada": 1.643385873753349,
+   "abierta_en": "2026-10-21T09:03:51+00:00",
+   "revisada_hasta": 1792646100000,
+   "motivo": "tendencia long con momento (fuerza 2.3 ATR)",
+   "precio_salida": 0.004488,
+   "cerrada_en": "2026-10-22T05:17:53+00:00",
+   "pnl": -65.05,
+   "razon_cierre": "tendencia rota"
   }
  ],
- "comisiones_pagadas": 54.392022084450566,
- "ultima_ejecucion": "2026-10-22T04:49:46+00:00",
+ "comisiones_pagadas": 64.03194633194158,
+ "ultima_ejecucion": "2026-10-22T05:17:53+00:00",
  "ultimo_resumen": "2026-10-21",
  "pausado": false,
  "historial_patrimonio": [
@@ -270,7 +290,11 @@
   [
    "2026-10-22T04:49:46+00:00",
    9840.77
+  ],
+  [
+   "2026-10-22T05:17:53+00:00",
+   9697.94
   ]
  ],
- "siguiente_id": 7
+ "siguiente_id": 8
 }
