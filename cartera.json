@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 166.39680407367496,
+ "efectivo": 414.25880352384183,
  "posiciones": [
   {
    "id": 8,
@@ -15,7 +15,7 @@
    "objetivo": 349.36176,
    "comision_entrada": 0.04066426852914992,
    "abierta_en": "2026-10-22T07:05:52+00:00",
-   "revisada_hasta": 1792697400000,
+   "revisada_hasta": 1792699200000,
    "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 836.480843421561,
    "comision_entrada": 3.3045899488956603,
    "abierta_en": "2026-10-22T11:36:22+00:00",
-   "revisada_hasta": 1792697400000,
+   "revisada_hasta": 1792699200000,
    "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 75.384819760926,
    "comision_entrada": 3.555120206249667,
    "abierta_en": "2026-10-22T15:35:03+00:00",
-   "revisada_hasta": 1792697400000,
+   "revisada_hasta": 1792699200000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   },
   {
@@ -63,24 +63,24 @@
    "objetivo": 109.83137749512058,
    "comision_entrada": 5.693105266978926,
    "abierta_en": "2026-10-22T16:51:15+00:00",
-   "revisada_hasta": 1792697400000,
+   "revisada_hasta": 1792699200000,
    "motivo": "tendencia long con momento (fuerza 0.8 ATR)"
   },
   {
-   "id": 15,
-   "simbolo": "xyz:TSLA",
+   "id": 16,
+   "simbolo": "xyz:META",
    "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 378.88,
-   "nocional": 5883.04,
+   "lado": "short",
+   "precio_entrada": 648.815,
+   "nocional": 4917.68,
    "apalancamiento": 3,
-   "margen": 1961.01,
-   "stop": 371.9225899973699,
-   "objetivo": 392.7948200052602,
-   "comision_entrada": 2.941519810999267,
-   "abierta_en": "2026-10-22T16:51:15+00:00",
-   "revisada_hasta": 1792697400000,
-   "motivo": "tendencia long con momento (fuerza 0.3 ATR)"
+   "margen": 1639.23,
+   "stop": 662.9625500168418,
+   "objetivo": 620.5198999663166,
+   "comision_entrada": 2.4588423394318393,
+   "abierta_en": "2026-10-22T20:04:44+00:00",
+   "revisada_hasta": 1792699484000,
+   "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   }
  ],
  "predicciones": [],
@@ -284,10 +284,30 @@
    "cerrada_en": "2026-10-22T16:51:15+00:00",
    "pnl": 176.7,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 15,
+   "simbolo": "xyz:TSLA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 378.88,
+   "nocional": 5883.04,
+   "apalancamiento": 3,
+   "margen": 1961.01,
+   "stop": 371.9225899973699,
+   "objetivo": 392.7948200052602,
+   "comision_entrada": 2.941519810999267,
+   "abierta_en": "2026-10-22T16:51:15+00:00",
+   "revisada_hasta": 1792699200000,
+   "motivo": "tendencia long con momento (fuerza 0.3 ATR)",
+   "precio_salida": 374.465,
+   "cerrada_en": "2026-10-22T20:04:44+00:00",
+   "pnl": -74.4,
+   "razon_cierre": "tendencia rota"
   }
  ],
- "comisiones_pagadas": 106.5909071007182,
- "ultima_ejecucion": "2026-10-22T19:33:11+00:00",
+ "comisiones_pagadas": 111.9569925957666,
+ "ultima_ejecucion": "2026-10-22T20:04:44+00:00",
  "ultimo_resumen": "2026-10-21",
  "pausado": false,
  "historial_patrimonio": [
@@ -534,7 +554,11 @@
   [
    "2026-10-22T19:33:11+00:00",
    10733.61
+  ],
+  [
+   "2026-10-22T20:04:44+00:00",
+   10720.66
   ]
  ],
- "siguiente_id": 16
+ "siguiente_id": 17
 }

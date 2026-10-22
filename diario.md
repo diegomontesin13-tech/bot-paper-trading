@@ -137,3 +137,11 @@
 - 2026-10-22 18:11 UTC · sin operaciones · patrimonio $10.809,26 (+8.09%)
 - 2026-10-22 18:58 UTC · sin operaciones · patrimonio $10.719,36 (+7.19%)
 - 2026-10-22 19:33 UTC · sin operaciones · patrimonio $10.733,61 (+7.34%)
+
+## 2026-10-22 20:04 UTC · patrimonio $10.720,66 (+7.21%)
+
+- Cerrado long xyz:TSLA a 374.465 (tendencia rota): -$74,40
+- Abierto short xyz:META 3x $4.917,68 a 648.815 (stop 662.9626, obj. 620.5199)
+- Abiertas: long xyz:AAPL, short xyz:KR200, short HYPE, long xyz:BRENTOIL, short xyz:META
+- Sin señal: BTC, XRP, BNB, kPEPE, kBONK, WIF, PENGU, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:GOLD, xyz:SILVER
+
