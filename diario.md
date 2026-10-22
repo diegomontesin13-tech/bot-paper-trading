@@ -87,3 +87,12 @@
 - 2026-10-22 09:52 UTC · sin operaciones · patrimonio $9.857,80 (-1.42%)
 - 2026-10-22 10:32 UTC · sin operaciones · patrimonio $9.797,18 (-2.03%)
 - 2026-10-22 11:06 UTC · sin operaciones · patrimonio $9.919,94 (-0.80%)
+
+## 2026-10-22 11:36 UTC · patrimonio $10.044,80 (+0.45%)
+
+- Cerrado short xyz:NATGAS a 3.1348 (objetivo): +$183,39
+- Abierto short xyz:KR200 3x $6.609,18 a 862.72 (stop 875.8396, obj. 836.4808)
+- Abierto short xyz:META 3x $5.237,35 a 677.455 (stop 690.4514, obj. 651.4622)
+- Abiertas: short xyz:GOLD, long xyz:AAPL, long xyz:BRENTOIL, short xyz:KR200, short xyz:META
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+
