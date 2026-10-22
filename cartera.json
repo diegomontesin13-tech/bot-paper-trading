@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 50.18290678099995,
+ "efectivo": 395.0906985237816,
  "posiciones": [
   {
    "id": 7,
@@ -15,7 +15,7 @@
    "objetivo": 4038.9934000000003,
    "comision_entrada": 8.027438047228667,
    "abierta_en": "2026-10-22T05:17:53+00:00",
-   "revisada_hasta": 1792680900000,
+   "revisada_hasta": 1792683300000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 349.36176,
    "comision_entrada": 0.04066426852914992,
    "abierta_en": "2026-10-22T07:05:52+00:00",
-   "revisada_hasta": 1792680900000,
+   "revisada_hasta": 1792683300000,
    "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
   },
   {
@@ -47,23 +47,23 @@
    "objetivo": 836.480843421561,
    "comision_entrada": 3.3045899488956603,
    "abierta_en": "2026-10-22T11:36:22+00:00",
-   "revisada_hasta": 1792680900000,
+   "revisada_hasta": 1792683000000,
    "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
   },
   {
-   "id": 12,
-   "simbolo": "xyz:AMD",
-   "mercado": "accion",
+   "id": 13,
+   "simbolo": "HYPE",
+   "mercado": "cripto",
    "lado": "short",
-   "precio_entrada": 525.89,
-   "nocional": 7552.65,
+   "precio_entrada": 77.699,
+   "nocional": 7110.24,
    "apalancamiento": 3,
-   "margen": 2517.55,
-   "stop": 533.015469216355,
-   "objetivo": 511.63906156728996,
-   "comision_entrada": 3.776327464947656,
-   "abierta_en": "2026-10-22T13:43:38+00:00",
-   "revisada_hasta": 1792680900000,
+   "margen": 2370.08,
+   "stop": 78.85609011953699,
+   "objetivo": 75.384819760926,
+   "comision_entrada": 3.555120206249667,
+   "abierta_en": "2026-10-22T15:35:03+00:00",
+   "revisada_hasta": 1792683303000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   }
  ],
@@ -228,10 +228,30 @@
    "cerrada_en": "2026-10-22T14:55:18+00:00",
    "pnl": -0.7,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 12,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 525.89,
+   "nocional": 7552.65,
+   "apalancamiento": 3,
+   "margen": 2517.55,
+   "stop": 533.015469216355,
+   "objetivo": 511.63906156728996,
+   "comision_entrada": 3.776327464947656,
+   "abierta_en": "2026-10-22T13:43:38+00:00",
+   "revisada_hasta": 1792683300000,
+   "motivo": "tendencia short con momento (fuerza 0.8 ATR)",
+   "precio_salida": 511.63906156728996,
+   "cerrada_en": "2026-10-22T15:35:03+00:00",
+   "pnl": 197.22,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 82.7960596169545,
- "ultima_ejecucion": "2026-10-22T14:55:18+00:00",
+ "comisiones_pagadas": 90.02517130273999,
+ "ultima_ejecucion": "2026-10-22T15:35:03+00:00",
  "ultimo_resumen": "2026-10-21",
  "pausado": false,
  "historial_patrimonio": [
@@ -446,7 +466,11 @@
   [
    "2026-10-22T14:55:18+00:00",
    10527.54
+  ],
+  [
+   "2026-10-22T15:35:03+00:00",
+   10584.98
   ]
  ],
- "siguiente_id": 13
+ "siguiente_id": 14
 }

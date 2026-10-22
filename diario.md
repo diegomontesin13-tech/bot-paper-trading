@@ -114,3 +114,11 @@
 - Abiertas: short xyz:GOLD, long xyz:AAPL, short xyz:KR200, short xyz:AMD
 - Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:SILVER, xyz:CL, xyz:NATGAS
 
+
+## 2026-10-22 15:35 UTC · patrimonio $10.584,98 (+5.85%)
+
+- Cerrado short xyz:AMD a 511.6391 (objetivo): +$197,22
+- Abierto short HYPE 3x $7.110,24 a 77.699 (stop 78.8561, obj. 75.3848)
+- Abiertas: short xyz:GOLD, long xyz:AAPL, short xyz:KR200, short HYPE
+- Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
