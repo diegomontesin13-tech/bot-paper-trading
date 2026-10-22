@@ -123,3 +123,12 @@
 - Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
 - 2026-10-22 16:08 UTC · sin operaciones · patrimonio $10.556,53 (+5.57%)
+
+## 2026-10-22 16:51 UTC · patrimonio $10.800,14 (+8.00%)
+
+- Cerrado short xyz:GOLD a 4038.99 (objetivo): +$176,70
+- Abierto long xyz:BRENTOIL 3x $11.386,21 a 107.785 (stop 106.7618, obj. 109.8314)
+- Abierto long xyz:TSLA 3x $5.883,04 a 378.88 (stop 371.9226, obj. 392.7948)
+- Abiertas: long xyz:AAPL, short xyz:KR200, short HYPE, long xyz:BRENTOIL, long xyz:TSLA
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:NATGAS, xyz:COPPER
+
