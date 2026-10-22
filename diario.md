@@ -146,3 +146,11 @@
 - Sin señal: BTC, XRP, BNB, kPEPE, kBONK, WIF, PENGU, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:GOLD, xyz:SILVER
 
 - 2026-10-22 20:32 UTC · sin operaciones · patrimonio $10.715,78 (+7.16%)
+
+## 2026-10-22 21:04 UTC · patrimonio $10.788,94 (+7.89%)
+
+- Cerrado short xyz:KR200 a 836.4808 (objetivo): +$194,51
+- Abierto short xyz:COIN 3x $7.734,50 a 168.74 (stop 171.0946, obj. 164.0308)
+- Abiertas: long xyz:AAPL, short HYPE, long xyz:BRENTOIL, short xyz:META, short xyz:COIN
+- Sin señal: BTC, ETH, XRP, BNB, kPEPE, kBONK, WIF, PENGU, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:SILVER
+
