@@ -145,3 +145,4 @@
 - Abiertas: long xyz:AAPL, short xyz:KR200, short HYPE, long xyz:BRENTOIL, short xyz:META
 - Sin señal: BTC, XRP, BNB, kPEPE, kBONK, WIF, PENGU, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:GOLD, xyz:SILVER
 
+- 2026-10-22 20:32 UTC · sin operaciones · patrimonio $10.715,78 (+7.16%)
