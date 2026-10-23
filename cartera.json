@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 90.8979451038006,
+ "efectivo": 1074.7434061052677,
  "posiciones": [
-  {
-   "id": 8,
-   "simbolo": "xyz:AAPL",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 343.86,
-   "nocional": 81.33,
-   "apalancamiento": 3,
-   "margen": 27.11,
-   "stop": 341.10912,
-   "objetivo": 349.36176,
-   "comision_entrada": 0.04066426852914992,
-   "abierta_en": "2026-10-22T07:05:52+00:00",
-   "revisada_hasta": 1792761300000,
-   "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
-  },
   {
    "id": 13,
    "simbolo": "HYPE",
@@ -31,7 +15,7 @@
    "objetivo": 75.384819760926,
    "comision_entrada": 3.555120206249667,
    "abierta_en": "2026-10-22T15:35:03+00:00",
-   "revisada_hasta": 1792761300000,
+   "revisada_hasta": 1792763700000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   },
   {
@@ -47,7 +31,7 @@
    "objetivo": 620.5198999663166,
    "comision_entrada": 2.4588423394318393,
    "abierta_en": "2026-10-22T20:04:44+00:00",
-   "revisada_hasta": 1792761300000,
+   "revisada_hasta": 1792763700000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   },
   {
@@ -63,24 +47,24 @@
    "objetivo": 495.69479804536184,
    "comision_entrada": 3.23014555674014,
    "abierta_en": "2026-10-23T02:07:51+00:00",
-   "revisada_hasta": 1792761300000,
+   "revisada_hasta": 1792763700000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
-   "id": 19,
-   "simbolo": "xyz:AMZN",
-   "mercado": "accion",
+   "id": 21,
+   "simbolo": "xyz:SILVER",
+   "mercado": "materia_prima",
    "lado": "short",
-   "precio_entrada": 250.67,
-   "nocional": 13189.94,
+   "precio_entrada": 54.1435,
+   "nocional": 10920.79,
    "apalancamiento": 3,
-   "margen": 4396.65,
-   "stop": 252.67535999999998,
-   "objetivo": 246.65928,
-   "comision_entrada": 6.594969062774586,
-   "abierta_en": "2026-10-23T08:55:34+00:00",
-   "revisada_hasta": 1792761300000,
-   "motivo": "tendencia short con momento (fuerza 3.0 ATR)"
+   "margen": 3640.26,
+   "stop": 54.68622633236366,
+   "objetivo": 53.05804733527268,
+   "comision_entrada": 5.460395545998801,
+   "abierta_en": "2026-10-23T13:56:02+00:00",
+   "revisada_hasta": 1792763762000,
+   "motivo": "tendencia short con momento (fuerza 2.6 ATR)"
   }
  ],
  "predicciones": [
@@ -380,10 +364,50 @@
    "cerrada_en": "2026-10-23T08:55:34+00:00",
    "pnl": -115.72,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 8,
+   "simbolo": "xyz:AAPL",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 343.86,
+   "nocional": 81.33,
+   "apalancamiento": 3,
+   "margen": 27.11,
+   "stop": 341.10912,
+   "objetivo": 349.36176,
+   "comision_entrada": 0.04066426852914992,
+   "abierta_en": "2026-10-22T07:05:52+00:00",
+   "revisada_hasta": 1792763700000,
+   "motivo": "tendencia long con momento (fuerza 1.4 ATR)",
+   "precio_salida": 349.36176,
+   "cerrada_en": "2026-10-23T13:56:02+00:00",
+   "pnl": 1.22,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 19,
+   "simbolo": "xyz:AMZN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 250.67,
+   "nocional": 13189.94,
+   "apalancamiento": 3,
+   "margen": 4396.65,
+   "stop": 252.67535999999998,
+   "objetivo": 246.65928,
+   "comision_entrada": 6.594969062774586,
+   "abierta_en": "2026-10-23T08:55:34+00:00",
+   "revisada_hasta": 1792763700000,
+   "motivo": "tendencia short con momento (fuerza 3.0 ATR)",
+   "precio_salida": 246.65928,
+   "cerrada_en": "2026-10-23T13:56:02+00:00",
+   "pnl": 197.95,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 138.6030297928293,
- "ultima_ejecucion": "2026-10-23T13:17:36+00:00",
+ "comisiones_pagadas": 150.59419145882808,
+ "ultima_ejecucion": "2026-10-23T13:56:02+00:00",
  "ultimo_resumen": "2026-10-22",
  "pausado": false,
  "historial_patrimonio": [
@@ -758,7 +782,11 @@
   [
    "2026-10-23T13:17:36+00:00",
    10966.93
+  ],
+  [
+   "2026-10-23T13:56:02+00:00",
+   10941.37
   ]
  ],
- "siguiente_id": 21
+ "siguiente_id": 22
 }
