@@ -246,3 +246,4 @@
 - Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, long xyz:MSTR, SP500 <= 7665 (23-10 20:00 UTC), COIN <= 170 (23-10 20:00 UTC)
 - Sin señal: ETH, SOL, HYPE, XRP, DOGE, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:CL, xyz:NATGAS, xyz:COPPER
 
+- 2026-10-23 17:46 UTC · sin operaciones · patrimonio $10.786,75 (+7.87%)
