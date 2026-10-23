@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 332.96956817511,
+ "efectivo": 481.19908187239196,
  "posiciones": [
   {
    "id": 16,
@@ -15,7 +15,7 @@
    "objetivo": 620.5198999663166,
    "comision_entrada": 2.4588423394318393,
    "abierta_en": "2026-10-22T20:04:44+00:00",
-   "revisada_hasta": 1792785300000,
+   "revisada_hasta": 1792787100000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 245.02092,
    "comision_entrada": 5.545061758196609,
    "abierta_en": "2026-10-23T15:12:20+00:00",
-   "revisada_hasta": 1792785300000,
+   "revisada_hasta": 1792787100000,
    "motivo": "tendencia short con momento (fuerza 2.7 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 160.91427748327163,
    "comision_entrada": 3.518566570295785,
    "abierta_en": "2026-10-23T15:53:31+00:00",
-   "revisada_hasta": 1792785300000,
+   "revisada_hasta": 1792787100000,
    "motivo": "tendencia short con momento (fuerza 0.7 ATR)"
   },
   {
@@ -63,42 +63,11 @@
    "objetivo": 75.12302550137206,
    "comision_entrada": 3.804034083898,
    "abierta_en": "2026-10-23T19:32:16+00:00",
-   "revisada_hasta": 1792785300000,
+   "revisada_hasta": 1792787100000,
    "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
   }
  ],
- "predicciones": [
-  {
-   "id": 20,
-   "outcome": 13370,
-   "lado_id": 1,
-   "titulo": "SP500 <= 7665 (23-10 20:00 UTC)",
-   "subyacente": "xyz:SP500",
-   "umbral": 7665.0,
-   "vence": "2026-10-23T20:00:00+00:00",
-   "precio_entrada": 0.65905,
-   "importe": 54.36,
-   "contratos": 82.48653925381812,
-   "comision_entrada": 0.027181376847614416,
-   "abierta_en": "2026-10-23T11:05:09+00:00",
-   "motivo": "modelo 76% vs mercado 66%"
-  },
-  {
-   "id": 23,
-   "outcome": 16203,
-   "lado_id": 1,
-   "titulo": "COIN <= 170 (23-10 20:00 UTC)",
-   "subyacente": "xyz:COIN",
-   "umbral": 170.0,
-   "vence": "2026-10-23T20:00:00+00:00",
-   "precio_entrada": 0.84384,
-   "importe": 55.48,
-   "contratos": 65.7429744434638,
-   "comision_entrada": 0.027738275777186246,
-   "abierta_en": "2026-10-23T14:35:54+00:00",
-   "motivo": "modelo 97% vs mercado 84%"
-  }
- ],
+ "predicciones": [],
  "cerradas": [
   {
    "id": 2,
@@ -539,10 +508,48 @@
    "cerrada_en": "2026-10-23T19:32:16+00:00",
    "pnl": -39.59,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 20,
+   "outcome": 13370,
+   "lado_id": 1,
+   "titulo": "SP500 <= 7665 (23-10 20:00 UTC)",
+   "subyacente": "xyz:SP500",
+   "umbral": 7665.0,
+   "vence": "2026-10-23T20:00:00+00:00",
+   "precio_entrada": 0.65905,
+   "importe": 54.36,
+   "contratos": 82.48653925381812,
+   "comision_entrada": 0.027181376847614416,
+   "abierta_en": "2026-10-23T11:05:09+00:00",
+   "motivo": "modelo 76% vs mercado 66%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-10-23T20:28:34+00:00",
+   "pnl": 28.1,
+   "razon_cierre": "liquidada (7620.6 vs 7665)"
+  },
+  {
+   "id": 23,
+   "outcome": 16203,
+   "lado_id": 1,
+   "titulo": "COIN <= 170 (23-10 20:00 UTC)",
+   "subyacente": "xyz:COIN",
+   "umbral": 170.0,
+   "vence": "2026-10-23T20:00:00+00:00",
+   "precio_entrada": 0.84384,
+   "importe": 55.48,
+   "contratos": 65.7429744434638,
+   "comision_entrada": 0.027738275777186246,
+   "abierta_en": "2026-10-23T14:35:54+00:00",
+   "motivo": "modelo 97% vs mercado 84%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-10-23T20:28:34+00:00",
+   "pnl": 10.24,
+   "razon_cierre": "liquidada (164.51 vs 170)"
   }
  ],
  "comisiones_pagadas": 194.61705426681758,
- "ultima_ejecucion": "2026-10-23T19:58:40+00:00",
+ "ultima_ejecucion": "2026-10-23T20:28:34+00:00",
  "ultimo_resumen": "2026-10-22",
  "pausado": false,
  "historial_patrimonio": [
@@ -961,6 +968,10 @@
   [
    "2026-10-23T19:58:40+00:00",
    10805.09
+  ],
+  [
+   "2026-10-23T20:28:34+00:00",
+   10833.61
   ]
  ],
  "siguiente_id": 29

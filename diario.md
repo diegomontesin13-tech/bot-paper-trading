@@ -265,3 +265,11 @@
 - Sin señal: BNB, kPEPE, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:JP225, xyz:KR200, xyz:JPY, xyz:CL, xyz:COPPER
 
 - 2026-10-23 19:58 UTC · sin operaciones · patrimonio $10.805,09 (+8.05%)
+
+## 2026-10-23 20:28 UTC · patrimonio $10.833,61 (+8.34%)
+
+- Predicción SP500 <= 7665 (23-10 20:00 UTC): GANADA +$28,10
+- Predicción COIN <= 170 (23-10 20:00 UTC): GANADA +$10,24
+- Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, short HYPE
+- Sin señal: BNB, kPEPE, WIF, PENGU, TRUMP, xyz:TSLA, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:JP225, xyz:KR200, xyz:COPPER
+
