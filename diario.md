@@ -212,3 +212,12 @@
 - Abiertas: short HYPE, short xyz:META, short xyz:AMD, short xyz:SILVER, SP500 <= 7665 (23-10 20:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kPEPE, kBONK, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:AMZN, xyz:PLTR, xyz:KR200, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-10-23 14:35 UTC · patrimonio $11.094,07 (+10.94%)
+
+- Cerrado short xyz:SILVER a 53.058 (objetivo): +$208,13
+- Abierto short xyz:SILVER 3x $9.618,63 a 53.5205 (stop 54.1381, obj. 52.2852)
+- Apuesta COIN <= 170 (23-10 20:00 UTC) $55,48 a 84% (modelo 97%)
+- Abiertas: short HYPE, short xyz:META, short xyz:AMD, short xyz:SILVER, SP500 <= 7665 (23-10 20:00 UTC), COIN <= 170 (23-10 20:00 UTC)
+- Sin señal: BTC, ETH, SOL, XRP, DOGE, kSHIB, FARTCOIN, xyz:TSLA, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:KR200, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
