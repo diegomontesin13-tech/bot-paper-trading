@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 2082.2081198481637,
+ "efectivo": 145.28788017587704,
  "posiciones": [
   {
    "id": 8,
@@ -15,7 +15,7 @@
    "objetivo": 349.36176,
    "comision_entrada": 0.04066426852914992,
    "abierta_en": "2026-10-22T07:05:52+00:00",
-   "revisada_hasta": 1792743300000,
+   "revisada_hasta": 1792745400000,
    "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 75.384819760926,
    "comision_entrada": 3.555120206249667,
    "abierta_en": "2026-10-22T15:35:03+00:00",
-   "revisada_hasta": 1792743300000,
+   "revisada_hasta": 1792745700000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   },
   {
@@ -47,24 +47,8 @@
    "objetivo": 620.5198999663166,
    "comision_entrada": 2.4588423394318393,
    "abierta_en": "2026-10-22T20:04:44+00:00",
-   "revisada_hasta": 1792743300000,
+   "revisada_hasta": 1792745700000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
-  },
-  {
-   "id": 17,
-   "simbolo": "xyz:COIN",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 168.74,
-   "nocional": 7734.5,
-   "apalancamiento": 3,
-   "margen": 2578.17,
-   "stop": 171.09461545146058,
-   "objetivo": 164.03076909707883,
-   "comision_entrada": 3.867251703961572,
-   "abierta_en": "2026-10-22T21:04:23+00:00",
-   "revisada_hasta": 1792743300000,
-   "motivo": "tendencia short con momento (fuerza 0.9 ATR)"
   },
   {
    "id": 18,
@@ -79,8 +63,24 @@
    "objetivo": 495.69479804536184,
    "comision_entrada": 3.23014555674014,
    "abierta_en": "2026-10-23T02:07:51+00:00",
-   "revisada_hasta": 1792743300000,
+   "revisada_hasta": 1792745700000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
+  },
+  {
+   "id": 19,
+   "simbolo": "xyz:AMZN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 250.67,
+   "nocional": 13189.94,
+   "apalancamiento": 3,
+   "margen": 4396.65,
+   "stop": 252.67535999999998,
+   "objetivo": 246.65928,
+   "comision_entrada": 6.594969062774586,
+   "abierta_en": "2026-10-23T08:55:34+00:00",
+   "revisada_hasta": 1792745734000,
+   "motivo": "tendencia short con momento (fuerza 3.0 ATR)"
   }
  ],
  "predicciones": [],
@@ -344,10 +344,30 @@
    "cerrada_en": "2026-10-23T02:07:51+00:00",
    "pnl": 204.68,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 17,
+   "simbolo": "xyz:COIN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 168.74,
+   "nocional": 7734.5,
+   "apalancamiento": 3,
+   "margen": 2578.17,
+   "stop": 171.09461545146058,
+   "objetivo": 164.03076909707883,
+   "comision_entrada": 3.867251703961572,
+   "abierta_en": "2026-10-22T21:04:23+00:00",
+   "revisada_hasta": 1792745700000,
+   "motivo": "tendencia short con momento (fuerza 0.9 ATR)",
+   "precio_salida": 171.09461545146058,
+   "cerrada_en": "2026-10-23T08:55:34+00:00",
+   "pnl": -115.72,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 128.0596653458309,
- "ultima_ejecucion": "2026-10-23T08:19:18+00:00",
+ "comisiones_pagadas": 138.57584841598168,
+ "ultima_ejecucion": "2026-10-23T08:55:34+00:00",
  "ultimo_resumen": "2026-10-22",
  "pausado": false,
  "historial_patrimonio": [
@@ -686,7 +706,11 @@
   [
    "2026-10-23T08:19:18+00:00",
    10621.34
+  ],
+  [
+   "2026-10-23T08:55:34+00:00",
+   10579.9
   ]
  ],
- "siguiente_id": 19
+ "siguiente_id": 20
 }

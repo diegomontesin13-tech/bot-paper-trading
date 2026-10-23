@@ -181,3 +181,11 @@
 - 2026-10-23 07:03 UTC · sin operaciones · patrimonio $10.715,93 (+7.16%)
 - 2026-10-23 07:42 UTC · sin operaciones · patrimonio $10.690,68 (+6.91%)
 - 2026-10-23 08:19 UTC · sin operaciones · patrimonio $10.621,34 (+6.21%)
+
+## 2026-10-23 08:55 UTC · patrimonio $10.579,90 (+5.80%)
+
+- Cerrado short xyz:COIN a 171.0946 (stop-loss): -$115,72
+- Abierto short xyz:AMZN 3x $13.189,94 a 250.67 (stop 252.6754, obj. 246.6593)
+- Abiertas: long xyz:AAPL, short HYPE, short xyz:META, short xyz:AMD, short xyz:AMZN
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kPEPE, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:JP225, xyz:KR200, xyz:COPPER
+
