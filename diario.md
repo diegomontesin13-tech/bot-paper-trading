@@ -192,3 +192,10 @@
 - 2026-10-23 09:32 UTC · sin operaciones · patrimonio $10.743,24 (+7.43%)
 - 2026-10-23 10:06 UTC · sin operaciones · patrimonio $10.776,72 (+7.77%)
 - 2026-10-23 10:34 UTC · sin operaciones · patrimonio $10.780,90 (+7.81%)
+
+## 2026-10-23 11:05 UTC · patrimonio $10.870,02 (+8.70%)
+
+- Apuesta SP500 <= 7665 (23-10 20:00 UTC) $54,36 a 66% (modelo 76%)
+- Abiertas: long xyz:AAPL, short HYPE, short xyz:META, short xyz:AMD, short xyz:AMZN, SP500 <= 7665 (23-10 20:00 UTC)
+- Sin señal: XRP, DOGE, kPEPE, FARTCOIN, TRUMP, xyz:TSLA, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:KR200, xyz:COPPER
+
