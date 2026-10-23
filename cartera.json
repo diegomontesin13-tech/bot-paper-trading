@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1395.7878209365795,
+ "efectivo": 1439.777212091879,
  "posiciones": [
   {
    "id": 16,
@@ -15,7 +15,7 @@
    "objetivo": 620.5198999663166,
    "comision_entrada": 2.4588423394318393,
    "abierta_en": "2026-10-22T20:04:44+00:00",
-   "revisada_hasta": 1792779000000,
+   "revisada_hasta": 1792781700000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 245.02092,
    "comision_entrada": 5.545061758196609,
    "abierta_en": "2026-10-23T15:12:20+00:00",
-   "revisada_hasta": 1792779000000,
+   "revisada_hasta": 1792781700000,
    "motivo": "tendencia short con momento (fuerza 2.7 ATR)"
   },
   {
@@ -47,23 +47,23 @@
    "objetivo": 160.91427748327163,
    "comision_entrada": 3.518566570295785,
    "abierta_en": "2026-10-23T15:53:31+00:00",
-   "revisada_hasta": 1792779000000,
+   "revisada_hasta": 1792781700000,
    "motivo": "tendencia short con momento (fuerza 0.7 ATR)"
   },
   {
-   "id": 26,
+   "id": 27,
    "simbolo": "xyz:MSTR",
    "mercado": "accion",
    "lado": "long",
-   "precio_entrada": 151.095,
-   "nocional": 4881.59,
+   "precio_entrada": 147.905,
+   "nocional": 4411.19,
    "apalancamiento": 3,
-   "margen": 1627.2,
-   "stop": 147.745350701279,
-   "objetivo": 157.794298597442,
-   "comision_entrada": 2.440794052290384,
-   "abierta_en": "2026-10-23T17:09:30+00:00",
-   "revisada_hasta": 1792778700000,
+   "margen": 1470.4,
+   "stop": 144.28101514303464,
+   "objetivo": 155.1529697139307,
+   "comision_entrada": 2.205596363818034,
+   "abierta_en": "2026-10-23T18:57:04+00:00",
+   "revisada_hasta": 1792781824000,
    "motivo": "tendencia long con momento (fuerza 0.4 ATR)"
   }
  ],
@@ -499,10 +499,30 @@
    "cerrada_en": "2026-10-23T17:09:30+00:00",
    "pnl": -90.11,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 26,
+   "simbolo": "xyz:MSTR",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 151.095,
+   "nocional": 4881.59,
+   "apalancamiento": 3,
+   "margen": 1627.2,
+   "stop": 147.745350701279,
+   "objetivo": 157.794298597442,
+   "comision_entrada": 2.440794052290384,
+   "abierta_en": "2026-10-23T17:09:30+00:00",
+   "revisada_hasta": 1792781700000,
+   "motivo": "tendencia long con momento (fuerza 0.4 ATR)",
+   "precio_salida": 147.745350701279,
+   "cerrada_en": "2026-10-23T18:57:04+00:00",
+   "pnl": -113.05,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 184.0327406394299,
- "ultima_ejecucion": "2026-10-23T18:10:14+00:00",
+ "comisiones_pagadas": 188.62502162725886,
+ "ultima_ejecucion": "2026-10-23T18:57:04+00:00",
  "ultimo_resumen": "2026-10-22",
  "pausado": false,
  "historial_patrimonio": [
@@ -909,7 +929,11 @@
   [
    "2026-10-23T18:10:14+00:00",
    10770.33
+  ],
+  [
+   "2026-10-23T18:57:04+00:00",
+   10806.15
   ]
  ],
- "siguiente_id": 27
+ "siguiente_id": 28
 }

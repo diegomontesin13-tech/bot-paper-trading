@@ -248,3 +248,11 @@
 
 - 2026-10-23 17:46 UTC · sin operaciones · patrimonio $10.786,75 (+7.87%)
 - 2026-10-23 18:10 UTC · sin operaciones · patrimonio $10.770,33 (+7.70%)
+
+## 2026-10-23 18:57 UTC · patrimonio $10.806,15 (+8.06%)
+
+- Cerrado long xyz:MSTR a 147.7454 (stop-loss): -$113,05
+- Abierto long xyz:MSTR 3x $4.411,19 a 147.905 (stop 144.281, obj. 155.153)
+- Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, long xyz:MSTR, SP500 <= 7665 (23-10 20:00 UTC), COIN <= 170 (23-10 20:00 UTC)
+- Sin señal: ETH, HYPE, kPEPE, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:JP225, xyz:KR200, xyz:JPY, xyz:CL, xyz:COPPER
+
