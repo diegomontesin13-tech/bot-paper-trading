@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 481.19908187239196,
+ "efectivo": 426.33150256304043,
  "posiciones": [
   {
    "id": 16,
@@ -15,7 +15,7 @@
    "objetivo": 620.5198999663166,
    "comision_entrada": 2.4588423394318393,
    "abierta_en": "2026-10-22T20:04:44+00:00",
-   "revisada_hasta": 1792794300000,
+   "revisada_hasta": 1792796100000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 245.02092,
    "comision_entrada": 5.545061758196609,
    "abierta_en": "2026-10-23T15:12:20+00:00",
-   "revisada_hasta": 1792794300000,
+   "revisada_hasta": 1792796100000,
    "motivo": "tendencia short con momento (fuerza 2.7 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 160.91427748327163,
    "comision_entrada": 3.518566570295785,
    "abierta_en": "2026-10-23T15:53:31+00:00",
-   "revisada_hasta": 1792794300000,
+   "revisada_hasta": 1792796100000,
    "motivo": "tendencia short con momento (fuerza 0.7 ATR)"
   },
   {
@@ -63,11 +63,27 @@
    "objetivo": 75.12302550137206,
    "comision_entrada": 3.804034083898,
    "abierta_en": "2026-10-23T19:32:16+00:00",
-   "revisada_hasta": 1792794300000,
+   "revisada_hasta": 1792796100000,
    "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
   }
  ],
- "predicciones": [],
+ "predicciones": [
+  {
+   "id": 29,
+   "outcome": 16377,
+   "lado_id": 0,
+   "titulo": "SILVER > 53.927 (24-10 21:00 UTC)",
+   "subyacente": "xyz:SILVER",
+   "umbral": 53.927,
+   "vence": "2026-10-24T21:00:00+00:00",
+   "precio_entrada": 0.20332,
+   "importe": 54.84,
+   "contratos": 269.7233879093873,
+   "comision_entrada": 0.02742007961486832,
+   "abierta_en": "2026-10-23T22:59:02+00:00",
+   "motivo": "modelo 35% vs mercado 20%"
+  }
+ ],
  "cerradas": [
   {
    "id": 2,
@@ -548,8 +564,8 @@
    "razon_cierre": "liquidada (164.51 vs 170)"
   }
  ],
- "comisiones_pagadas": 194.61705426681758,
- "ultima_ejecucion": "2026-10-23T22:28:12+00:00",
+ "comisiones_pagadas": 194.64447434643245,
+ "ultima_ejecucion": "2026-10-23T22:59:02+00:00",
  "ultimo_resumen": "2026-10-23",
  "pausado": false,
  "historial_patrimonio": [
@@ -988,7 +1004,11 @@
   [
    "2026-10-23T22:28:12+00:00",
    10840.45
+  ],
+  [
+   "2026-10-23T22:59:02+00:00",
+   10962.33
   ]
  ],
- "siguiente_id": 29
+ "siguiente_id": 30
 }

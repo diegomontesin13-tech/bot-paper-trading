@@ -277,3 +277,10 @@
 - 2026-10-23 21:29 UTC · sin operaciones · patrimonio $10.823,55 (+8.24%)
 - 2026-10-23 22:01 UTC · sin operaciones · patrimonio $10.793,12 (+7.93%)
 - 2026-10-23 22:28 UTC · sin operaciones · patrimonio $10.840,45 (+8.40%)
+
+## 2026-10-23 22:59 UTC · patrimonio $10.962,33 (+9.62%)
+
+- Apuesta SILVER > 53.927 (24-10 21:00 UTC) $54,84 a 20% (modelo 35%)
+- Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, short HYPE, SILVER > 53.927 (24-10 21:00 UTC)
+- Sin señal: XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:KR200, xyz:EUR, xyz:CL, xyz:COPPER
+
