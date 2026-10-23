@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 0.7807214226454562,
+ "efectivo": 741.8951144002795,
  "posiciones": [
   {
    "id": 13,
@@ -15,7 +15,7 @@
    "objetivo": 75.384819760926,
    "comision_entrada": 3.555120206249667,
    "abierta_en": "2026-10-22T15:35:03+00:00",
-   "revisada_hasta": 1792768200000,
+   "revisada_hasta": 1792770600000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   },
   {
@@ -31,24 +31,8 @@
    "objetivo": 620.5198999663166,
    "comision_entrada": 2.4588423394318393,
    "abierta_en": "2026-10-22T20:04:44+00:00",
-   "revisada_hasta": 1792768200000,
+   "revisada_hasta": 1792770600000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
-  },
-  {
-   "id": 22,
-   "simbolo": "xyz:SILVER",
-   "mercado": "materia_prima",
-   "lado": "short",
-   "precio_entrada": 53.5205,
-   "nocional": 9618.63,
-   "apalancamiento": 3,
-   "margen": 3206.21,
-   "stop": 54.13813874347043,
-   "objetivo": 52.285222513059146,
-   "comision_entrada": 4.809316113128891,
-   "abierta_en": "2026-10-23T14:35:54+00:00",
-   "revisada_hasta": 1792768200000,
-   "motivo": "tendencia short con momento (fuerza 2.3 ATR)"
   },
   {
    "id": 24,
@@ -63,8 +47,24 @@
    "objetivo": 245.02092,
    "comision_entrada": 5.545061758196609,
    "abierta_en": "2026-10-23T15:12:20+00:00",
-   "revisada_hasta": 1792768340000,
+   "revisada_hasta": 1792770600000,
    "motivo": "tendencia short con momento (fuerza 2.7 ATR)"
+  },
+  {
+   "id": 25,
+   "simbolo": "xyz:COIN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 166.05,
+   "nocional": 7037.13,
+   "apalancamiento": 3,
+   "margen": 2345.71,
+   "stop": 168.6178612583642,
+   "objetivo": 160.91427748327163,
+   "comision_entrada": 3.518566570295785,
+   "abierta_en": "2026-10-23T15:53:31+00:00",
+   "revisada_hasta": 1792770811000,
+   "motivo": "tendencia short con momento (fuerza 0.7 ATR)"
   }
  ],
  "predicciones": [
@@ -459,10 +459,30 @@
    "cerrada_en": "2026-10-23T15:12:20+00:00",
    "pnl": -115.69,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 22,
+   "simbolo": "xyz:SILVER",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 53.5205,
+   "nocional": 9618.63,
+   "apalancamiento": 3,
+   "margen": 3206.21,
+   "stop": 54.13813874347043,
+   "objetivo": 52.285222513059146,
+   "comision_entrada": 4.809316113128891,
+   "abierta_en": "2026-10-23T14:35:54+00:00",
+   "revisada_hasta": 1792770600000,
+   "motivo": "tendencia short con momento (fuerza 2.3 ATR)",
+   "precio_salida": 54.13813874347043,
+   "cerrada_en": "2026-10-23T15:53:31+00:00",
+   "pnl": -120.68,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 169.61196749403544,
- "ultima_ejecucion": "2026-10-23T15:12:20+00:00",
+ "comisiones_pagadas": 177.99534965333083,
+ "ultima_ejecucion": "2026-10-23T15:53:31+00:00",
  "ultimo_resumen": "2026-10-22",
  "pausado": false,
  "historial_patrimonio": [
@@ -849,7 +869,11 @@
   [
    "2026-10-23T15:12:20+00:00",
    10906.68
+  ],
+  [
+   "2026-10-23T15:53:31+00:00",
+   10878.97
   ]
  ],
- "siguiente_id": 25
+ "siguiente_id": 26
 }
