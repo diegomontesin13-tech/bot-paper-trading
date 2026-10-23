@@ -189,3 +189,4 @@
 - Abiertas: long xyz:AAPL, short HYPE, short xyz:META, short xyz:AMD, short xyz:AMZN
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kPEPE, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:JP225, xyz:KR200, xyz:COPPER
 
+- 2026-10-23 09:32 UTC · sin operaciones · patrimonio $10.743,24 (+7.43%)
