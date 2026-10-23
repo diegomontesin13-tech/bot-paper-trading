@@ -238,3 +238,11 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kBONK, FARTCOIN, xyz:TSLA, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
 - 2026-10-23 16:34 UTC · sin operaciones · patrimonio $10.820,58 (+8.21%)
+
+## 2026-10-23 17:09 UTC · patrimonio $10.819,63 (+8.20%)
+
+- Cerrado short HYPE a 78.6055 (tendencia rota): -$90,11
+- Abierto long xyz:MSTR 3x $4.881,59 a 151.095 (stop 147.7454, obj. 157.7943)
+- Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, long xyz:MSTR, SP500 <= 7665 (23-10 20:00 UTC), COIN <= 170 (23-10 20:00 UTC)
+- Sin señal: ETH, SOL, HYPE, XRP, DOGE, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:CL, xyz:NATGAS, xyz:COPPER
+
