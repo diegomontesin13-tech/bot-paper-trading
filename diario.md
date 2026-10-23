@@ -256,3 +256,11 @@
 - Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, long xyz:MSTR, SP500 <= 7665 (23-10 20:00 UTC), COIN <= 170 (23-10 20:00 UTC)
 - Sin señal: ETH, HYPE, kPEPE, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:JP225, xyz:KR200, xyz:JPY, xyz:CL, xyz:COPPER
 
+
+## 2026-10-23 19:32 UTC · patrimonio $10.816,95 (+8.17%)
+
+- Cerrado long xyz:MSTR a 146.725 (tendencia rota): -$39,59
+- Abierto short HYPE 3x $7.608,07 a 77.3225 (stop 78.4222, obj. 75.123)
+- Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, short HYPE, SP500 <= 7665 (23-10 20:00 UTC), COIN <= 170 (23-10 20:00 UTC)
+- Sin señal: BNB, kPEPE, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:JP225, xyz:KR200, xyz:JPY, xyz:CL, xyz:COPPER
+
