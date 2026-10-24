@@ -340,3 +340,10 @@
 - Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, SILVER > 53.927 (24-10 21:00 UTC)
 - Sin señal: HYPE, XRP, kPEPE, kBONK, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-10-24 19:24 UTC · patrimonio $10.980,20 (+9.80%)
+
+- Abierto short HYPE 3x $8.006,63 a 75.9225 (stop 76.9641, obj. 73.8394)
+- Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, short HYPE, SILVER > 53.927 (24-10 21:00 UTC)
+- Sin señal: XRP, kPEPE, kBONK, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
