@@ -309,3 +309,10 @@
 - Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, SILVER > 53.927 (24-10 21:00 UTC)
 - Sin señal: SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:PLTR, xyz:MSTR, xyz:JP225, xyz:EUR, xyz:COPPER
 
+
+## 2026-10-24 10:00 UTC · patrimonio $11.115,78 (+11.16%)
+
+- Abierto short HYPE 3x $8.727,16 a 75.2205 (stop 76.179, obj. 73.3036)
+- Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, short HYPE, SILVER > 53.927 (24-10 21:00 UTC)
+- Sin señal: SOL, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:PLTR, xyz:MSTR, xyz:JP225, xyz:EUR, xyz:COPPER
+
