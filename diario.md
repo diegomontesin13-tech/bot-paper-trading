@@ -302,3 +302,10 @@
 - 2026-10-24 08:02 UTC · sin operaciones · patrimonio $10.983,87 (+9.84%)
 - 2026-10-24 08:28 UTC · sin operaciones · patrimonio $11.002,28 (+10.02%)
 - 2026-10-24 09:00 UTC · sin operaciones · patrimonio $11.085,94 (+10.86%)
+
+## 2026-10-24 09:27 UTC · patrimonio $11.125,03 (+11.25%)
+
+- Cerrado short HYPE a 75.123 (objetivo): +$208,92
+- Abiertas: short xyz:META, short xyz:AMZN, short xyz:COIN, SILVER > 53.927 (24-10 21:00 UTC)
+- Sin señal: SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:PLTR, xyz:MSTR, xyz:JP225, xyz:EUR, xyz:COPPER
+
