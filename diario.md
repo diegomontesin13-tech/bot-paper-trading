@@ -348,3 +348,10 @@
 - Sin señal: XRP, kPEPE, kBONK, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
 - 2026-10-24 19:53 UTC · sin operaciones · patrimonio $10.972,11 (+9.72%)
+
+## 2026-10-24 20:23 UTC · patrimonio $10.928,07 (+9.28%)
+
+- Cerrado short xyz:META a 640.785 (más de 48 h abierta): +$55,98
+- Abiertas: short xyz:AMZN, short xyz:COIN, short HYPE, SILVER > 53.927 (24-10 21:00 UTC)
+- Sin señal: HYPE, XRP, kPEPE, kBONK, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
