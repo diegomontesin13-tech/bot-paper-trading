@@ -425,3 +425,10 @@
 - Abiertas: short xyz:COIN, short FARTCOIN, short TRUMP
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, PENGU, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-10-25 16:09 UTC · patrimonio $10.720,57 (+7.21%)
+
+- Cerrado short xyz:COIN a 164.43 (más de 48 h abierta): +$61,65
+- Abiertas: short FARTCOIN, short TRUMP
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, PENGU, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+

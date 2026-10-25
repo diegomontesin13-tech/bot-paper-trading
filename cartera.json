@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1159.1543938448267,
+ "efectivo": 3570.03508313751,
  "posiciones": [
-  {
-   "id": 25,
-   "simbolo": "xyz:COIN",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 166.05,
-   "nocional": 7037.13,
-   "apalancamiento": 3,
-   "margen": 2345.71,
-   "stop": 168.6178612583642,
-   "objetivo": 160.91427748327163,
-   "comision_entrada": 3.518566570295785,
-   "abierta_en": "2026-10-23T15:53:31+00:00",
-   "revisada_hasta": 1792943100000,
-   "motivo": "tendencia short con momento (fuerza 0.7 ATR)"
-  },
   {
    "id": 33,
    "simbolo": "FARTCOIN",
@@ -31,7 +15,7 @@
    "objetivo": 0.11608059999999999,
    "comision_entrada": 1.7995290452160577,
    "abierta_en": "2026-10-25T13:09:47+00:00",
-   "revisada_hasta": 1792943100000,
+   "revisada_hasta": 1792944300000,
    "motivo": "tendencia short con momento (fuerza 2.9 ATR)"
   },
   {
@@ -47,7 +31,7 @@
    "objetivo": 1.56181,
    "comision_entrada": 1.7872789409095988,
    "abierta_en": "2026-10-25T15:46:41+00:00",
-   "revisada_hasta": 1792943201000,
+   "revisada_hasta": 1792944300000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   }
  ],
@@ -669,10 +653,30 @@
    "cerrada_en": "2026-10-25T15:46:41+00:00",
    "pnl": -3.29,
    "razon_cierre": "más de 48 h abierta"
+  },
+  {
+   "id": 25,
+   "simbolo": "xyz:COIN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 166.05,
+   "nocional": 7037.13,
+   "apalancamiento": 3,
+   "margen": 2345.71,
+   "stop": 168.6178612583642,
+   "objetivo": 160.91427748327163,
+   "comision_entrada": 3.518566570295785,
+   "abierta_en": "2026-10-23T15:53:31+00:00",
+   "revisada_hasta": 1792944300000,
+   "motivo": "tendencia short con momento (fuerza 0.7 ATR)",
+   "precio_salida": 164.43,
+   "cerrada_en": "2026-10-25T16:09:51+00:00",
+   "pnl": 61.65,
+   "razon_cierre": "más de 48 h abierta"
   }
  ],
- "comisiones_pagadas": 232.90914330856026,
- "ultima_ejecucion": "2026-10-25T15:46:41+00:00",
+ "comisiones_pagadas": 236.39338084514563,
+ "ultima_ejecucion": "2026-10-25T16:09:51+00:00",
  "ultimo_resumen": "2026-10-24",
  "pausado": false,
  "historial_patrimonio": [
@@ -1431,6 +1435,10 @@
   [
    "2026-10-25T15:46:41+00:00",
    10721.89
+  ],
+  [
+   "2026-10-25T16:09:51+00:00",
+   10720.57
   ]
  ],
  "siguiente_id": 35
