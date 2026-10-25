@@ -405,3 +405,11 @@
 - 2026-10-25 11:25 UTC · sin operaciones · patrimonio $10.884,01 (+8.84%)
 - 2026-10-25 11:57 UTC · sin operaciones · patrimonio $10.803,94 (+8.04%)
 - 2026-10-25 12:30 UTC · sin operaciones · patrimonio $10.851,90 (+8.52%)
+
+## 2026-10-25 13:09 UTC · patrimonio $10.795,38 (+7.95%)
+
+- Cerrado short HYPE a 76.6025 (tendencia rota): -$79,75
+- Abierto short FARTCOIN 1x $3.599,06 a 0.12349 (stop 0.1271947, obj. 0.1160806)
+- Abiertas: short xyz:AMZN, short xyz:COIN, short FARTCOIN
+- Sin señal: HYPE, XRP, BNB, kPEPE, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
