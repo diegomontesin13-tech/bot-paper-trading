@@ -441,3 +441,4 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-10-25 17:43 UTC · sin operaciones · patrimonio $10.650,01 (+6.50%)
+- 2026-10-25 18:06 UTC · sin operaciones · patrimonio $10.640,26 (+6.40%)
