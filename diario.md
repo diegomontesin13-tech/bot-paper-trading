@@ -413,3 +413,4 @@
 - Abiertas: short xyz:AMZN, short xyz:COIN, short FARTCOIN
 - Sin señal: HYPE, XRP, BNB, kPEPE, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-10-25 13:45 UTC · sin operaciones · patrimonio $10.787,83 (+7.88%)
