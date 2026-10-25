@@ -417,3 +417,11 @@
 - 2026-10-25 14:08 UTC · sin operaciones · patrimonio $10.814,07 (+8.14%)
 - 2026-10-25 14:46 UTC · sin operaciones · patrimonio $10.790,49 (+7.90%)
 - 2026-10-25 15:09 UTC · sin operaciones · patrimonio $10.715,78 (+7.16%)
+
+## 2026-10-25 15:46 UTC · patrimonio $10.721,89 (+7.22%)
+
+- Cerrado short xyz:AMZN a 248.83 (más de 48 h abierta): -$3,29
+- Abierto short TRUMP 1x $3.574,56 a 1.6615 (stop 1.7113, obj. 1.5618)
+- Abiertas: short xyz:COIN, short FARTCOIN, short TRUMP
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, PENGU, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
