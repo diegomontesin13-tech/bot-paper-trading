@@ -392,3 +392,10 @@
 - 2026-10-25 08:04 UTC · sin operaciones · patrimonio $10.871,65 (+8.72%)
 - 2026-10-25 08:30 UTC · sin operaciones · patrimonio $10.922,46 (+9.22%)
 - 2026-10-25 09:00 UTC · sin operaciones · patrimonio $10.943,15 (+9.43%)
+
+## 2026-10-25 09:26 UTC · patrimonio $10.944,42 (+9.44%)
+
+- Cerrado long xyz:PLTR a 196.175 (tendencia rota): -$35,61
+- Abiertas: short xyz:AMZN, short xyz:COIN, short HYPE
+- Sin señal: BNB, kPEPE, kBONK, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
