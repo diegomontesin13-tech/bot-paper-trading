@@ -399,3 +399,4 @@
 - Abiertas: short xyz:AMZN, short xyz:COIN, short HYPE
 - Sin señal: BNB, kPEPE, kBONK, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-10-25 09:59 UTC · sin operaciones · patrimonio $10.915,78 (+9.16%)
