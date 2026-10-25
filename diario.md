@@ -433,3 +433,10 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, PENGU, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-10-25 16:48 UTC · sin operaciones · patrimonio $10.722,14 (+7.22%)
+
+## 2026-10-25 17:10 UTC · patrimonio $10.661,91 (+6.62%)
+
+- Abierto short kPEPE 1x $3.554,56 a 0.004392 (stop 0.00452376, obj. 0.00412848)
+- Abiertas: short FARTCOIN, short TRUMP, short kPEPE
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+

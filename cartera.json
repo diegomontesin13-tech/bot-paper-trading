@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 3570.03508313751,
+ "efectivo": 13.69310740148967,
  "posiciones": [
   {
    "id": 33,
@@ -15,7 +15,7 @@
    "objetivo": 0.11608059999999999,
    "comision_entrada": 1.7995290452160577,
    "abierta_en": "2026-10-25T13:09:47+00:00",
-   "revisada_hasta": 1792946700000,
+   "revisada_hasta": 1792948200000,
    "motivo": "tendencia short con momento (fuerza 2.9 ATR)"
   },
   {
@@ -31,8 +31,24 @@
    "objetivo": 1.56181,
    "comision_entrada": 1.7872789409095988,
    "abierta_en": "2026-10-25T15:46:41+00:00",
-   "revisada_hasta": 1792946700000,
+   "revisada_hasta": 1792948200000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
+  },
+  {
+   "id": 35,
+   "simbolo": "kPEPE",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.004392,
+   "nocional": 3554.56,
+   "apalancamiento": 1,
+   "margen": 3554.56,
+   "stop": 0.00452376,
+   "objetivo": 0.0041284799999999995,
+   "comision_entrada": 1.7772823466946628,
+   "abierta_en": "2026-10-25T17:10:58+00:00",
+   "revisada_hasta": 1792948258000,
+   "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   }
  ],
  "predicciones": [],
@@ -675,8 +691,8 @@
    "razon_cierre": "más de 48 h abierta"
   }
  ],
- "comisiones_pagadas": 236.39338084514563,
- "ultima_ejecucion": "2026-10-25T16:48:03+00:00",
+ "comisiones_pagadas": 238.1706631918403,
+ "ultima_ejecucion": "2026-10-25T17:10:58+00:00",
  "ultimo_resumen": "2026-10-24",
  "pausado": false,
  "historial_patrimonio": [
@@ -1443,7 +1459,11 @@
   [
    "2026-10-25T16:48:03+00:00",
    10722.14
+  ],
+  [
+   "2026-10-25T17:10:58+00:00",
+   10661.91
   ]
  ],
- "siguiente_id": 35
+ "siguiente_id": 36
 }
