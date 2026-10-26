@@ -470,3 +470,4 @@
 - Abiertas: short FARTCOIN, short TRUMP, short ETH
 - Sin señal: SOL, HYPE, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+- 2026-10-26 07:09 UTC · sin operaciones · patrimonio $10.741,38 (+7.41%)
