@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 221.3032069113965,
+ "efectivo": 168.11794272167063,
  "posiciones": [
   {
    "id": 33,
@@ -15,7 +15,7 @@
    "objetivo": 0.11608059999999999,
    "comision_entrada": 1.7995290452160577,
    "abierta_en": "2026-10-25T13:09:47+00:00",
-   "revisada_hasta": 1793009700000,
+   "revisada_hasta": 1793012100000,
    "motivo": "tendencia short con momento (fuerza 2.9 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 1.56181,
    "comision_entrada": 1.7872789409095988,
    "abierta_en": "2026-10-25T15:46:41+00:00",
-   "revisada_hasta": 1793009700000,
+   "revisada_hasta": 1793012100000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   },
   {
@@ -47,11 +47,27 @@
    "objetivo": 2271.277970104388,
    "comision_entrada": 4.97507303528058,
    "abierta_en": "2026-10-26T06:07:17+00:00",
-   "revisada_hasta": 1793009700000,
+   "revisada_hasta": 1793012100000,
    "motivo": "tendencia short con momento (fuerza 1.0 ATR)"
   }
  ],
- "predicciones": [],
+ "predicciones": [
+  {
+   "id": 37,
+   "outcome": 16369,
+   "lado_id": 1,
+   "titulo": "MU <= 877 (26-10 13:35 UTC)",
+   "subyacente": "xyz:MU",
+   "umbral": 877.0,
+   "vence": "2026-10-26T13:35:00+00:00",
+   "precio_entrada": 0.06787,
+   "importe": 53.16,
+   "contratos": 783.2427412303258,
+   "comision_entrada": 0.026579342423651106,
+   "abierta_en": "2026-10-26T10:55:52+00:00",
+   "motivo": "modelo 20% vs mercado 7%"
+  }
+ ],
  "cerradas": [
   {
    "id": 2,
@@ -711,8 +727,8 @@
    "razon_cierre": "tendencia rota"
   }
  ],
- "comisiones_pagadas": 244.93475145480758,
- "ultima_ejecucion": "2026-10-26T10:17:09+00:00",
+ "comisiones_pagadas": 244.96133079723123,
+ "ultima_ejecucion": "2026-10-26T10:55:52+00:00",
  "ultimo_resumen": "2026-10-25",
  "pausado": false,
  "historial_patrimonio": [
@@ -1595,7 +1611,11 @@
   [
    "2026-10-26T10:17:09+00:00",
    10633.68
+  ],
+  [
+   "2026-10-26T10:55:52+00:00",
+   10619.77
   ]
  ],
- "siguiente_id": 37
+ "siguiente_id": 38
 }

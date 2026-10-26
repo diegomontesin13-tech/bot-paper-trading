@@ -475,3 +475,10 @@
 - 2026-10-26 08:45 UTC · sin operaciones · patrimonio $10.634,41 (+6.34%)
 - 2026-10-26 09:24 UTC · sin operaciones · patrimonio $10.616,19 (+6.16%)
 - 2026-10-26 10:17 UTC · sin operaciones · patrimonio $10.633,68 (+6.34%)
+
+## 2026-10-26 10:55 UTC · patrimonio $10.619,77 (+6.20%)
+
+- Apuesta MU <= 877 (26-10 13:35 UTC) $53,16 a 7% (modelo 20%)
+- Abiertas: short FARTCOIN, short TRUMP, short ETH, MU <= 877 (26-10 13:35 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, BNB, DOGE, kPEPE, PENGU, FARTCOIN, TRUMP, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
