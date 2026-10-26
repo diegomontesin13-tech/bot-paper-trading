@@ -462,3 +462,11 @@
 - 2026-10-26 04:10 UTC · sin operaciones · patrimonio $10.901,02 (+9.01%)
 - 2026-10-26 04:52 UTC · sin operaciones · patrimonio $10.771,87 (+7.72%)
 - 2026-10-26 05:33 UTC · sin operaciones · patrimonio $10.722,34 (+7.22%)
+
+## 2026-10-26 06:07 UTC · patrimonio $10.705,40 (+7.05%)
+
+- Cerrado short kPEPE a 0.004421 (tendencia rota): -$27,04
+- Abierto short ETH 3x $9.950,15 a 2321.25 (stop 2346.24, obj. 2271.28)
+- Abiertas: short FARTCOIN, short TRUMP, short ETH
+- Sin señal: SOL, HYPE, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
