@@ -482,3 +482,11 @@
 - Abiertas: short FARTCOIN, short TRUMP, short ETH, MU <= 877 (26-10 13:35 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, BNB, DOGE, kPEPE, PENGU, FARTCOIN, TRUMP, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+
+## 2026-10-26 11:39 UTC · patrimonio $10.903,87 (+9.04%)
+
+- Cerrado short TRUMP a 1.6685 (tendencia rota): -$18,64
+- Abierto short kBONK 1x $3.635,23 a 0.003002 (stop 0.00309206, obj. 0.00282188)
+- Abiertas: short FARTCOIN, short ETH, short kBONK, MU <= 877 (26-10 13:35 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kPEPE, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
