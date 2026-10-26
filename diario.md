@@ -507,3 +507,4 @@
 - Abiertas: short ETH, long xyz:COPPER, short xyz:EUR
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-10-26 16:34 UTC · sin operaciones · patrimonio $10.461,34 (+4.61%)
