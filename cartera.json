@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 88.77801322575715,
+ "efectivo": 73.7466624942872,
  "posiciones": [
-  {
-   "id": 33,
-   "simbolo": "FARTCOIN",
-   "mercado": "memecoin",
-   "lado": "short",
-   "precio_entrada": 0.12349,
-   "nocional": 3599.06,
-   "apalancamiento": 1,
-   "margen": 3599.06,
-   "stop": 0.1271947,
-   "objetivo": 0.11608059999999999,
-   "comision_entrada": 1.7995290452160577,
-   "abierta_en": "2026-10-25T13:09:47+00:00",
-   "revisada_hasta": 1793023500000,
-   "motivo": "tendencia short con momento (fuerza 2.9 ATR)"
-  },
   {
    "id": 36,
    "simbolo": "ETH",
@@ -31,24 +15,40 @@
    "objetivo": 2271.277970104388,
    "comision_entrada": 4.97507303528058,
    "abierta_en": "2026-10-26T06:07:17+00:00",
-   "revisada_hasta": 1793023500000,
+   "revisada_hasta": 1793029200000,
    "motivo": "tendencia short con momento (fuerza 1.0 ATR)"
   },
   {
-   "id": 38,
-   "simbolo": "kBONK",
-   "mercado": "memecoin",
+   "id": 39,
+   "simbolo": "xyz:COPPER",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 6.5373,
+   "nocional": 17238.96,
+   "apalancamiento": 3,
+   "margen": 5746.32,
+   "stop": 6.4980762,
+   "objetivo": 6.615747600000001,
+   "comision_entrada": 8.619480065180074,
+   "abierta_en": "2026-10-26T15:44:40+00:00",
+   "revisada_hasta": 1793029480000,
+   "motivo": "tendencia long con momento (fuerza 0.6 ATR)"
+  },
+  {
+   "id": 40,
+   "simbolo": "xyz:EUR",
+   "mercado": "forex",
    "lado": "short",
-   "precio_entrada": 0.003002,
-   "nocional": 3635.23,
-   "apalancamiento": 1,
-   "margen": 3635.23,
-   "stop": 0.0030920599999999998,
-   "objetivo": 0.0028218799999999997,
-   "comision_entrada": 1.8176138341234014,
-   "abierta_en": "2026-10-26T11:39:48+00:00",
-   "revisada_hasta": 1793023500000,
-   "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
+   "precio_entrada": 1.11825,
+   "nocional": 3815.16,
+   "apalancamiento": 3,
+   "margen": 1271.72,
+   "stop": 1.1204865,
+   "objetivo": 1.113777,
+   "comision_entrada": 1.907579832046291,
+   "abierta_en": "2026-10-26T15:44:40+00:00",
+   "revisada_hasta": 1793029480000,
+   "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
   }
  ],
  "predicciones": [],
@@ -748,10 +748,50 @@
    "cerrada_en": "2026-10-26T14:07:35+00:00",
    "pnl": -53.19,
    "razon_cierre": "liquidada (894.42 vs 877)"
+  },
+  {
+   "id": 33,
+   "simbolo": "FARTCOIN",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.12349,
+   "nocional": 3599.06,
+   "apalancamiento": 1,
+   "margen": 3599.06,
+   "stop": 0.1271947,
+   "objetivo": 0.11608059999999999,
+   "comision_entrada": 1.7995290452160577,
+   "abierta_en": "2026-10-25T13:09:47+00:00",
+   "revisada_hasta": 1793029200000,
+   "motivo": "tendencia short con momento (fuerza 2.9 ATR)",
+   "precio_salida": 0.1271947,
+   "cerrada_en": "2026-10-26T15:44:40+00:00",
+   "pnl": -111.62,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 38,
+   "simbolo": "kBONK",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.003002,
+   "nocional": 3635.23,
+   "apalancamiento": 1,
+   "margen": 3635.23,
+   "stop": 0.0030920599999999998,
+   "objetivo": 0.0028218799999999997,
+   "comision_entrada": 1.8176138341234014,
+   "abierta_en": "2026-10-26T11:39:48+00:00",
+   "revisada_hasta": 1793029200000,
+   "motivo": "tendencia short con momento (fuerza 0.8 ATR)",
+   "precio_salida": 0.0030920599999999998,
+   "cerrada_en": "2026-10-26T15:44:40+00:00",
+   "pnl": -112.75,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 248.57375455010273,
- "ultima_ejecucion": "2026-10-26T14:07:35+00:00",
+ "comisiones_pagadas": 262.8264737973291,
+ "ultima_ejecucion": "2026-10-26T15:44:40+00:00",
  "ultimo_resumen": "2026-10-25",
  "pausado": false,
  "historial_patrimonio": [
@@ -1646,7 +1686,11 @@
   [
    "2026-10-26T14:07:35+00:00",
    10710.38
+  ],
+  [
+   "2026-10-26T15:44:40+00:00",
+   10332.85
   ]
  ],
- "siguiente_id": 39
+ "siguiente_id": 41
 }

@@ -497,3 +497,13 @@
 - Abiertas: short FARTCOIN, short ETH, short kBONK
 - Sin señal: HYPE, BNB, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+
+## 2026-10-26 15:44 UTC · patrimonio $10.332,85 (+3.33%)
+
+- Cerrado short FARTCOIN a 0.1271947 (stop-loss): -$111,62
+- Cerrado short kBONK a 0.00309206 (stop-loss): -$112,75
+- Abierto long xyz:COPPER 3x $17.238,96 a 6.5373 (stop 6.4981, obj. 6.6157)
+- Abierto short xyz:EUR 3x $3.815,16 a 1.1182 (stop 1.1205, obj. 1.1138)
+- Abiertas: short ETH, long xyz:COPPER, short xyz:EUR
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
