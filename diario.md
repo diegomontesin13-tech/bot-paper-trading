@@ -490,3 +490,10 @@
 - Abiertas: short FARTCOIN, short ETH, short kBONK, MU <= 877 (26-10 13:35 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kPEPE, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+
+## 2026-10-26 14:07 UTC · patrimonio $10.710,38 (+7.10%)
+
+- Predicción MU <= 877 (26-10 13:35 UTC): perdida -$53,19
+- Abiertas: short FARTCOIN, short ETH, short kBONK
+- Sin señal: HYPE, BNB, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+

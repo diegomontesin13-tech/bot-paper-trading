@@ -15,7 +15,7 @@
    "objetivo": 0.11608059999999999,
    "comision_entrada": 1.7995290452160577,
    "abierta_en": "2026-10-25T13:09:47+00:00",
-   "revisada_hasta": 1793014500000,
+   "revisada_hasta": 1793023500000,
    "motivo": "tendencia short con momento (fuerza 2.9 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 2271.277970104388,
    "comision_entrada": 4.97507303528058,
    "abierta_en": "2026-10-26T06:07:17+00:00",
-   "revisada_hasta": 1793014500000,
+   "revisada_hasta": 1793023500000,
    "motivo": "tendencia short con momento (fuerza 1.0 ATR)"
   },
   {
@@ -47,27 +47,11 @@
    "objetivo": 0.0028218799999999997,
    "comision_entrada": 1.8176138341234014,
    "abierta_en": "2026-10-26T11:39:48+00:00",
-   "revisada_hasta": 1793014788000,
+   "revisada_hasta": 1793023500000,
    "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   }
  ],
- "predicciones": [
-  {
-   "id": 37,
-   "outcome": 16369,
-   "lado_id": 1,
-   "titulo": "MU <= 877 (26-10 13:35 UTC)",
-   "subyacente": "xyz:MU",
-   "umbral": 877.0,
-   "vence": "2026-10-26T13:35:00+00:00",
-   "precio_entrada": 0.06787,
-   "importe": 53.16,
-   "contratos": 783.2427412303258,
-   "comision_entrada": 0.026579342423651106,
-   "abierta_en": "2026-10-26T10:55:52+00:00",
-   "motivo": "modelo 20% vs mercado 7%"
-  }
- ],
+ "predicciones": [],
  "cerradas": [
   {
    "id": 2,
@@ -745,10 +729,29 @@
    "cerrada_en": "2026-10-26T11:39:48+00:00",
    "pnl": -18.64,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 37,
+   "outcome": 16369,
+   "lado_id": 1,
+   "titulo": "MU <= 877 (26-10 13:35 UTC)",
+   "subyacente": "xyz:MU",
+   "umbral": 877.0,
+   "vence": "2026-10-26T13:35:00+00:00",
+   "precio_entrada": 0.06787,
+   "importe": 53.16,
+   "contratos": 783.2427412303258,
+   "comision_entrada": 0.026579342423651106,
+   "abierta_en": "2026-10-26T10:55:52+00:00",
+   "motivo": "modelo 20% vs mercado 7%",
+   "precio_salida": 0.0,
+   "cerrada_en": "2026-10-26T14:07:35+00:00",
+   "pnl": -53.19,
+   "razon_cierre": "liquidada (894.42 vs 877)"
   }
  ],
  "comisiones_pagadas": 248.57375455010273,
- "ultima_ejecucion": "2026-10-26T11:39:48+00:00",
+ "ultima_ejecucion": "2026-10-26T14:07:35+00:00",
  "ultimo_resumen": "2026-10-25",
  "pausado": false,
  "historial_patrimonio": [
@@ -1639,6 +1642,10 @@
   [
    "2026-10-26T11:39:48+00:00",
    10903.87
+  ],
+  [
+   "2026-10-26T14:07:35+00:00",
+   10710.38
   ]
  ],
  "siguiente_id": 39
