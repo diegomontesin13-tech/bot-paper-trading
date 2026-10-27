@@ -589,3 +589,4 @@
 - Abiertas: long xyz:JPY, long xyz:KR200, short xyz:MSTR
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:BRENTOIL, xyz:COPPER
 
+- 2026-10-27 18:59 UTC · sin operaciones · patrimonio $10.699,15 (+6.99%)
