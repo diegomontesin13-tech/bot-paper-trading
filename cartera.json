@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 21.647156589385773,
+ "efectivo": 1497.3092439276988,
  "posiciones": [
   {
    "id": 36,
@@ -15,24 +15,8 @@
    "objetivo": 2271.277970104388,
    "comision_entrada": 4.97507303528058,
    "abierta_en": "2026-10-26T06:07:17+00:00",
-   "revisada_hasta": 1793092800000,
+   "revisada_hasta": 1793095800000,
    "motivo": "tendencia short con momento (fuerza 1.0 ATR)"
-  },
-  {
-   "id": 39,
-   "simbolo": "xyz:COPPER",
-   "mercado": "materia_prima",
-   "lado": "long",
-   "precio_entrada": 6.5373,
-   "nocional": 17238.96,
-   "apalancamiento": 3,
-   "margen": 5746.32,
-   "stop": 6.4980762,
-   "objetivo": 6.615747600000001,
-   "comision_entrada": 8.619480065180074,
-   "abierta_en": "2026-10-26T15:44:40+00:00",
-   "revisada_hasta": 1793092800000,
-   "motivo": "tendencia long con momento (fuerza 0.6 ATR)"
   },
   {
    "id": 40,
@@ -47,7 +31,7 @@
    "objetivo": 1.113777,
    "comision_entrada": 1.907579832046291,
    "abierta_en": "2026-10-26T15:44:40+00:00",
-   "revisada_hasta": 1793092800000,
+   "revisada_hasta": 1793095800000,
    "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
   },
   {
@@ -63,8 +47,24 @@
    "objetivo": 156.00011011284454,
    "comision_entrada": 0.07803221054153983,
    "abierta_en": "2026-10-26T17:19:01+00:00",
-   "revisada_hasta": 1793092800000,
+   "revisada_hasta": 1793095800000,
    "motivo": "tendencia short con momento (fuerza 0.9 ATR)"
+  },
+  {
+   "id": 42,
+   "simbolo": "xyz:TSLA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 393.95,
+   "nocional": 13386.33,
+   "apalancamiento": 3,
+   "margen": 4462.11,
+   "stop": 390.79839999999996,
+   "objetivo": 400.2532,
+   "comision_entrada": 6.693164032304075,
+   "abierta_en": "2026-10-27T10:13:25+00:00",
+   "revisada_hasta": 1793096005000,
+   "motivo": "tendencia long con momento (fuerza 3.1 ATR)"
   }
  ],
  "predicciones": [],
@@ -804,10 +804,30 @@
    "cerrada_en": "2026-10-26T15:44:40+00:00",
    "pnl": -112.75,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 39,
+   "simbolo": "xyz:COPPER",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 6.5373,
+   "nocional": 17238.96,
+   "apalancamiento": 3,
+   "margen": 5746.32,
+   "stop": 6.4980762,
+   "objetivo": 6.615747600000001,
+   "comision_entrada": 8.619480065180074,
+   "abierta_en": "2026-10-26T15:44:40+00:00",
+   "revisada_hasta": 1793095800000,
+   "motivo": "tendencia long con momento (fuerza 0.6 ATR)",
+   "precio_salida": 6.615747600000001,
+   "cerrada_en": "2026-10-27T10:13:25+00:00",
+   "pnl": 189.53,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 262.9045060078706,
- "ultima_ejecucion": "2026-10-27T09:22:08+00:00",
+ "comisiones_pagadas": 278.3205838001747,
+ "ultima_ejecucion": "2026-10-27T10:13:25+00:00",
  "ultimo_resumen": "2026-10-26",
  "pausado": false,
  "historial_patrimonio": [
@@ -1818,7 +1838,11 @@
   [
    "2026-10-27T09:22:08+00:00",
    10586.99
+  ],
+  [
+   "2026-10-27T10:13:25+00:00",
+   10702.37
   ]
  ],
- "siguiente_id": 42
+ "siguiente_id": 43
 }
