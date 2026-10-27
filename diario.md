@@ -591,3 +591,10 @@
 
 - 2026-10-27 18:59 UTC · sin operaciones · patrimonio $10.699,15 (+6.99%)
 - 2026-10-27 19:39 UTC · sin operaciones · patrimonio $10.698,55 (+6.99%)
+
+## 2026-10-27 20:20 UTC · patrimonio $10.623,44 (+6.23%)
+
+- Cerrado short xyz:MSTR a 141.76 (tendencia rota): -$88,48
+- Abiertas: long xyz:JPY, long xyz:KR200
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
