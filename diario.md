@@ -552,3 +552,12 @@
 - 2026-10-27 10:53 UTC · sin operaciones · patrimonio $10.710,80 (+7.11%)
 - 2026-10-27 11:33 UTC · sin operaciones · patrimonio $10.698,89 (+6.99%)
 - 2026-10-27 12:10 UTC · sin operaciones · patrimonio $10.694,56 (+6.95%)
+
+## 2026-10-27 13:05 UTC · patrimonio $10.598,62 (+5.99%)
+
+- Cerrado short ETH a 2329.95 (tendencia rota): -$47,26
+- Cerrado short xyz:COIN a 161.765 (tendencia rota): -$1,05
+- Abierto long xyz:NVDA 3x $13.256,56 a 217.94 (stop 216.1965, obj. 221.427)
+- Abiertas: short xyz:EUR, long xyz:TSLA, long xyz:NVDA
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, FARTCOIN, TRUMP, xyz:MSFT, xyz:AMZN, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+
