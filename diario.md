@@ -561,3 +561,11 @@
 - Abiertas: short xyz:EUR, long xyz:TSLA, long xyz:NVDA
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, FARTCOIN, TRUMP, xyz:MSFT, xyz:AMZN, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-10-27 13:51 UTC · patrimonio $10.677,06 (+6.77%)
+
+- Cerrado long xyz:TSLA a 400.2532 (objetivo): +$200,69
+- Abierto long xyz:JPY 3x $14.981,94 a 157.755 (stop 157.4395, obj. 158.386)
+- Abiertas: short xyz:EUR, long xyz:NVDA, long xyz:JPY
+- Sin señal: BTC, ETH, HYPE, XRP, BNB, DOGE, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+

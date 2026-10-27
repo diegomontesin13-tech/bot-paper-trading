@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 397.3094384963197,
+ "efectivo": 65.32799638759752,
  "posiciones": [
   {
    "id": 40,
@@ -15,24 +15,8 @@
    "objetivo": 1.113777,
    "comision_entrada": 1.907579832046291,
    "abierta_en": "2026-10-26T15:44:40+00:00",
-   "revisada_hasta": 1793106300000,
+   "revisada_hasta": 1793109000000,
    "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
-  },
-  {
-   "id": 42,
-   "simbolo": "xyz:TSLA",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 393.95,
-   "nocional": 13386.33,
-   "apalancamiento": 3,
-   "margen": 4462.11,
-   "stop": 390.79839999999996,
-   "objetivo": 400.2532,
-   "comision_entrada": 6.693164032304075,
-   "abierta_en": "2026-10-27T10:13:25+00:00",
-   "revisada_hasta": 1793106300000,
-   "motivo": "tendencia long con momento (fuerza 3.1 ATR)"
   },
   {
    "id": 43,
@@ -47,8 +31,24 @@
    "objetivo": 221.42704,
    "comision_entrada": 6.628280590412946,
    "abierta_en": "2026-10-27T13:05:27+00:00",
-   "revisada_hasta": 1793106327000,
+   "revisada_hasta": 1793109000000,
    "motivo": "tendencia long con momento (fuerza 1.5 ATR)"
+  },
+  {
+   "id": 44,
+   "simbolo": "xyz:JPY",
+   "mercado": "forex",
+   "lado": "long",
+   "precio_entrada": 157.755,
+   "nocional": 14981.94,
+   "apalancamiento": 3,
+   "margen": 4993.98,
+   "stop": 157.43949,
+   "objetivo": 158.38602,
+   "comision_entrada": 7.490972241341071,
+   "abierta_en": "2026-10-27T13:51:59+00:00",
+   "revisada_hasta": 1793109119000,
+   "motivo": "tendencia long con momento (fuerza 2.0 ATR)"
   }
  ],
  "predicciones": [],
@@ -848,10 +848,30 @@
    "cerrada_en": "2026-10-27T13:05:27+00:00",
    "pnl": -1.05,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 42,
+   "simbolo": "xyz:TSLA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 393.95,
+   "nocional": 13386.33,
+   "apalancamiento": 3,
+   "margen": 4462.11,
+   "stop": 390.79839999999996,
+   "objetivo": 400.2532,
+   "comision_entrada": 6.693164032304075,
+   "abierta_en": "2026-10-27T10:13:25+00:00",
+   "revisada_hasta": 1793109000000,
+   "motivo": "tendencia long con momento (fuerza 3.1 ATR)",
+   "precio_salida": 400.2532,
+   "cerrada_en": "2026-10-27T13:51:59+00:00",
+   "pnl": 200.69,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 290.0210621906371,
- "ultima_ejecucion": "2026-10-27T13:05:27+00:00",
+ "comisiones_pagadas": 304.31229007197817,
+ "ultima_ejecucion": "2026-10-27T13:51:59+00:00",
  "ultimo_resumen": "2026-10-26",
  "pausado": false,
  "historial_patrimonio": [
@@ -1882,7 +1902,11 @@
   [
    "2026-10-27T13:05:27+00:00",
    10598.62
+  ],
+  [
+   "2026-10-27T13:51:59+00:00",
+   10677.06
   ]
  ],
- "siguiente_id": 44
+ "siguiente_id": 45
 }
