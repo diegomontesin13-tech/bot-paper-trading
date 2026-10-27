@@ -569,3 +569,11 @@
 - Abiertas: short xyz:EUR, long xyz:NVDA, long xyz:JPY
 - Sin señal: BTC, ETH, HYPE, XRP, BNB, DOGE, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-10-27 14:34 UTC · patrimonio $10.637,72 (+6.38%)
+
+- Cerrado long xyz:NVDA a 216.1965 (stop-loss): -$119,26
+- Abierto long xyz:KR200 3x $8.601,74 a 895.28 (stop 884.2037, obj. 917.4327)
+- Abiertas: short xyz:EUR, long xyz:JPY, long xyz:KR200
+- Sin señal: BTC, ETH, SOL, XRP, DOGE, kPEPE, kBONK, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+
