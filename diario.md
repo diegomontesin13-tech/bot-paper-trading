@@ -628,3 +628,11 @@
 - 2026-10-28 11:24 UTC · sin operaciones · patrimonio $10.864,25 (+8.64%)
 - 2026-10-28 12:13 UTC · sin operaciones · patrimonio $10.915,43 (+9.15%)
 - 2026-10-28 13:14 UTC · sin operaciones · patrimonio $10.896,41 (+8.96%)
+
+## 2026-10-28 14:11 UTC · patrimonio $10.675,14 (+6.75%)
+
+- Cerrado long xyz:TSLA a 403.1042 (stop-loss): -$121,16
+- Abierto long kPEPE 1x $3.558,97 a 0.004856 (stop 0.00471032, obj. 0.00514736)
+- Abiertas: long xyz:JPY, long kPEPE
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:XYZ100, xyz:KR200, xyz:EUR, xyz:SILVER, xyz:CL, xyz:NATGAS
+

@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1276.047371030927,
+ "efectivo": 2090.3747831858386,
  "posiciones": [
   {
    "id": 44,
@@ -15,24 +15,24 @@
    "objetivo": 158.38602,
    "comision_entrada": 7.490972241341071,
    "abierta_en": "2026-10-27T13:51:59+00:00",
-   "revisada_hasta": 1793193000000,
+   "revisada_hasta": 1793196300000,
    "motivo": "tendencia long con momento (fuerza 2.0 ATR)"
   },
   {
-   "id": 47,
-   "simbolo": "xyz:TSLA",
-   "mercado": "accion",
+   "id": 48,
+   "simbolo": "kPEPE",
+   "mercado": "memecoin",
    "lado": "long",
-   "precio_entrada": 406.355,
-   "nocional": 13468.52,
-   "apalancamiento": 3,
-   "margen": 4489.51,
-   "stop": 403.10416000000004,
-   "objetivo": 412.85668000000004,
-   "comision_entrada": 6.734259536465851,
-   "abierta_en": "2026-10-28T01:17:40+00:00",
-   "revisada_hasta": 1793193000000,
-   "motivo": "tendencia long con momento (fuerza 4.0 ATR)"
+   "precio_entrada": 0.004856,
+   "nocional": 3558.97,
+   "apalancamiento": 1,
+   "margen": 3558.97,
+   "stop": 0.00471032,
+   "objetivo": 0.00514736,
+   "comision_entrada": 1.7794872773238823,
+   "abierta_en": "2026-10-28T14:11:27+00:00",
+   "revisada_hasta": 1793196687000,
+   "motivo": "tendencia long con momento (fuerza 1.8 ATR)"
   }
  ],
  "predicciones": [],
@@ -932,10 +932,30 @@
    "cerrada_en": "2026-10-28T01:17:40+00:00",
    "pnl": 204.13,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 47,
+   "simbolo": "xyz:TSLA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 406.355,
+   "nocional": 13468.52,
+   "apalancamiento": 3,
+   "margen": 4489.51,
+   "stop": 403.10416000000004,
+   "objetivo": 412.85668000000004,
+   "comision_entrada": 6.734259536465851,
+   "abierta_en": "2026-10-28T01:17:40+00:00",
+   "revisada_hasta": 1793196600000,
+   "motivo": "tendencia long con momento (fuerza 4.0 ATR)",
+   "precio_salida": 403.10416000000004,
+   "cerrada_en": "2026-10-28T14:11:27+00:00",
+   "pnl": -121.16,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 335.1345189926073,
- "ultima_ejecucion": "2026-10-28T13:14:36+00:00",
+ "comisiones_pagadas": 343.59439218993117,
+ "ultima_ejecucion": "2026-10-28T14:11:27+00:00",
  "ultimo_resumen": "2026-10-27",
  "pausado": false,
  "historial_patrimonio": [
@@ -2098,7 +2118,11 @@
   [
    "2026-10-28T13:14:36+00:00",
    10896.41
+  ],
+  [
+   "2026-10-28T14:11:27+00:00",
+   10675.14
   ]
  ],
- "siguiente_id": 48
+ "siguiente_id": 49
 }
