@@ -605,3 +605,11 @@
 - 2026-10-27 23:16 UTC · sin operaciones · patrimonio $10.659,05 (+6.59%)
 - 2026-10-27 23:46 UTC · sin operaciones · patrimonio $10.674,86 (+6.75%)
 - 2026-10-28 00:13 UTC · sin operaciones · patrimonio $10.689,04 (+6.89%)
+
+## 2026-10-28 01:17 UTC · patrimonio $10.768,08 (+7.68%)
+
+- Cerrado long xyz:KR200 a 917.4327 (objetivo): +$204,13
+- Abierto long xyz:TSLA 3x $13.468,52 a 406.355 (stop 403.1042, obj. 412.8567)
+- Abiertas: long xyz:JPY, long xyz:TSLA
+- Sin señal: BTC, ETH, SOL, BNB, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:XYZ100, xyz:KR200, xyz:EUR, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
