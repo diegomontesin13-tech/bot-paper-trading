@@ -643,3 +643,12 @@
 - 2026-10-28 18:14 UTC · sin operaciones · patrimonio $10.700,50 (+7.01%)
 - 2026-10-28 19:06 UTC · sin operaciones · patrimonio $10.672,40 (+6.72%)
 - 2026-10-28 19:48 UTC · sin operaciones · patrimonio $10.722,36 (+7.22%)
+
+## 2026-10-28 20:24 UTC · patrimonio $10.852,81 (+8.53%)
+
+- Cerrado long kPEPE a 0.00514736 (objetivo): +$209,87
+- Abierto long xyz:AMD 3x $7.817,57 a 572.43 (stop 564.4792, obj. 588.3317)
+- Abierto long kPEPE 1x $3.175,45 a 0.00506 (stop 0.00488704, obj. 0.00540592)
+- Abiertas: long xyz:JPY, long xyz:AMD, long kPEPE
+- Sin señal: BTC, ETH, SOL, WIF, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:KR200, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
