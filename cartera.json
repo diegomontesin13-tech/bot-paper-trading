@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 74.19303535943027,
+ "efectivo": 2251.13339959787,
  "posiciones": [
-  {
-   "id": 44,
-   "simbolo": "xyz:JPY",
-   "mercado": "forex",
-   "lado": "long",
-   "precio_entrada": 157.755,
-   "nocional": 14981.94,
-   "apalancamiento": 3,
-   "margen": 4993.98,
-   "stop": 157.43949,
-   "objetivo": 158.38602,
-   "comision_entrada": 7.490972241341071,
-   "abierta_en": "2026-10-27T13:51:59+00:00",
-   "revisada_hasta": 1793218500000,
-   "motivo": "tendencia long con momento (fuerza 2.0 ATR)"
-  },
   {
    "id": 49,
    "simbolo": "xyz:AMD",
@@ -31,7 +15,7 @@
    "objetivo": 588.3316700521784,
    "comision_entrada": 3.9087825559737954,
    "abierta_en": "2026-10-28T20:24:10+00:00",
-   "revisada_hasta": 1793219050000,
+   "revisada_hasta": 1793221800000,
    "motivo": "tendencia long con momento (fuerza 2.2 ATR)"
   },
   {
@@ -47,8 +31,24 @@
    "objetivo": 0.005405923953458024,
    "comision_entrada": 1.5877260738903403,
    "abierta_en": "2026-10-28T20:24:10+00:00",
-   "revisada_hasta": 1793219050000,
+   "revisada_hasta": 1793221800000,
    "motivo": "tendencia long con momento (fuerza 1.5 ATR)"
+  },
+  {
+   "id": 51,
+   "simbolo": "xyz:KR200",
+   "mercado": "indice",
+   "lado": "long",
+   "precio_entrada": 951.83,
+   "nocional": 8404.65,
+   "apalancamiento": 3,
+   "margen": 2801.55,
+   "stop": 939.6111966058477,
+   "objetivo": 976.2676067883049,
+   "comision_entrada": 4.202324181370951,
+   "abierta_en": "2026-10-28T21:13:54+00:00",
+   "revisada_hasta": 1793222034000,
+   "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
   }
  ],
  "predicciones": [],
@@ -988,11 +988,31 @@
    "cerrada_en": "2026-10-28T20:24:10+00:00",
    "pnl": 209.87,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 44,
+   "simbolo": "xyz:JPY",
+   "mercado": "forex",
+   "lado": "long",
+   "precio_entrada": 157.755,
+   "nocional": 14981.94,
+   "apalancamiento": 3,
+   "margen": 4993.98,
+   "stop": 157.43949,
+   "objetivo": 158.38602,
+   "comision_entrada": 7.490972241341071,
+   "abierta_en": "2026-10-27T13:51:59+00:00",
+   "revisada_hasta": 1793221200000,
+   "motivo": "tendencia long con momento (fuerza 2.0 ATR)",
+   "precio_salida": 157.715,
+   "cerrada_en": "2026-10-28T21:13:54+00:00",
+   "pnl": -18.78,
+   "razon_cierre": "tendencia rota"
   }
  ],
- "comisiones_pagadas": 350.9771549197953,
- "ultima_ejecucion": "2026-10-28T20:24:10+00:00",
- "ultimo_resumen": "2026-10-27",
+ "comisiones_pagadas": 362.6685497078031,
+ "ultima_ejecucion": "2026-10-28T21:13:54+00:00",
+ "ultimo_resumen": "2026-10-28",
  "pausado": false,
  "historial_patrimonio": [
   [
@@ -2190,7 +2210,11 @@
   [
    "2026-10-28T20:24:10+00:00",
    10852.81
+  ],
+  [
+   "2026-10-28T21:13:54+00:00",
+   10784.99
   ]
  ],
- "siguiente_id": 51
+ "siguiente_id": 52
 }

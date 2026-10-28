@@ -652,3 +652,11 @@
 - Abiertas: long xyz:JPY, long xyz:AMD, long kPEPE
 - Sin señal: BTC, ETH, SOL, WIF, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:KR200, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-10-28 21:13 UTC · patrimonio $10.784,99 (+7.85%)
+
+- Cerrado long xyz:JPY a 157.715 (tendencia rota): -$18,78
+- Abierto long xyz:KR200 3x $8.404,65 a 951.83 (stop 939.6112, obj. 976.2676)
+- Abiertas: long xyz:AMD, long kPEPE, long xyz:KR200
+- Sin señal: ETH, SOL, kBONK, WIF, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS
+
