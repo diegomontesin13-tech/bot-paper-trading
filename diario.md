@@ -668,3 +668,4 @@
 - Abiertas: long xyz:AMD, long kPEPE, long xyz:KR200, long xyz:MSFT
 - Sin señal: ETH, SOL, WIF, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-10-28 23:19 UTC · sin operaciones · patrimonio $10.743,32 (+7.43%)
