@@ -661,3 +661,10 @@
 - Sin señal: ETH, SOL, kBONK, WIF, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-10-28 21:55 UTC · sin operaciones · patrimonio $10.782,67 (+7.83%)
+
+## 2026-10-28 22:37 UTC · patrimonio $10.707,57 (+7.08%)
+
+- Abierto long xyz:MSFT 3x $5.494,33 a 543.77 (stop 533.1701, obj. 564.9699)
+- Abiertas: long xyz:AMD, long kPEPE, long xyz:KR200, long xyz:MSFT
+- Sin señal: ETH, SOL, WIF, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS
+
