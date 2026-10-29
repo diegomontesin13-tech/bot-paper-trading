@@ -701,3 +701,11 @@
 
 - 2026-10-29 06:14 UTC · sin operaciones · patrimonio $10.411,95 (+4.12%)
 - 2026-10-29 07:17 UTC · sin operaciones · patrimonio $10.386,68 (+3.87%)
+
+## 2026-10-29 08:14 UTC · patrimonio $10.283,81 (+2.84%)
+
+- Cerrado long kPEPE a 0.00491715 (stop-loss): -$107,23
+- Abierto long xyz:JP225 3x $11.746,93 a 64566 (stop 64000.44, obj. 65697.13)
+- Abiertas: long xyz:MSFT, short xyz:META, long xyz:JP225
+- Sin señal: HYPE, XRP, BNB, DOGE, kPEPE, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
