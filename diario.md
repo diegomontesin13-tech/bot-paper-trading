@@ -671,3 +671,12 @@
 - 2026-10-28 23:19 UTC · sin operaciones · patrimonio $10.743,32 (+7.43%)
 - 2026-10-28 23:52 UTC · sin operaciones · patrimonio $10.689,60 (+6.90%)
 - 2026-10-29 00:48 UTC · sin operaciones · patrimonio $10.959,76 (+9.60%)
+
+## 2026-10-29 01:40 UTC · patrimonio $10.643,28 (+6.43%)
+
+- Cerrado long xyz:AMD a 564.4792 (stop-loss): -$116,35
+- Cerrado long xyz:KR200 a 939.6112 (stop-loss): -$116,24
+- Abierto short xyz:META 3x $13.312,42 a 616.85 (stop 621.7848, obj. 606.9804)
+- Abiertas: long kPEPE, long xyz:MSFT, short xyz:META
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:BRENTOIL, xyz:COPPER
+

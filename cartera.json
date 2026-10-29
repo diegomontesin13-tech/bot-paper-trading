@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 416.94256786459164,
+ "efectivo": 1155.7453754560493,
  "posiciones": [
-  {
-   "id": 49,
-   "simbolo": "xyz:AMD",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 572.43,
-   "nocional": 7817.57,
-   "apalancamiento": 3,
-   "margen": 2605.86,
-   "stop": 564.4791649739108,
-   "objetivo": 588.3316700521784,
-   "comision_entrada": 3.9087825559737954,
-   "abierta_en": "2026-10-28T20:24:10+00:00",
-   "revisada_hasta": 1793234700000,
-   "motivo": "tendencia long con momento (fuerza 2.2 ATR)"
-  },
   {
    "id": 50,
    "simbolo": "kPEPE",
@@ -31,24 +15,8 @@
    "objetivo": 0.005405923953458024,
    "comision_entrada": 1.5877260738903403,
    "abierta_en": "2026-10-28T20:24:10+00:00",
-   "revisada_hasta": 1793234700000,
+   "revisada_hasta": 1793238000000,
    "motivo": "tendencia long con momento (fuerza 1.5 ATR)"
-  },
-  {
-   "id": 51,
-   "simbolo": "xyz:KR200",
-   "mercado": "indice",
-   "lado": "long",
-   "precio_entrada": 951.83,
-   "nocional": 8404.65,
-   "apalancamiento": 3,
-   "margen": 2801.55,
-   "stop": 939.6111966058477,
-   "objetivo": 976.2676067883049,
-   "comision_entrada": 4.202324181370951,
-   "abierta_en": "2026-10-28T21:13:54+00:00",
-   "revisada_hasta": 1793234700000,
-   "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
   },
   {
    "id": 52,
@@ -63,8 +31,24 @@
    "objetivo": 564.9698611258486,
    "comision_entrada": 2.747165499350891,
    "abierta_en": "2026-10-28T22:37:10+00:00",
-   "revisada_hasta": 1793234700000,
+   "revisada_hasta": 1793238000000,
    "motivo": "tendencia long con momento (fuerza 0.4 ATR)"
+  },
+  {
+   "id": 53,
+   "simbolo": "xyz:META",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 616.85,
+   "nocional": 13312.42,
+   "apalancamiento": 3,
+   "margen": 4437.47,
+   "stop": 621.7848,
+   "objetivo": 606.9804,
+   "comision_entrada": 6.656209673916473,
+   "abierta_en": "2026-10-29T01:40:45+00:00",
+   "revisada_hasta": 1793238045000,
+   "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   }
  ],
  "predicciones": [],
@@ -1024,10 +1008,50 @@
    "cerrada_en": "2026-10-28T21:13:54+00:00",
    "pnl": -18.78,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 49,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 572.43,
+   "nocional": 7817.57,
+   "apalancamiento": 3,
+   "margen": 2605.86,
+   "stop": 564.4791649739108,
+   "objetivo": 588.3316700521784,
+   "comision_entrada": 3.9087825559737954,
+   "abierta_en": "2026-10-28T20:24:10+00:00",
+   "revisada_hasta": 1793238000000,
+   "motivo": "tendencia long con momento (fuerza 2.2 ATR)",
+   "precio_salida": 564.4791649739108,
+   "cerrada_en": "2026-10-29T01:40:45+00:00",
+   "pnl": -116.35,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 51,
+   "simbolo": "xyz:KR200",
+   "mercado": "indice",
+   "lado": "long",
+   "precio_entrada": 951.83,
+   "nocional": 8404.65,
+   "apalancamiento": 3,
+   "margen": 2801.55,
+   "stop": 939.6111966058477,
+   "objetivo": 976.2676067883049,
+   "comision_entrada": 4.202324181370951,
+   "abierta_en": "2026-10-28T21:13:54+00:00",
+   "revisada_hasta": 1793238000000,
+   "motivo": "tendencia long con momento (fuerza 2.9 ATR)",
+   "precio_salida": 939.6111966058477,
+   "cerrada_en": "2026-10-29T01:40:45+00:00",
+   "pnl": -116.24,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 365.415715207154,
- "ultima_ejecucion": "2026-10-29T00:48:14+00:00",
+ "comisiones_pagadas": 380.07479738392675,
+ "ultima_ejecucion": "2026-10-29T01:40:45+00:00",
  "ultimo_resumen": "2026-10-28",
  "pausado": false,
  "historial_patrimonio": [
@@ -2250,7 +2274,11 @@
   [
    "2026-10-29T00:48:14+00:00",
    10959.76
+  ],
+  [
+   "2026-10-29T01:40:45+00:00",
+   10643.28
   ]
  ],
- "siguiente_id": 53
+ "siguiente_id": 54
 }
