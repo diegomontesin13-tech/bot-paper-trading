@@ -766,3 +766,4 @@
 - Abiertas: long xyz:AAPL, short xyz:SILVER, short xyz:PLTR
 - Sin señal: ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:NATGAS, xyz:COPPER
 
+- 2026-10-29 21:38 UTC · sin operaciones · patrimonio $9.866,47 (-1.34%)
