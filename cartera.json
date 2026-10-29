@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 17.40607912231394,
+ "efectivo": 129.46761483411865,
  "posiciones": [
-  {
-   "id": 53,
-   "simbolo": "xyz:META",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 616.85,
-   "nocional": 13312.42,
-   "apalancamiento": 3,
-   "margen": 4437.47,
-   "stop": 621.7848,
-   "objetivo": 606.9804,
-   "comision_entrada": 6.656209673916473,
-   "abierta_en": "2026-10-29T01:40:45+00:00",
-   "revisada_hasta": 1793275800000,
-   "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
-  },
   {
    "id": 56,
    "simbolo": "xyz:JP225",
@@ -31,7 +15,7 @@
    "objetivo": 65697.12742251276,
    "comision_entrada": 5.873464758309961,
    "abierta_en": "2026-10-29T08:14:16+00:00",
-   "revisada_hasta": 1793275500000,
+   "revisada_hasta": 1793279700000,
    "motivo": "tendencia long con momento (fuerza 0.7 ATR)"
   },
   {
@@ -47,7 +31,7 @@
    "objetivo": 154.41802475180518,
    "comision_entrada": 0.10780938366977716,
    "abierta_en": "2026-10-29T09:52:26+00:00",
-   "revisada_hasta": 1793275800000,
+   "revisada_hasta": 1793279700000,
    "motivo": "tendencia short con momento (fuerza 0.7 ATR)"
   },
   {
@@ -63,7 +47,23 @@
    "objetivo": 580.2070527932523,
    "comision_entrada": 2.5908225374619542,
    "abierta_en": "2026-10-29T12:13:45+00:00",
-   "revisada_hasta": 1793276025000,
+   "revisada_hasta": 1793279700000,
+   "motivo": "tendencia long con momento (fuerza 0.9 ATR)"
+  },
+  {
+   "id": 59,
+   "simbolo": "xyz:AAPL",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 348.18,
+   "nocional": 12624.77,
+   "apalancamiento": 3,
+   "margen": 4208.26,
+   "stop": 345.39456,
+   "objetivo": 353.75088,
+   "comision_entrada": 6.312387102278633,
+   "abierta_en": "2026-10-29T13:16:42+00:00",
+   "revisada_hasta": 1793279802000,
    "motivo": "tendencia long con momento (fuerza 0.9 ATR)"
   }
  ],
@@ -1144,10 +1144,30 @@
    "cerrada_en": "2026-10-29T12:13:45+00:00",
    "pnl": -91.08,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 53,
+   "simbolo": "xyz:META",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 616.85,
+   "nocional": 13312.42,
+   "apalancamiento": 3,
+   "margen": 4437.47,
+   "stop": 621.7848,
+   "objetivo": 606.9804,
+   "comision_entrada": 6.656209673916473,
+   "abierta_en": "2026-10-29T01:40:45+00:00",
+   "revisada_hasta": 1793279700000,
+   "motivo": "tendencia short con momento (fuerza 1.5 ATR)",
+   "precio_salida": 621.675,
+   "cerrada_en": "2026-10-29T13:16:42+00:00",
+   "pnl": -117.49,
+   "razon_cierre": "tendencia rota"
   }
  ],
- "comisiones_pagadas": 406.10290991310757,
- "ultima_ejecucion": "2026-10-29T12:13:45+00:00",
+ "comisiones_pagadas": 419.1235718824528,
+ "ultima_ejecucion": "2026-10-29T13:16:42+00:00",
  "ultimo_resumen": "2026-10-28",
  "pausado": false,
  "historial_patrimonio": [
@@ -2426,7 +2446,11 @@
   [
    "2026-10-29T12:13:45+00:00",
    10149.62
+  ],
+  [
+   "2026-10-29T13:16:42+00:00",
+   10093.51
   ]
  ],
- "siguiente_id": 59
+ "siguiente_id": 60
 }

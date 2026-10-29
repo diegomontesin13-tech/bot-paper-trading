@@ -727,3 +727,11 @@
 - Abiertas: short xyz:META, long xyz:JP225, short xyz:COIN, long xyz:AMD
 - Sin señal: HYPE, XRP, BNB, DOGE, kPEPE, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:GOLD, xyz:BRENTOIL, xyz:COPPER
 
+
+## 2026-10-29 13:16 UTC · patrimonio $10.093,51 (+0.94%)
+
+- Cerrado short xyz:META a 621.675 (tendencia rota): -$117,49
+- Abierto long xyz:AAPL 3x $12.624,77 a 348.18 (stop 345.3946, obj. 353.7509)
+- Abiertas: long xyz:JP225, short xyz:COIN, long xyz:AMD, long xyz:AAPL
+- Sin señal: HYPE, XRP, BNB, kPEPE, kBONK, WIF, TRUMP, xyz:NVDA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
