@@ -742,3 +742,4 @@
 - Abiertas: long xyz:JP225, long xyz:AMD, long xyz:AAPL
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, kPEPE, WIF, TRUMP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+- 2026-10-29 15:09 UTC · sin operaciones · patrimonio $10.164,45 (+1.64%)
