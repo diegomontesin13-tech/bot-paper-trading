@@ -680,3 +680,11 @@
 - Abiertas: long kPEPE, long xyz:MSFT, short xyz:META
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:BRENTOIL, xyz:COPPER
 
+
+## 2026-10-29 02:30 UTC · patrimonio $10.575,00 (+5.75%)
+
+- Cerrado long kPEPE a 0.00488704 (stop-loss): -$111,67
+- Abierto short xyz:PLTR 3x $10.421,17 a 194.12 (stop 196.0908, obj. 190.1784)
+- Abiertas: long xyz:MSFT, short xyz:META, short xyz:PLTR
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+

@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1155.7453754560493,
+ "efectivo": 742.1825223928727,
  "posiciones": [
-  {
-   "id": 50,
-   "simbolo": "kPEPE",
-   "mercado": "memecoin",
-   "lado": "long",
-   "precio_entrada": 0.00506,
-   "nocional": 3175.45,
-   "apalancamiento": 1,
-   "margen": 3175.45,
-   "stop": 0.004887038023270988,
-   "objetivo": 0.005405923953458024,
-   "comision_entrada": 1.5877260738903403,
-   "abierta_en": "2026-10-28T20:24:10+00:00",
-   "revisada_hasta": 1793238000000,
-   "motivo": "tendencia long con momento (fuerza 1.5 ATR)"
-  },
   {
    "id": 52,
    "simbolo": "xyz:MSFT",
@@ -31,7 +15,7 @@
    "objetivo": 564.9698611258486,
    "comision_entrada": 2.747165499350891,
    "abierta_en": "2026-10-28T22:37:10+00:00",
-   "revisada_hasta": 1793238000000,
+   "revisada_hasta": 1793241000000,
    "motivo": "tendencia long con momento (fuerza 0.4 ATR)"
   },
   {
@@ -47,8 +31,24 @@
    "objetivo": 606.9804,
    "comision_entrada": 6.656209673916473,
    "abierta_en": "2026-10-29T01:40:45+00:00",
-   "revisada_hasta": 1793238045000,
+   "revisada_hasta": 1793241000000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
+  },
+  {
+   "id": 54,
+   "simbolo": "xyz:PLTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 194.12,
+   "nocional": 10421.17,
+   "apalancamiento": 3,
+   "margen": 3473.72,
+   "stop": 196.09082479667447,
+   "objetivo": 190.17835040665113,
+   "comision_entrada": 5.2105873763613575,
+   "abierta_en": "2026-10-29T02:30:37+00:00",
+   "revisada_hasta": 1793241037000,
+   "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
   }
  ],
  "predicciones": [],
@@ -1048,10 +1048,30 @@
    "cerrada_en": "2026-10-29T01:40:45+00:00",
    "pnl": -116.24,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 50,
+   "simbolo": "kPEPE",
+   "mercado": "memecoin",
+   "lado": "long",
+   "precio_entrada": 0.00506,
+   "nocional": 3175.45,
+   "apalancamiento": 1,
+   "margen": 3175.45,
+   "stop": 0.004887038023270988,
+   "objetivo": 0.005405923953458024,
+   "comision_entrada": 1.5877260738903403,
+   "abierta_en": "2026-10-28T20:24:10+00:00",
+   "revisada_hasta": 1793241000000,
+   "motivo": "tendencia long con momento (fuerza 1.5 ATR)",
+   "precio_salida": 0.004887038023270988,
+   "cerrada_en": "2026-10-29T02:30:37+00:00",
+   "pnl": -111.67,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 380.07479738392675,
- "ultima_ejecucion": "2026-10-29T01:40:45+00:00",
+ "comisiones_pagadas": 386.81883781275803,
+ "ultima_ejecucion": "2026-10-29T02:30:37+00:00",
  "ultimo_resumen": "2026-10-28",
  "pausado": false,
  "historial_patrimonio": [
@@ -2278,7 +2298,11 @@
   [
    "2026-10-29T01:40:45+00:00",
    10643.28
+  ],
+  [
+   "2026-10-29T02:30:37+00:00",
+   10575.0
   ]
  ],
- "siguiente_id": 54
+ "siguiente_id": 55
 }
