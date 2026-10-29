@@ -719,3 +719,11 @@
 
 - 2026-10-29 10:44 UTC · sin operaciones · patrimonio $10.245,08 (+2.45%)
 - 2026-10-29 11:23 UTC · sin operaciones · patrimonio $10.230,65 (+2.31%)
+
+## 2026-10-29 12:13 UTC · patrimonio $10.149,62 (+1.50%)
+
+- Cerrado long xyz:MSFT a 535.295 (tendencia rota): -$91,08
+- Abierto long xyz:AMD 3x $5.181,65 a 565.51 (stop 558.1615, obj. 580.2071)
+- Abiertas: short xyz:META, long xyz:JP225, short xyz:COIN, long xyz:AMD
+- Sin señal: HYPE, XRP, BNB, DOGE, kPEPE, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:GOLD, xyz:BRENTOIL, xyz:COPPER
+
