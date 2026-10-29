@@ -748,3 +748,13 @@
 - 2026-10-29 18:00 UTC · sin operaciones · patrimonio $10.091,32 (+0.91%)
 - 2026-10-29 18:45 UTC · sin operaciones · patrimonio $10.064,21 (+0.64%)
 - 2026-10-29 19:32 UTC · sin operaciones · patrimonio $10.146,22 (+1.46%)
+
+## 2026-10-29 20:15 UTC · patrimonio $9.957,26 (-0.43%)
+
+- Cerrado long xyz:JP225 a 64000.44 (stop-loss): -$114,59
+- Cerrado long xyz:AMD a 558.1615 (stop-loss): -$72,48
+- Abierto short xyz:SILVER 3x $8.299,76 a 52.271 (stop 52.8984, obj. 51.0162)
+- Abierto long kPEPE 1x $2.030,03 a 0.005188 (stop 0.0049335, obj. 0.00569699)
+- Abiertas: long xyz:AAPL, short xyz:SILVER, long kPEPE
+- Sin señal: BTC, HYPE, BNB, DOGE, kBONK, WIF, PENGU, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:NATGAS, xyz:COPPER
+
