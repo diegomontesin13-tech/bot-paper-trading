@@ -717,3 +717,4 @@
 - Abiertas: long xyz:MSFT, short xyz:META, long xyz:JP225, short xyz:COIN
 - Sin señal: HYPE, XRP, BNB, DOGE, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-10-29 10:44 UTC · sin operaciones · patrimonio $10.245,08 (+2.45%)
