@@ -699,3 +699,4 @@
 - Abiertas: long xyz:MSFT, short xyz:META, long kPEPE
 - Sin señal: BTC, HYPE, XRP, DOGE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+- 2026-10-29 06:14 UTC · sin operaciones · patrimonio $10.411,95 (+4.12%)
