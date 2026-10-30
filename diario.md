@@ -836,3 +836,13 @@
 - Abiertas: short xyz:GOOGL, long HYPE, short xyz:NVDA, short BNB, short xyz:MSTR
 - Sin señal: HYPE, kPEPE, kBONK, WIF, PENGU, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
 
+
+## 2026-10-30 18:42 UTC · patrimonio $10.464,60 (+4.65%)
+
+- Cerrado long HYPE a 89.9874 (stop-loss): -$103,47
+- Cerrado short xyz:NVDA a 202.3777 (objetivo): +$193,81
+- Abierto short BTC 3x $8.420,19 a 76670.5 (stop 77623.98, obj. 74763.55)
+- Abierto short SOL 3x $5.122,02 a 93.8575 (stop 95.7755, obj. 90.0214)
+- Abiertas: short xyz:GOOGL, short BNB, short xyz:MSTR, short BTC, short SOL
+- Sin señal: HYPE, kPEPE, WIF, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
