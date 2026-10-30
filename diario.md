@@ -803,3 +803,4 @@
 - Abiertas: short xyz:PLTR, short xyz:GOOGL, long HYPE, short xyz:AMZN, short xyz:NATGAS
 - Sin señal: kPEPE, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:COPPER
 
+- 2026-10-30 10:44 UTC · sin operaciones · patrimonio $9.809,30 (-1.91%)
