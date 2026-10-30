@@ -818,3 +818,10 @@
 - Abiertas: short xyz:GOOGL, long HYPE, short xyz:NVDA, short BNB
 - Sin señal: kSHIB, kBONK, WIF, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS
 
+
+## 2026-10-30 14:39 UTC · patrimonio $10.183,60 (+1.84%)
+
+- Abierto short xyz:XYZ100 3x $4.532,34 a 28643.5 (stop 28838.62, obj. 28253.27)
+- Abiertas: short xyz:GOOGL, long HYPE, short xyz:NVDA, short BNB, short xyz:XYZ100
+- Sin señal: kSHIB, kBONK, WIF, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS
+
