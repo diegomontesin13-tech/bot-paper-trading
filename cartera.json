@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 697.3934985162728,
+ "efectivo": 119.25275140890164,
  "posiciones": [
   {
    "id": 59,
@@ -15,24 +15,8 @@
    "objetivo": 353.75088,
    "comision_entrada": 6.312387102278633,
    "abierta_en": "2026-10-29T13:16:42+00:00",
-   "revisada_hasta": 1793337900000,
+   "revisada_hasta": 1793340600000,
    "motivo": "tendencia long con momento (fuerza 0.9 ATR)"
-  },
-  {
-   "id": 60,
-   "simbolo": "xyz:SILVER",
-   "mercado": "materia_prima",
-   "lado": "short",
-   "precio_entrada": 52.271,
-   "nocional": 8299.76,
-   "apalancamiento": 3,
-   "margen": 2766.59,
-   "stop": 52.89842303983199,
-   "objetivo": 51.016153920336016,
-   "comision_entrada": 4.149878517687749,
-   "abierta_en": "2026-10-29T20:15:43+00:00",
-   "revisada_hasta": 1793337900000,
-   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   },
   {
    "id": 62,
@@ -47,8 +31,40 @@
    "objetivo": 188.06004654426843,
    "comision_entrada": 3.135218715536506,
    "abierta_en": "2026-10-29T20:58:25+00:00",
-   "revisada_hasta": 1793337900000,
+   "revisada_hasta": 1793340600000,
    "motivo": "tendencia short con momento (fuerza 0.3 ATR)"
+  },
+  {
+   "id": 63,
+   "simbolo": "xyz:GOOGL",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 281.525,
+   "nocional": 7703.43,
+   "apalancamiento": 3,
+   "margen": 2567.81,
+   "stop": 285.2037815965367,
+   "objetivo": 274.16743680692645,
+   "comision_entrada": 3.8517153819881154,
+   "abierta_en": "2026-10-30T06:14:42+00:00",
+   "revisada_hasta": 1793340882000,
+   "motivo": "tendencia short con momento (fuerza 4.1 ATR)"
+  },
+  {
+   "id": 64,
+   "simbolo": "HYPE",
+   "mercado": "cripto",
+   "lado": "long",
+   "precio_entrada": 93.2215,
+   "nocional": 2900.45,
+   "apalancamiento": 3,
+   "margen": 966.82,
+   "stop": 89.98738377372274,
+   "objetivo": 99.68973245255454,
+   "comision_entrada": 1.4502252788874876,
+   "abierta_en": "2026-10-30T06:14:42+00:00",
+   "revisada_hasta": 1793340882000,
+   "motivo": "tendencia long con momento (fuerza 1.8 ATR)"
   }
  ],
  "predicciones": [],
@@ -1228,10 +1244,30 @@
    "cerrada_en": "2026-10-29T20:58:25+00:00",
    "pnl": -101.56,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 60,
+   "simbolo": "xyz:SILVER",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 52.271,
+   "nocional": 8299.76,
+   "apalancamiento": 3,
+   "margen": 2766.59,
+   "stop": 52.89842303983199,
+   "objetivo": 51.016153920336016,
+   "comision_entrada": 4.149878517687749,
+   "abierta_en": "2026-10-29T20:15:43+00:00",
+   "revisada_hasta": 1793340600000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)",
+   "precio_salida": 51.016153920336016,
+   "cerrada_en": "2026-10-30T06:14:42+00:00",
+   "pnl": 191.05,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 436.87714595043974,
- "ultima_ejecucion": "2026-10-30T05:25:11+00:00",
+ "comisiones_pagadas": 446.22934233305256,
+ "ultima_ejecucion": "2026-10-30T06:14:42+00:00",
  "ultimo_resumen": "2026-10-29",
  "pausado": false,
  "historial_patrimonio": [
@@ -2594,7 +2630,11 @@
   [
    "2026-10-30T05:25:11+00:00",
    9975.51
+  ],
+  [
+   "2026-10-30T06:14:42+00:00",
+   10061.03
   ]
  ],
- "siguiente_id": 63
+ "siguiente_id": 65
 }
