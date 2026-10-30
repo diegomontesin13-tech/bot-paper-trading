@@ -851,3 +851,11 @@
 - 2026-10-30 20:56 UTC · sin operaciones · patrimonio $10.187,48 (+1.87%)
 - 2026-10-30 21:34 UTC · sin operaciones · patrimonio $10.185,82 (+1.86%)
 - 2026-10-30 22:11 UTC · sin operaciones · patrimonio $10.170,19 (+1.70%)
+
+## 2026-10-30 22:52 UTC · patrimonio $10.126,74 (+1.27%)
+
+- Cerrado short SOL a 95.7755 (stop-loss): -$109,85
+- Abierto short xyz:SILVER 3x $5.154,32 a 49.3195 (stop 49.8787, obj. 48.2012)
+- Abiertas: short xyz:GOOGL, short BNB, short xyz:MSTR, short BTC, short xyz:SILVER
+- Sin señal: HYPE, XRP, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:PLTR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
+
