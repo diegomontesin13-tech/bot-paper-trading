@@ -846,3 +846,4 @@
 - Abiertas: short xyz:GOOGL, short BNB, short xyz:MSTR, short BTC, short SOL
 - Sin señal: HYPE, kPEPE, WIF, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
 
+- 2026-10-30 19:28 UTC · sin operaciones · patrimonio $10.339,88 (+3.40%)
