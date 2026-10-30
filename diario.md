@@ -828,3 +828,11 @@
 - 2026-10-30 15:33 UTC · sin operaciones · patrimonio $10.184,47 (+1.84%)
 - 2026-10-30 16:22 UTC · sin operaciones · patrimonio $10.281,25 (+2.81%)
 - 2026-10-30 17:15 UTC · sin operaciones · patrimonio $10.391,13 (+3.91%)
+
+## 2026-10-30 17:54 UTC · patrimonio $10.430,97 (+4.31%)
+
+- Cerrado short xyz:XYZ100 a 28253.27 (objetivo): +$57,25
+- Abierto short xyz:MSTR 3x $3.570,41 a 128.93 (stop 132.6973, obj. 121.3953)
+- Abiertas: short xyz:GOOGL, long HYPE, short xyz:NVDA, short BNB, short xyz:MSTR
+- Sin señal: HYPE, kPEPE, kBONK, WIF, PENGU, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
