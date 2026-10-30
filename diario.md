@@ -795,3 +795,11 @@
 - Abiertas: long xyz:AAPL, short xyz:PLTR, short xyz:GOOGL, long HYPE, short xyz:AMZN
 - Sin señal: xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:COPPER
 
+
+## 2026-10-30 09:52 UTC · patrimonio $9.774,71 (-2.25%)
+
+- Cerrado long xyz:AAPL a 345.3946 (stop-loss): -$113,57
+- Abierto short xyz:NATGAS 3x $9.778,01 a 2.9043 (stop 2.9334, obj. 2.8463)
+- Abiertas: short xyz:PLTR, short xyz:GOOGL, long HYPE, short xyz:AMZN, short xyz:NATGAS
+- Sin señal: kPEPE, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:COPPER
+
