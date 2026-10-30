@@ -788,3 +788,10 @@
 
 - 2026-10-30 07:16 UTC · sin operaciones · patrimonio $10.070,36 (+0.70%)
 - 2026-10-30 08:13 UTC · sin operaciones · patrimonio $10.016,19 (+0.16%)
+
+## 2026-10-30 09:05 UTC · patrimonio $9.902,60 (-0.97%)
+
+- Abierto short xyz:AMZN 3x $209,00 a 228.095 (stop 232.4657, obj. 219.3537)
+- Abiertas: long xyz:AAPL, short xyz:PLTR, short xyz:GOOGL, long HYPE, short xyz:AMZN
+- Sin señal: xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:COPPER
+
