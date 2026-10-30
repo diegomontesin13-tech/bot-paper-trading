@@ -807,3 +807,14 @@
 - 2026-10-30 11:20 UTC · sin operaciones · patrimonio $9.896,83 (-1.03%)
 - 2026-10-30 11:59 UTC · sin operaciones · patrimonio $9.920,60 (-0.79%)
 - 2026-10-30 12:48 UTC · sin operaciones · patrimonio $9.945,17 (-0.55%)
+
+## 2026-10-30 13:44 UTC · patrimonio $10.172,02 (+1.72%)
+
+- Cerrado short xyz:PLTR a 188.06 (objetivo): +$191,45
+- Cerrado short xyz:AMZN a 232.4657 (stop-loss): -$4,22
+- Cerrado short xyz:NATGAS a 2.8463 (objetivo): +$185,91
+- Abierto short xyz:NVDA 3x $9.881,81 a 206.635 (stop 208.7636, obj. 202.3777)
+- Abierto short BNB 3x $5.539,58 a 696.595 (stop 709.3897, obj. 671.0057)
+- Abiertas: short xyz:GOOGL, long HYPE, short xyz:NVDA, short BNB
+- Sin señal: kSHIB, kBONK, WIF, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS
+

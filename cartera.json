@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 886.2553110838303,
+ "efectivo": 1538.5177641505402,
  "posiciones": [
-  {
-   "id": 62,
-   "simbolo": "xyz:PLTR",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 194.18,
-   "nocional": 6270.44,
-   "apalancamiento": 3,
-   "margen": 2090.15,
-   "stop": 197.2399767278658,
-   "objetivo": 188.06004654426843,
-   "comision_entrada": 3.135218715536506,
-   "abierta_en": "2026-10-29T20:58:25+00:00",
-   "revisada_hasta": 1793364300000,
-   "motivo": "tendencia short con momento (fuerza 0.3 ATR)"
-  },
   {
    "id": 63,
    "simbolo": "xyz:GOOGL",
@@ -31,7 +15,7 @@
    "objetivo": 274.16743680692645,
    "comision_entrada": 3.8517153819881154,
    "abierta_en": "2026-10-30T06:14:42+00:00",
-   "revisada_hasta": 1793364300000,
+   "revisada_hasta": 1793367600000,
    "motivo": "tendencia short con momento (fuerza 4.1 ATR)"
   },
   {
@@ -47,40 +31,40 @@
    "objetivo": 99.68973245255454,
    "comision_entrada": 1.4502252788874876,
    "abierta_en": "2026-10-30T06:14:42+00:00",
-   "revisada_hasta": 1793364300000,
+   "revisada_hasta": 1793367600000,
    "motivo": "tendencia long con momento (fuerza 1.8 ATR)"
   },
   {
-   "id": 65,
-   "simbolo": "xyz:AMZN",
+   "id": 67,
+   "simbolo": "xyz:NVDA",
    "mercado": "accion",
    "lado": "short",
-   "precio_entrada": 228.095,
-   "nocional": 209.0,
+   "precio_entrada": 206.635,
+   "nocional": 9881.81,
    "apalancamiento": 3,
-   "margen": 69.67,
-   "stop": 232.4656616418804,
-   "objetivo": 219.35367671623916,
-   "comision_entrada": 0.10449923070076875,
-   "abierta_en": "2026-10-30T09:05:49+00:00",
-   "revisada_hasta": 1793364300000,
-   "motivo": "tendencia short con momento (fuerza 2.8 ATR)"
+   "margen": 3293.94,
+   "stop": 208.76364602460004,
+   "objetivo": 202.37770795079996,
+   "comision_entrada": 4.9409055516382,
+   "abierta_en": "2026-10-30T13:44:29+00:00",
+   "revisada_hasta": 1793367869000,
+   "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   },
   {
-   "id": 66,
-   "simbolo": "xyz:NATGAS",
-   "mercado": "materia_prima",
+   "id": 68,
+   "simbolo": "BNB",
+   "mercado": "cripto",
    "lado": "short",
-   "precio_entrada": 2.90435,
-   "nocional": 9778.01,
+   "precio_entrada": 696.595,
+   "nocional": 5539.58,
    "apalancamiento": 3,
-   "margen": 3259.34,
-   "stop": 2.9333982136754977,
-   "objetivo": 2.846253572649004,
-   "comision_entrada": 4.889006602157551,
-   "abierta_en": "2026-10-30T09:52:22+00:00",
-   "revisada_hasta": 1793364300000,
-   "motivo": "tendencia short con momento (fuerza 2.1 ATR)"
+   "margen": 1846.53,
+   "stop": 709.3896571578751,
+   "objetivo": 671.0056856842497,
+   "comision_entrada": 2.7697916295408316,
+   "abierta_en": "2026-10-30T13:44:29+00:00",
+   "revisada_hasta": 1793367869000,
+   "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   }
  ],
  "predicciones": [],
@@ -1300,10 +1284,70 @@
    "cerrada_en": "2026-10-30T09:52:22+00:00",
    "pnl": -113.57,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 62,
+   "simbolo": "xyz:PLTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 194.18,
+   "nocional": 6270.44,
+   "apalancamiento": 3,
+   "margen": 2090.15,
+   "stop": 197.2399767278658,
+   "objetivo": 188.06004654426843,
+   "comision_entrada": 3.135218715536506,
+   "abierta_en": "2026-10-29T20:58:25+00:00",
+   "revisada_hasta": 1793367600000,
+   "motivo": "tendencia short con momento (fuerza 0.3 ATR)",
+   "precio_salida": 188.06004654426843,
+   "cerrada_en": "2026-10-30T13:44:29+00:00",
+   "pnl": 191.45,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 65,
+   "simbolo": "xyz:AMZN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 228.095,
+   "nocional": 209.0,
+   "apalancamiento": 3,
+   "margen": 69.67,
+   "stop": 232.4656616418804,
+   "objetivo": 219.35367671623916,
+   "comision_entrada": 0.10449923070076875,
+   "abierta_en": "2026-10-30T09:05:49+00:00",
+   "revisada_hasta": 1793367600000,
+   "motivo": "tendencia short con momento (fuerza 2.8 ATR)",
+   "precio_salida": 232.4656616418804,
+   "cerrada_en": "2026-10-30T13:44:29+00:00",
+   "pnl": -4.22,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 66,
+   "simbolo": "xyz:NATGAS",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 2.90435,
+   "nocional": 9778.01,
+   "apalancamiento": 3,
+   "margen": 3259.34,
+   "stop": 2.9333982136754977,
+   "objetivo": 2.846253572649004,
+   "comision_entrada": 4.889006602157551,
+   "abierta_en": "2026-10-30T09:52:22+00:00",
+   "revisada_hasta": 1793367600000,
+   "motivo": "tendencia short con momento (fuerza 2.1 ATR)",
+   "precio_salida": 2.846253572649004,
+   "cerrada_en": "2026-10-30T13:44:29+00:00",
+   "pnl": 185.91,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 457.4847340859109,
- "ultima_ejecucion": "2026-10-30T12:48:43+00:00",
+ "comisiones_pagadas": 473.1295502387537,
+ "ultima_ejecucion": "2026-10-30T13:44:29+00:00",
  "ultimo_resumen": "2026-10-29",
  "pausado": false,
  "historial_patrimonio": [
@@ -2702,7 +2746,11 @@
   [
    "2026-10-30T12:48:43+00:00",
    9945.17
+  ],
+  [
+   "2026-10-30T13:44:29+00:00",
+   10172.02
   ]
  ],
- "siguiente_id": 67
+ "siguiente_id": 69
 }
