@@ -870,3 +870,12 @@
 - Abiertas: short xyz:GOOGL, short BTC, short xyz:SILVER, short xyz:XYZ100
 - Sin señal: ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-10-31 01:53 UTC · patrimonio $9.915,51 (-0.84%)
+
+- Cerrado short BTC a 77623.98 (stop-loss): -$113,19
+- Abierto short xyz:AMD 3x $5.843,90 a 509.86 (stop 518.5146, obj. 492.5508)
+- Abierto short xyz:NVDA 3x $2.528,23 a 204.935 (stop 206.8162, obj. 201.1725)
+- Abiertas: short xyz:GOOGL, short xyz:SILVER, short xyz:XYZ100, short xyz:AMD, short xyz:NVDA
+- Sin señal: ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
+
