@@ -879,3 +879,4 @@
 - Abiertas: short xyz:GOOGL, short xyz:SILVER, short xyz:XYZ100, short xyz:AMD, short xyz:NVDA
 - Sin señal: ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
 
+- 2026-10-31 02:45 UTC · sin operaciones · patrimonio $9.943,24 (-0.57%)
