@@ -861,3 +861,12 @@
 
 - 2026-10-30 23:33 UTC · sin operaciones · patrimonio $10.033,08 (+0.33%)
 - 2026-10-31 00:05 UTC · sin operaciones · patrimonio $10.010,05 (+0.10%)
+
+## 2026-10-31 00:56 UTC · patrimonio $9.928,54 (-0.71%)
+
+- Cerrado short BNB a 709.3897 (stop-loss): -$107,34
+- Cerrado short xyz:MSTR a 132.6973 (stop-loss): -$107,95
+- Abierto short xyz:XYZ100 3x $8.520,45 a 28484.5 (stop 28656.95, obj. 28139.6)
+- Abiertas: short xyz:GOOGL, short BTC, short xyz:SILVER, short xyz:XYZ100
+- Sin señal: ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
+
