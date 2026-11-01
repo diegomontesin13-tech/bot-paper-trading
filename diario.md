@@ -961,3 +961,4 @@
 - Abiertas: short xyz:SILVER, short xyz:XYZ100, short xyz:AMD, short xyz:NVDA, short xyz:GOLD
 - Sin señal: ETH, HYPE, XRP, BNB, kPEPE, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:META, xyz:AMZN, xyz:SP500, xyz:JP225, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-01 21:12 UTC · sin operaciones · patrimonio $9.792,73 (-2.07%)
