@@ -928,3 +928,4 @@
 - Abiertas: short xyz:SILVER, short xyz:XYZ100, short xyz:AMD, short xyz:NVDA, long xyz:TSLA
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, FARTCOIN, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+- 2026-11-01 07:34 UTC · sin operaciones · patrimonio $9.795,18 (-2.05%)
