@@ -920,3 +920,11 @@
 - 2026-11-01 04:09 UTC · sin operaciones · patrimonio $9.853,17 (-1.47%)
 - 2026-11-01 05:02 UTC · sin operaciones · patrimonio $9.841,33 (-1.59%)
 - 2026-11-01 05:44 UTC · sin operaciones · patrimonio $9.827,06 (-1.73%)
+
+## 2026-11-01 06:25 UTC · patrimonio $9.803,67 (-1.96%)
+
+- Cerrado short xyz:GOOGL a 283.825 (más de 48 h abierta): -$70,67
+- Abierto long xyz:TSLA 3x $7.375,17 a 399.945 (stop 396.7454, obj. 406.3441)
+- Abiertas: short xyz:SILVER, short xyz:XYZ100, short xyz:AMD, short xyz:NVDA, long xyz:TSLA
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, FARTCOIN, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
