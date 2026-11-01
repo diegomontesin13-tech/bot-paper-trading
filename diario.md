@@ -964,3 +964,10 @@
 - 2026-11-01 21:12 UTC · sin operaciones · patrimonio $9.792,73 (-2.07%)
 - 2026-11-01 21:49 UTC · sin operaciones · patrimonio $9.770,92 (-2.29%)
 - 2026-11-01 22:19 UTC · sin operaciones · patrimonio $9.808,08 (-1.92%)
+
+## 2026-11-01 22:53 UTC · patrimonio $9.807,25 (-1.93%)
+
+- Cerrado short xyz:SILVER a 49.5475 (más de 48 h abierta): -$28,99
+- Abiertas: short xyz:XYZ100, short xyz:AMD, short xyz:NVDA, short xyz:GOLD
+- Sin señal: ETH, HYPE, kPEPE, FARTCOIN, xyz:TSLA, xyz:AMZN, xyz:SP500, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
