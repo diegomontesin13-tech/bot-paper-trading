@@ -971,3 +971,10 @@
 - Abiertas: short xyz:XYZ100, short xyz:AMD, short xyz:NVDA, short xyz:GOLD
 - Sin señal: ETH, HYPE, kPEPE, FARTCOIN, xyz:TSLA, xyz:AMZN, xyz:SP500, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-01 23:33 UTC · patrimonio $9.746,15 (-2.54%)
+
+- Abierto short SOL 3x $4.933,81 a 94.0345 (stop 94.8908, obj. 92.322)
+- Abiertas: short xyz:XYZ100, short xyz:AMD, short xyz:NVDA, short xyz:GOLD, short SOL
+- Sin señal: BTC, ETH, HYPE, XRP, BNB, kPEPE, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
