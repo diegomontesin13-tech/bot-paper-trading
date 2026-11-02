@@ -987,3 +987,10 @@
 - Abiertas: short xyz:XYZ100, short xyz:AMD, short SOL, long TRUMP
 - Sin señal: BTC, ETH, HYPE, XRP, BNB, DOGE, kPEPE, FARTCOIN, xyz:NVDA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-02 00:57 UTC · patrimonio $9.768,19 (-2.32%)
+
+- Cerrado short xyz:XYZ100 a 28561.5 (más de 48 h abierta): -$31,56
+- Abiertas: short xyz:AMD, short SOL, long TRUMP
+- Sin señal: BTC, ETH, HYPE, BNB, kPEPE, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
