@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 2363.443066031837,
+ "efectivo": 430.36440348049734,
  "posiciones": [
-  {
-   "id": 80,
-   "simbolo": "TRUMP",
-   "mercado": "memecoin",
-   "lado": "long",
-   "precio_entrada": 1.704,
-   "nocional": 3222.45,
-   "apalancamiento": 1,
-   "margen": 3222.45,
-   "stop": 1.65288,
-   "objetivo": 1.80624,
-   "comision_entrada": 1.6112248183541091,
-   "abierta_en": "2026-11-02T00:02:37+00:00",
-   "revisada_hasta": 1793601000000,
-   "motivo": "tendencia long con momento (fuerza 1.2 ATR)"
-  },
   {
    "id": 81,
    "simbolo": "xyz:MSFT",
@@ -31,11 +15,43 @@
    "objetivo": 514.82388,
    "comision_entrada": 6.061891667454472,
    "abierta_en": "2026-11-02T01:59:00+00:00",
-   "revisada_hasta": 1793601000000,
+   "revisada_hasta": 1793605800000,
    "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
+  },
+  {
+   "id": 82,
+   "simbolo": "xyz:BRENTOIL",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 110.175,
+   "nocional": 15006.2,
+   "apalancamiento": 3,
+   "margen": 5002.07,
+   "stop": 110.87597097350893,
+   "objetivo": 108.77305805298211,
+   "comision_entrada": 7.503098318381976,
+   "abierta_en": "2026-11-02T07:54:45+00:00",
+   "revisada_hasta": 1793606085000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   }
  ],
- "predicciones": [],
+ "predicciones": [
+  {
+   "id": 83,
+   "outcome": 21268,
+   "lado_id": 1,
+   "titulo": "INTC <= 65.4 (02-11 14:35 UTC)",
+   "subyacente": "xyz:INTC",
+   "umbral": 65.4,
+   "vence": "2026-11-02T14:35:00+00:00",
+   "precio_entrada": 0.22667,
+   "importe": 47.7,
+   "contratos": 210.43711344562922,
+   "comision_entrada": 0.023849890252360388,
+   "abierta_en": "2026-11-02T07:54:45+00:00",
+   "motivo": "modelo 37% vs mercado 23%"
+  }
+ ],
  "cerradas": [
   {
    "id": 2,
@@ -1612,10 +1628,30 @@
    "cerrada_en": "2026-11-02T01:59:00+00:00",
    "pnl": -49.88,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 80,
+   "simbolo": "TRUMP",
+   "mercado": "memecoin",
+   "lado": "long",
+   "precio_entrada": 1.704,
+   "nocional": 3222.45,
+   "apalancamiento": 1,
+   "margen": 3222.45,
+   "stop": 1.65288,
+   "objetivo": 1.80624,
+   "comision_entrada": 1.6112248183541091,
+   "abierta_en": "2026-11-02T00:02:37+00:00",
+   "revisada_hasta": 1793605800000,
+   "motivo": "tendencia long con momento (fuerza 1.2 ATR)",
+   "precio_salida": 1.65288,
+   "cerrada_en": "2026-11-02T07:54:45+00:00",
+   "pnl": -99.85,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 557.3759594611447,
- "ultima_ejecucion": "2026-11-02T06:31:06+00:00",
+ "comisiones_pagadas": 566.465795919779,
+ "ultima_ejecucion": "2026-11-02T07:54:45+00:00",
  "ultimo_resumen": "2026-11-01",
  "pausado": false,
  "historial_patrimonio": [
@@ -3386,7 +3422,11 @@
   [
    "2026-11-02T06:31:06+00:00",
    9556.51
+  ],
+  [
+   "2026-11-02T07:54:45+00:00",
+   9535.07
   ]
  ],
- "siguiente_id": 82
+ "siguiente_id": 84
 }
