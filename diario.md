@@ -1048,3 +1048,4 @@
 - Abiertas: long xyz:EUR, short kBONK
 - Sin señal: BTC, ETH, HYPE, XRP, kPEPE, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-02 15:56 UTC · sin operaciones · patrimonio $9.891,89 (-1.08%)
