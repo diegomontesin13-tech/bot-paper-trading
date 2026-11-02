@@ -1064,3 +1064,4 @@
 - Abiertas: short kBONK, short kSHIB, long xyz:AMZN
 - Sin señal: BTC, XRP, kPEPE, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:AMD, xyz:COIN, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+- 2026-11-02 22:38 UTC · sin operaciones · patrimonio $9.886,98 (-1.13%)
