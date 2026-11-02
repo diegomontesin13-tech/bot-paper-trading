@@ -1037,3 +1037,4 @@
 - Abiertas: long xyz:KR200, long xyz:EUR, INTC <= 65.4 (02-11 14:35 UTC)
 - Sin señal: BTC, ETH, HYPE, kPEPE, TRUMP, xyz:NVDA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-02 12:40 UTC · sin operaciones · patrimonio $9.907,08 (-0.93%)
