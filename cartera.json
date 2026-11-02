@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 430.36440348049734,
+ "efectivo": 1926.0928011394612,
  "posiciones": [
   {
    "id": 81,
@@ -15,24 +15,24 @@
    "objetivo": 514.82388,
    "comision_entrada": 6.061891667454472,
    "abierta_en": "2026-11-02T01:59:00+00:00",
-   "revisada_hasta": 1793609700000,
+   "revisada_hasta": 1793613300000,
    "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
   },
   {
-   "id": 82,
-   "simbolo": "xyz:BRENTOIL",
-   "mercado": "materia_prima",
+   "id": 84,
+   "simbolo": "xyz:COIN",
+   "mercado": "accion",
    "lado": "short",
-   "precio_entrada": 110.175,
-   "nocional": 15006.2,
+   "precio_entrada": 143.465,
+   "nocional": 11053.07,
    "apalancamiento": 3,
-   "margen": 5002.07,
-   "stop": 110.87597097350893,
-   "objetivo": 108.77305805298211,
-   "comision_entrada": 7.503098318381976,
-   "abierta_en": "2026-11-02T07:54:45+00:00",
-   "revisada_hasta": 1793609700000,
-   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
+   "margen": 3684.36,
+   "stop": 144.72458433172213,
+   "objetivo": 140.94583133655578,
+   "comision_entrada": 5.526534869600108,
+   "abierta_en": "2026-11-02T09:58:27+00:00",
+   "revisada_hasta": 1793613507000,
+   "motivo": "tendencia short con momento (fuerza 1.1 ATR)"
   }
  ],
  "predicciones": [
@@ -1648,10 +1648,30 @@
    "cerrada_en": "2026-11-02T07:54:45+00:00",
    "pnl": -99.85,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 82,
+   "simbolo": "xyz:BRENTOIL",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 110.175,
+   "nocional": 15006.2,
+   "apalancamiento": 3,
+   "margen": 5002.07,
+   "stop": 110.87597097350893,
+   "objetivo": 108.77305805298211,
+   "comision_entrada": 7.503098318381976,
+   "abierta_en": "2026-11-02T07:54:45+00:00",
+   "revisada_hasta": 1793613300000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)",
+   "precio_salida": 108.77305805298211,
+   "cerrada_en": "2026-11-02T09:58:27+00:00",
+   "pnl": 176.04,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 566.465795919779,
- "ultima_ejecucion": "2026-11-02T08:58:11+00:00",
+ "comisiones_pagadas": 579.3999562205325,
+ "ultima_ejecucion": "2026-11-02T09:58:27+00:00",
  "ultimo_resumen": "2026-11-01",
  "pausado": false,
  "historial_patrimonio": [
@@ -3430,7 +3450,11 @@
   [
    "2026-11-02T08:58:11+00:00",
    9656.43
+  ],
+  [
+   "2026-11-02T09:58:27+00:00",
+   9698.78
   ]
  ],
- "siguiente_id": 84
+ "siguiente_id": 85
 }
