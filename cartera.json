@@ -1,38 +1,38 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1926.0928011394612,
+ "efectivo": 855.5398075778921,
  "posiciones": [
   {
-   "id": 81,
-   "simbolo": "xyz:MSFT",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 523.195,
-   "nocional": 12123.78,
+   "id": 85,
+   "simbolo": "xyz:KR200",
+   "mercado": "indice",
+   "lado": "long",
+   "precio_entrada": 920.11,
+   "nocional": 8958.97,
    "apalancamiento": 3,
-   "margen": 4041.26,
-   "stop": 527.3805600000001,
-   "objetivo": 514.82388,
-   "comision_entrada": 6.061891667454472,
-   "abierta_en": "2026-11-02T01:59:00+00:00",
-   "revisada_hasta": 1793616900000,
-   "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
+   "margen": 2986.32,
+   "stop": 909.9105088699949,
+   "objetivo": 940.5089822600102,
+   "comision_entrada": 4.479484628218325,
+   "abierta_en": "2026-11-02T11:50:07+00:00",
+   "revisada_hasta": 1793620207000,
+   "motivo": "tendencia long con momento (fuerza 1.7 ATR)"
   },
   {
-   "id": 84,
-   "simbolo": "xyz:COIN",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 143.465,
-   "nocional": 11053.07,
+   "id": 86,
+   "simbolo": "xyz:EUR",
+   "mercado": "forex",
+   "lado": "long",
+   "precio_entrada": 1.1214,
+   "nocional": 17867.89,
    "apalancamiento": 3,
-   "margen": 3684.36,
-   "stop": 144.72458433172213,
-   "objetivo": 140.94583133655578,
-   "comision_entrada": 5.526534869600108,
-   "abierta_en": "2026-11-02T09:58:27+00:00",
-   "revisada_hasta": 1793616900000,
-   "motivo": "tendencia short con momento (fuerza 1.1 ATR)"
+   "margen": 5955.96,
+   "stop": 1.1191571999999999,
+   "objetivo": 1.1258856,
+   "comision_entrada": 8.933944267563776,
+   "abierta_en": "2026-11-02T11:50:07+00:00",
+   "revisada_hasta": 1793620207000,
+   "motivo": "tendencia long con momento (fuerza 1.1 ATR)"
   }
  ],
  "predicciones": [
@@ -1668,10 +1668,50 @@
    "cerrada_en": "2026-11-02T09:58:27+00:00",
    "pnl": 176.04,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 81,
+   "simbolo": "xyz:MSFT",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 523.195,
+   "nocional": 12123.78,
+   "apalancamiento": 3,
+   "margen": 4041.26,
+   "stop": 527.3805600000001,
+   "objetivo": 514.82388,
+   "comision_entrada": 6.061891667454472,
+   "abierta_en": "2026-11-02T01:59:00+00:00",
+   "revisada_hasta": 1793619900000,
+   "motivo": "tendencia short con momento (fuerza 0.6 ATR)",
+   "precio_salida": 524.19,
+   "cerrada_en": "2026-11-02T11:50:07+00:00",
+   "pnl": -35.19,
+   "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 84,
+   "simbolo": "xyz:COIN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 143.465,
+   "nocional": 11053.07,
+   "apalancamiento": 3,
+   "margen": 3684.36,
+   "stop": 144.72458433172213,
+   "objetivo": 140.94583133655578,
+   "comision_entrada": 5.526534869600108,
+   "abierta_en": "2026-11-02T09:58:27+00:00",
+   "revisada_hasta": 1793620200000,
+   "motivo": "tendencia short con momento (fuerza 1.1 ATR)",
+   "precio_salida": 140.94583133655578,
+   "cerrada_en": "2026-11-02T11:50:07+00:00",
+   "pnl": 183.13,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 579.3999562205325,
- "ultima_ejecucion": "2026-11-02T10:55:48+00:00",
+ "comisiones_pagadas": 604.3162954782059,
+ "ultima_ejecucion": "2026-11-02T11:50:07+00:00",
  "ultimo_resumen": "2026-11-01",
  "pausado": false,
  "historial_patrimonio": [
@@ -3458,7 +3498,11 @@
   [
    "2026-11-02T10:55:48+00:00",
    9900.68
+  ],
+  [
+   "2026-11-02T11:50:07+00:00",
+   9917.67
   ]
  ],
- "siguiente_id": 85
+ "siguiente_id": 87
 }
