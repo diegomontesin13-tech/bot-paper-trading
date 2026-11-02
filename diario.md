@@ -1026,3 +1026,4 @@
 - Abiertas: short xyz:MSFT, short xyz:COIN, INTC <= 65.4 (02-11 14:35 UTC)
 - Sin señal: BTC, ETH, HYPE, BNB, kPEPE, TRUMP, xyz:NVDA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-02 10:55 UTC · sin operaciones · patrimonio $9.900,68 (-0.99%)
