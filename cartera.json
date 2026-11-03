@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1900.9822862874455,
+ "efectivo": 110.7413856093112,
  "posiciones": [
   {
    "id": 89,
@@ -15,24 +15,8 @@
    "objetivo": 251.90749861164124,
    "comision_entrada": 4.537971975136604,
    "abierta_en": "2026-11-02T21:55:31+00:00",
-   "revisada_hasta": 1793718900000,
+   "revisada_hasta": 1793722200000,
    "motivo": "tendencia long con momento (fuerza 1.3 ATR)"
-  },
-  {
-   "id": 94,
-   "simbolo": "xyz:PLTR",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 170.955,
-   "nocional": 3402.68,
-   "apalancamiento": 3,
-   "margen": 1134.23,
-   "stop": 175.76771693901648,
-   "objetivo": 161.32956612196708,
-   "comision_entrada": 1.7013399166294652,
-   "abierta_en": "2026-11-03T14:36:37+00:00",
-   "revisada_hasta": 1793718900000,
-   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
    "id": 97,
@@ -47,7 +31,7 @@
    "objetivo": 100.3040450001944,
    "comision_entrada": 2.4960300214715936,
    "abierta_en": "2026-11-03T15:19:19+00:00",
-   "revisada_hasta": 1793719159000,
+   "revisada_hasta": 1793722200000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   },
   {
@@ -63,8 +47,24 @@
    "objetivo": 93.08098640884883,
    "comision_entrada": 2.6024015663965536,
    "abierta_en": "2026-11-03T15:19:19+00:00",
-   "revisada_hasta": 1793719159000,
+   "revisada_hasta": 1793722200000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
+  },
+  {
+   "id": 99,
+   "simbolo": "xyz:NATGAS",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 2.88115,
+   "nocional": 8324.83,
+   "apalancamiento": 3,
+   "margen": 2774.94,
+   "stop": 2.9142513372596635,
+   "objetivo": 2.814947325480673,
+   "comision_entrada": 4.162413604350358,
+   "abierta_en": "2026-11-03T16:12:14+00:00",
+   "revisada_hasta": 1793722334000,
+   "motivo": "tendencia short con momento (fuerza 0.1 ATR)"
   }
  ],
  "predicciones": [
@@ -82,6 +82,21 @@
    "comision_entrada": 0.02393565337038429,
    "abierta_en": "2026-11-03T14:36:37+00:00",
    "motivo": "modelo 93% vs mercado 71%"
+  },
+  {
+   "id": 100,
+   "outcome": 19535,
+   "lado_id": 1,
+   "titulo": "SP500 <= 7695 (04-11 21:00 UTC)",
+   "subyacente": "xyz:SP500",
+   "umbral": 7695.0,
+   "vence": "2026-11-04T21:00:00+00:00",
+   "precio_entrada": 0.8601,
+   "importe": 47.8,
+   "contratos": 55.57593764649706,
+   "comision_entrada": 0.023900431984876062,
+   "abierta_en": "2026-11-03T16:12:14+00:00",
+   "motivo": "modelo 99% vs mercado 86%"
   }
  ],
  "cerradas": [
@@ -1937,10 +1952,30 @@
    "cerrada_en": "2026-11-03T15:19:19+00:00",
    "pnl": 20.8,
    "razon_cierre": "liquidada (73.271 vs 72.1)"
+  },
+  {
+   "id": 94,
+   "simbolo": "xyz:PLTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 170.955,
+   "nocional": 3402.68,
+   "apalancamiento": 3,
+   "margen": 1134.23,
+   "stop": 175.76771693901648,
+   "objetivo": 161.32956612196708,
+   "comision_entrada": 1.7013399166294652,
+   "abierta_en": "2026-11-03T14:36:37+00:00",
+   "revisada_hasta": 1793722200000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)",
+   "precio_salida": 175.76771693901648,
+   "cerrada_en": "2026-11-03T16:12:14+00:00",
+   "pnl": -99.24,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 662.1178775153832,
- "ultima_ejecucion": "2026-11-03T15:19:19+00:00",
+ "comisiones_pagadas": 668.0534275935834,
+ "ultima_ejecucion": "2026-11-03T16:12:14+00:00",
  "ultimo_resumen": "2026-11-02",
  "pausado": false,
  "historial_patrimonio": [
@@ -3851,7 +3886,11 @@
   [
    "2026-11-03T15:19:19+00:00",
    9534.7
+  ],
+  [
+   "2026-11-03T16:12:14+00:00",
+   9558.85
   ]
  ],
- "siguiente_id": 99
+ "siguiente_id": 101
 }

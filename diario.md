@@ -1119,3 +1119,12 @@
 - Abiertas: long xyz:AMZN, short xyz:PLTR, short xyz:BRENTOIL, short xyz:CL, SPCX > 137.95 (03-11 20:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER
 
+
+## 2026-11-03 16:12 UTC · patrimonio $9.558,85 (-4.41%)
+
+- Cerrado short xyz:PLTR a 175.7677 (stop-loss): -$99,24
+- Abierto short xyz:NATGAS 3x $8.324,83 a 2.8811 (stop 2.9143, obj. 2.8149)
+- Apuesta SP500 <= 7695 (04-11 21:00 UTC) $47,80 a 86% (modelo 99%)
+- Abiertas: long xyz:AMZN, short xyz:BRENTOIL, short xyz:CL, short xyz:NATGAS, SPCX > 137.95 (03-11 20:00 UTC), SP500 <= 7695 (04-11 21:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:GOLD, xyz:SILVER
+
