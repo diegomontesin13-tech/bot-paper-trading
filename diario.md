@@ -1097,3 +1097,14 @@
 - Abiertas: long xyz:AMZN, short xyz:AAPL, short xyz:MSFT, SPCX > 136 (03-11 14:35 UTC), CRCL > 72.1 (03-11 14:35 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-03 14:36 UTC · patrimonio $9.573,55 (-4.26%)
+
+- Cerrado short xyz:AAPL a 329.6387 (stop-loss): -$105,67
+- Cerrado short xyz:MSFT a 509.8162 (stop-loss): -$111,89
+- Abierto short xyz:PLTR 3x $3.402,68 a 170.955 (stop 175.7677, obj. 161.3296)
+- Abierto short xyz:AAPL 3x $6.488,59 a 326.955 (stop 331.781, obj. 317.3029)
+- Apuesta SPCX > 137.95 (03-11 20:00 UTC) $47,87 a 71% (modelo 93%)
+- Abiertas: long xyz:AMZN, short xyz:PLTR, short xyz:AAPL, SPCX > 136 (03-11 14:35 UTC), CRCL > 72.1 (03-11 14:35 UTC), SPCX > 137.95 (03-11 20:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:NATGAS
+

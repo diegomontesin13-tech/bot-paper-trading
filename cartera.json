@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 71.49846822011204,
+ "efectivo": 3109.067723751187,
  "posiciones": [
   {
    "id": 89,
@@ -15,40 +15,40 @@
    "objetivo": 251.90749861164124,
    "comision_entrada": 4.537971975136604,
    "abierta_en": "2026-11-02T21:55:31+00:00",
-   "revisada_hasta": 1793713200000,
+   "revisada_hasta": 1793716500000,
    "motivo": "tendencia long con momento (fuerza 1.3 ATR)"
   },
   {
-   "id": 90,
+   "id": 94,
+   "simbolo": "xyz:PLTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 170.955,
+   "nocional": 3402.68,
+   "apalancamiento": 3,
+   "margen": 1134.23,
+   "stop": 175.76771693901648,
+   "objetivo": 161.32956612196708,
+   "comision_entrada": 1.7013399166294652,
+   "abierta_en": "2026-11-03T14:36:37+00:00",
+   "revisada_hasta": 1793716597000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
+  },
+  {
+   "id": 95,
    "simbolo": "xyz:AAPL",
    "mercado": "accion",
    "lado": "short",
-   "precio_entrada": 325.295,
-   "nocional": 7359.03,
+   "precio_entrada": 326.955,
+   "nocional": 6488.59,
    "apalancamiento": 3,
-   "margen": 2453.01,
-   "stop": 329.63867741279904,
-   "objetivo": 316.607645174402,
-   "comision_entrada": 3.679517002772455,
-   "abierta_en": "2026-11-03T12:25:12+00:00",
-   "revisada_hasta": 1793713200000,
-   "motivo": "tendencia short con momento (fuerza 1.9 ATR)"
-  },
-  {
-   "id": 93,
-   "simbolo": "xyz:MSFT",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 505.77,
-   "nocional": 12426.49,
-   "apalancamiento": 3,
-   "margen": 4142.16,
-   "stop": 509.81615999999997,
-   "objetivo": 497.67767999999995,
-   "comision_entrada": 6.213245345227125,
-   "abierta_en": "2026-11-03T13:41:20+00:00",
-   "revisada_hasta": 1793713280000,
-   "motivo": "tendencia short con momento (fuerza 2.9 ATR)"
+   "margen": 2162.86,
+   "stop": 331.78103054818223,
+   "objetivo": 317.3029389036355,
+   "comision_entrada": 3.244296461950669,
+   "abierta_en": "2026-11-03T14:36:37+00:00",
+   "revisada_hasta": 1793716597000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   }
  ],
  "predicciones": [
@@ -81,6 +81,21 @@
    "comision_entrada": 0.024552472590277336,
    "abierta_en": "2026-11-03T12:25:12+00:00",
    "motivo": "modelo 84% vs mercado 70%"
+  },
+  {
+   "id": 96,
+   "outcome": 23692,
+   "lado_id": 0,
+   "titulo": "SPCX > 137.95 (03-11 20:00 UTC)",
+   "subyacente": "xyz:SPCX",
+   "umbral": 137.95,
+   "vence": "2026-11-03T20:00:00+00:00",
+   "precio_entrada": 0.71026,
+   "importe": 47.87,
+   "contratos": 67.39969411309742,
+   "comision_entrada": 0.02393565337038429,
+   "abierta_en": "2026-11-03T14:36:37+00:00",
+   "motivo": "modelo 93% vs mercado 71%"
   }
  ],
  "cerradas": [
@@ -1838,10 +1853,50 @@
    "cerrada_en": "2026-11-03T13:41:20+00:00",
    "pnl": -23.1,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 90,
+   "simbolo": "xyz:AAPL",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 325.295,
+   "nocional": 7359.03,
+   "apalancamiento": 3,
+   "margen": 2453.01,
+   "stop": 329.63867741279904,
+   "objetivo": 316.607645174402,
+   "comision_entrada": 3.679517002772455,
+   "abierta_en": "2026-11-03T12:25:12+00:00",
+   "revisada_hasta": 1793716500000,
+   "motivo": "tendencia short con momento (fuerza 1.9 ATR)",
+   "precio_salida": 329.63867741279904,
+   "cerrada_en": "2026-11-03T14:36:37+00:00",
+   "pnl": -105.67,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 93,
+   "simbolo": "xyz:MSFT",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 505.77,
+   "nocional": 12426.49,
+   "apalancamiento": 3,
+   "margen": 4142.16,
+   "stop": 509.81615999999997,
+   "objetivo": 497.67767999999995,
+   "comision_entrada": 6.213245345227125,
+   "abierta_en": "2026-11-03T13:41:20+00:00",
+   "revisada_hasta": 1793716500000,
+   "motivo": "tendencia short con momento (fuerza 2.9 ATR)",
+   "precio_salida": 509.81615999999997,
+   "cerrada_en": "2026-11-03T14:36:37+00:00",
+   "pnl": -111.89,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 638.7660926933964,
- "ultima_ejecucion": "2026-11-03T13:41:20+00:00",
+ "comisiones_pagadas": 653.7272633993313,
+ "ultima_ejecucion": "2026-11-03T14:36:37+00:00",
  "ultimo_resumen": "2026-11-02",
  "pausado": false,
  "historial_patrimonio": [
@@ -3744,7 +3799,11 @@
   [
    "2026-11-03T13:41:20+00:00",
    9934.98
+  ],
+  [
+   "2026-11-03T14:36:37+00:00",
+   9573.55
   ]
  ],
- "siguiente_id": 94
+ "siguiente_id": 97
 }
