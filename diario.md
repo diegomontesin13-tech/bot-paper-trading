@@ -1137,3 +1137,4 @@
 - Abiertas: long xyz:AMZN, short xyz:BRENTOIL, short xyz:CL, SPCX > 137.95 (03-11 20:00 UTC), SP500 <= 7695 (04-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:NATGAS
 
+- 2026-11-03 19:35 UTC · sin operaciones · patrimonio $9.595,15 (-4.05%)
