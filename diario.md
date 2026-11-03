@@ -1079,3 +1079,13 @@
 - 2026-11-03 09:37 UTC · sin operaciones · patrimonio $9.914,93 (-0.85%)
 - 2026-11-03 10:39 UTC · sin operaciones · patrimonio $9.930,84 (-0.69%)
 - 2026-11-03 11:35 UTC · sin operaciones · patrimonio $9.887,84 (-1.12%)
+
+## 2026-11-03 12:25 UTC · patrimonio $9.819,94 (-1.80%)
+
+- Cerrado short kSHIB a 0.004625 (tendencia rota): -$32,07
+- Abierto short xyz:AAPL 3x $7.359,03 a 325.295 (stop 329.6387, obj. 316.6076)
+- Apuesta SPCX > 136 (03-11 14:35 UTC) $49,11 a 79% (modelo 92%)
+- Apuesta CRCL > 72.1 (03-11 14:35 UTC) $49,10 a 70% (modelo 84%)
+- Abiertas: short kBONK, long xyz:AMZN, short xyz:AAPL, SPCX > 136 (03-11 14:35 UTC), CRCL > 72.1 (03-11 14:35 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:CL, xyz:NATGAS
+
