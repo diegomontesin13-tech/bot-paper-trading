@@ -1108,3 +1108,14 @@
 - Abiertas: long xyz:AMZN, short xyz:PLTR, short xyz:AAPL, SPCX > 136 (03-11 14:35 UTC), CRCL > 72.1 (03-11 14:35 UTC), SPCX > 137.95 (03-11 20:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:NATGAS
 
+
+## 2026-11-03 15:19 UTC · patrimonio $9.534,70 (-4.65%)
+
+- Cerrado short xyz:AAPL a 331.781 (stop-loss): -$102,31
+- Predicción SPCX > 136 (03-11 14:35 UTC): GANADA +$13,11
+- Predicción CRCL > 72.1 (03-11 14:35 UTC): GANADA +$20,80
+- Abierto short xyz:BRENTOIL 3x $4.992,06 a 104.29 (stop 106.283, obj. 100.304)
+- Abierto short xyz:CL 3x $5.204,80 a 96.622 (stop 98.3925, obj. 93.081)
+- Abiertas: long xyz:AMZN, short xyz:PLTR, short xyz:BRENTOIL, short xyz:CL, SPCX > 137.95 (03-11 20:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER
+
