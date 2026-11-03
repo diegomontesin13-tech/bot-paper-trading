@@ -1089,3 +1089,11 @@
 - Abiertas: short kBONK, long xyz:AMZN, short xyz:AAPL, SPCX > 136 (03-11 14:35 UTC), CRCL > 72.1 (03-11 14:35 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:CL, xyz:NATGAS
 
+
+## 2026-11-03 13:41 UTC · patrimonio $9.934,98 (-0.65%)
+
+- Cerrado short kBONK a 0.002854 (tendencia rota): -$23,10
+- Abierto short xyz:MSFT 3x $12.426,49 a 505.77 (stop 509.8162, obj. 497.6777)
+- Abiertas: long xyz:AMZN, short xyz:AAPL, short xyz:MSFT, SPCX > 136 (03-11 14:35 UTC), CRCL > 72.1 (03-11 14:35 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
