@@ -1,39 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1987.0682086698228,
+ "efectivo": 497.4339171429692,
  "posiciones": [
-  {
-   "id": 97,
-   "simbolo": "xyz:BRENTOIL",
-   "mercado": "materia_prima",
-   "lado": "short",
-   "precio_entrada": 104.29,
-   "nocional": 4992.06,
-   "apalancamiento": 3,
-   "margen": 1664.02,
-   "stop": 106.28297749990281,
-   "objetivo": 100.3040450001944,
-   "comision_entrada": 2.4960300214715936,
-   "abierta_en": "2026-11-03T15:19:19+00:00",
-   "revisada_hasta": 1793799600000,
-   "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
-  },
-  {
-   "id": 98,
-   "simbolo": "xyz:CL",
-   "mercado": "materia_prima",
-   "lado": "short",
-   "precio_entrada": 96.622,
-   "nocional": 5204.8,
-   "apalancamiento": 3,
-   "margen": 1734.93,
-   "stop": 98.39250679557558,
-   "objetivo": 93.08098640884883,
-   "comision_entrada": 2.6024015663965536,
-   "abierta_en": "2026-11-03T15:19:19+00:00",
-   "revisada_hasta": 1793799600000,
-   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
-  },
   {
    "id": 108,
    "simbolo": "xyz:PLTR",
@@ -47,7 +15,7 @@
    "objetivo": 162.48063170527482,
    "comision_entrada": 1.8819826324843951,
    "abierta_en": "2026-11-04T07:34:10+00:00",
-   "revisada_hasta": 1793799600000,
+   "revisada_hasta": 1793803200000,
    "motivo": "tendencia short con momento (fuerza 1.1 ATR)"
   },
   {
@@ -63,7 +31,7 @@
    "objetivo": 1.1285791868026989,
    "comision_entrada": 0.74024013803675,
    "abierta_en": "2026-11-04T07:34:10+00:00",
-   "revisada_hasta": 1793799600000,
+   "revisada_hasta": 1793803200000,
    "motivo": "tendencia long con momento (fuerza 1.0 ATR)"
   },
   {
@@ -79,8 +47,40 @@
    "objetivo": 372.2072577745893,
    "comision_entrada": 3.019515122739731,
    "abierta_en": "2026-11-04T09:29:01+00:00",
-   "revisada_hasta": 1793799600000,
+   "revisada_hasta": 1793803200000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
+  },
+  {
+   "id": 111,
+   "simbolo": "ETH",
+   "mercado": "cripto",
+   "lado": "long",
+   "precio_entrada": 2335.6,
+   "nocional": 8494.13,
+   "apalancamiento": 3,
+   "margen": 2831.38,
+   "stop": 2309.2913950635434,
+   "objetivo": 2388.2172098729134,
+   "comision_entrada": 4.247062635448151,
+   "abierta_en": "2026-11-04T14:41:36+00:00",
+   "revisada_hasta": 1793803296000,
+   "motivo": "tendencia long con momento (fuerza 0.9 ATR)"
+  },
+  {
+   "id": 112,
+   "simbolo": "XRP",
+   "mercado": "cripto",
+   "lado": "long",
+   "precio_entrada": 1.3016,
+   "nocional": 7277.87,
+   "apalancamiento": 3,
+   "margen": 2425.96,
+   "stop": 1.2844959690785234,
+   "objetivo": 1.3358080618429535,
+   "comision_entrada": 3.638936599428258,
+   "abierta_en": "2026-11-04T14:41:36+00:00",
+   "revisada_hasta": 1793803296000,
+   "motivo": "tendencia long con momento (fuerza 0.8 ATR)"
   }
  ],
  "predicciones": [
@@ -2172,10 +2172,50 @@
    "cerrada_en": "2026-11-04T09:29:01+00:00",
    "pnl": -106.19,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 97,
+   "simbolo": "xyz:BRENTOIL",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 104.29,
+   "nocional": 4992.06,
+   "apalancamiento": 3,
+   "margen": 1664.02,
+   "stop": 106.28297749990281,
+   "objetivo": 100.3040450001944,
+   "comision_entrada": 2.4960300214715936,
+   "abierta_en": "2026-11-03T15:19:19+00:00",
+   "revisada_hasta": 1793803200000,
+   "motivo": "tendencia short con momento (fuerza 1.4 ATR)",
+   "precio_salida": 100.3040450001944,
+   "cerrada_en": "2026-11-04T14:41:36+00:00",
+   "pnl": 185.9,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 98,
+   "simbolo": "xyz:CL",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 96.622,
+   "nocional": 5204.8,
+   "apalancamiento": 3,
+   "margen": 1734.93,
+   "stop": 98.39250679557558,
+   "objetivo": 93.08098640884883,
+   "comision_entrada": 2.6024015663965536,
+   "abierta_en": "2026-11-03T15:19:19+00:00",
+   "revisada_hasta": 1793803200000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)",
+   "precio_salida": 93.08098640884883,
+   "cerrada_en": "2026-11-04T14:41:36+00:00",
+   "pnl": 185.64,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 742.428566735499,
- "ultima_ejecucion": "2026-11-04T13:43:54+00:00",
+ "comisiones_pagadas": 755.2222248754433,
+ "ultima_ejecucion": "2026-11-04T14:41:36+00:00",
  "ultimo_resumen": "2026-11-03",
  "pausado": false,
  "historial_patrimonio": [
@@ -4182,7 +4222,11 @@
   [
    "2026-11-04T13:43:54+00:00",
    9656.87
+  ],
+  [
+   "2026-11-04T14:41:36+00:00",
+   9560.05
   ]
  ],
- "siguiente_id": 111
+ "siguiente_id": 113
 }

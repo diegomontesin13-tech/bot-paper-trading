@@ -1221,3 +1221,13 @@
 - 2026-11-04 11:38 UTC · sin operaciones · patrimonio $9.419,59 (-5.80%)
 - 2026-11-04 12:33 UTC · sin operaciones · patrimonio $9.601,49 (-3.99%)
 - 2026-11-04 13:43 UTC · sin operaciones · patrimonio $9.656,87 (-3.43%)
+
+## 2026-11-04 14:41 UTC · patrimonio $9.560,05 (-4.40%)
+
+- Cerrado short xyz:BRENTOIL a 100.304 (objetivo): +$185,90
+- Cerrado short xyz:CL a 93.081 (objetivo): +$185,64
+- Abierto long ETH 3x $8.494,13 a 2335.6 (stop 2309.29, obj. 2388.22)
+- Abierto long XRP 3x $7.277,87 a 1.3016 (stop 1.2845, obj. 1.3358)
+- Abiertas: short xyz:PLTR, long xyz:EUR, short xyz:TSLA, long ETH, long XRP, SP500 <= 7695 (04-11 21:00 UTC)
+- Sin señal: BTC, SOL, HYPE, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
