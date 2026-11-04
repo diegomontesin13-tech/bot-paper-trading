@@ -1199,3 +1199,12 @@
 - Abiertas: short xyz:BRENTOIL, short xyz:CL, short HYPE, short xyz:COPPER, SP500 <= 7695 (04-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, BNB, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS
 
+
+## 2026-11-04 07:34 UTC · patrimonio $9.232,29 (-7.68%)
+
+- Cerrado short HYPE a 85.2635 (stop-loss): -$102,21
+- Abierto short xyz:PLTR 3x $3.763,97 a 170.865 (stop 175.0572, obj. 162.4806)
+- Abierto long xyz:EUR 3x $1.480,48 a 1.1239 (stop 1.1216, obj. 1.1286)
+- Abiertas: short xyz:BRENTOIL, short xyz:CL, short xyz:COPPER, short xyz:PLTR, long xyz:EUR, SP500 <= 7695 (04-11 21:00 UTC)
+- Sin señal: BTC, SOL, HYPE, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
