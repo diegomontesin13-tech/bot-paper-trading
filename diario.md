@@ -1271,3 +1271,10 @@
 
 - 2026-11-04 19:31 UTC · sin operaciones · patrimonio $10.084,00 (+0.84%)
 - 2026-11-04 20:21 UTC · sin operaciones · patrimonio $10.120,27 (+1.20%)
+
+## 2026-11-04 21:12 UTC · patrimonio $10.168,47 (+1.68%)
+
+- Predicción SP500 <= 7695 (04-11 21:00 UTC): GANADA +$7,75
+- Abiertas: long xyz:EUR, long xyz:SILVER, long kBONK, short xyz:KR200, short HYPE
+- Sin señal: BTC, ETH, SOL, BNB, DOGE, kPEPE, kSHIB, WIF, PENGU, TRUMP, xyz:AAPL, xyz:MSFT, xyz:PLTR, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
