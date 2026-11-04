@@ -1269,3 +1269,4 @@
 - Abiertas: long xyz:EUR, long xyz:SILVER, long kBONK, short xyz:KR200, short HYPE, SP500 <= 7695 (04-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, BNB, DOGE, kSHIB, WIF, PENGU, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-04 19:31 UTC · sin operaciones · patrimonio $10.084,00 (+0.84%)
