@@ -1208,3 +1208,4 @@
 - Abiertas: short xyz:BRENTOIL, short xyz:CL, short xyz:COPPER, short xyz:PLTR, long xyz:EUR, SP500 <= 7695 (04-11 21:00 UTC)
 - Sin señal: BTC, SOL, HYPE, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-04 08:33 UTC · sin operaciones · patrimonio $9.228,61 (-7.71%)
