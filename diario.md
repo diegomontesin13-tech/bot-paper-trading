@@ -1175,3 +1175,10 @@
 - Abiertas: short xyz:BRENTOIL, short xyz:CL, short xyz:AAPL, short xyz:PLTR, SP500 <= 7695 (04-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, TRUMP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:COPPER
 
+
+## 2026-11-04 04:10 UTC · patrimonio $9.789,44 (-2.11%)
+
+- Abierto short HYPE 3x $4.241,33 a 83.3395 (stop 85.2635, obj. 79.4915)
+- Abiertas: short xyz:BRENTOIL, short xyz:CL, short xyz:AAPL, short xyz:PLTR, short HYPE, SP500 <= 7695 (04-11 21:00 UTC)
+- Sin señal: ETH, XRP, kPEPE, kBONK, FARTCOIN, TRUMP, xyz:TSLA, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:COPPER
+
