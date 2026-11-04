@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 2.0535692703959967,
+ "efectivo": 858.76095202962,
  "posiciones": [
   {
    "id": 97,
@@ -15,7 +15,7 @@
    "objetivo": 100.3040450001944,
    "comision_entrada": 2.4960300214715936,
    "abierta_en": "2026-11-03T15:19:19+00:00",
-   "revisada_hasta": 1793750700000,
+   "revisada_hasta": 1793755200000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 93.08098640884883,
    "comision_entrada": 2.6024015663965536,
    "abierta_en": "2026-11-03T15:19:19+00:00",
-   "revisada_hasta": 1793750700000,
+   "revisada_hasta": 1793755200000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   },
   {
@@ -47,24 +47,8 @@
    "objetivo": 6.322325899012054,
    "comision_entrada": 7.85561491425157,
    "abierta_en": "2026-11-03T20:24:31+00:00",
-   "revisada_hasta": 1793750700000,
+   "revisada_hasta": 1793755200000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
-  },
-  {
-   "id": 102,
-   "simbolo": "xyz:AMZN",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 250.305,
-   "nocional": 2640.99,
-   "apalancamiento": 3,
-   "margen": 880.33,
-   "stop": 248.1902152904356,
-   "objetivo": 254.53456941912884,
-   "comision_entrada": 1.3204968073755063,
-   "abierta_en": "2026-11-03T22:03:39+00:00",
-   "revisada_hasta": 1793750700000,
-   "motivo": "tendencia long con momento (fuerza 1.5 ATR)"
   }
  ],
  "predicciones": [
@@ -2016,10 +2000,30 @@
    "cerrada_en": "2026-11-03T20:24:31+00:00",
    "pnl": 19.51,
    "razon_cierre": "liquidada (140.69 vs 137.95)"
+  },
+  {
+   "id": 102,
+   "simbolo": "xyz:AMZN",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 250.305,
+   "nocional": 2640.99,
+   "apalancamiento": 3,
+   "margen": 880.33,
+   "stop": 248.1902152904356,
+   "objetivo": 254.53456941912884,
+   "comision_entrada": 1.3204968073755063,
+   "abierta_en": "2026-11-03T22:03:39+00:00",
+   "revisada_hasta": 1793755200000,
+   "motivo": "tendencia long con momento (fuerza 1.5 ATR)",
+   "precio_salida": 248.1902152904356,
+   "cerrada_en": "2026-11-04T01:23:48+00:00",
+   "pnl": -24.94,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 686.0481749645448,
- "ultima_ejecucion": "2026-11-04T00:09:28+00:00",
+ "comisiones_pagadas": 687.3575133251047,
+ "ultima_ejecucion": "2026-11-04T01:23:48+00:00",
  "ultimo_resumen": "2026-11-03",
  "pausado": false,
  "historial_patrimonio": [
@@ -3974,6 +3978,10 @@
   [
    "2026-11-04T00:09:28+00:00",
    9550.25
+  ],
+  [
+   "2026-11-04T01:23:48+00:00",
+   9588.49
   ]
  ],
  "siguiente_id": 103
