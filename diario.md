@@ -1261,3 +1261,11 @@
 - Abiertas: long xyz:EUR, long xyz:SILVER, short xyz:TSLA, long kBONK, short xyz:KR200, SP500 <= 7695 (04-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, BNB, DOGE, kSHIB, WIF, PENGU, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-04 18:27 UTC · patrimonio $10.043,87 (+0.44%)
+
+- Cerrado short xyz:TSLA a 391.1138 (stop-loss): -$105,32
+- Abierto short HYPE 3x $3.921,84 a 84.7215 (stop 86.8917, obj. 80.3812)
+- Abiertas: long xyz:EUR, long xyz:SILVER, long kBONK, short xyz:KR200, short HYPE, SP500 <= 7695 (04-11 21:00 UTC)
+- Sin señal: BTC, ETH, SOL, BNB, DOGE, kSHIB, WIF, PENGU, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
