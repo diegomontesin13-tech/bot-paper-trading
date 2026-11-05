@@ -1356,3 +1356,12 @@
 - Abiertas: long xyz:NATGAS, short xyz:COPPER, long xyz:GOLD, long xyz:EUR
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-11-05 18:51 UTC · patrimonio $10.230,19 (+2.30%)
+
+- Cerrado long xyz:NATGAS a 2.9643 (stop-loss): -$112,24
+- Cerrado long xyz:EUR a 1.1229 (tendencia rota): -$0,18
+- Abierto short TRUMP 1x $1.923,18 a 1.1891 (stop 1.2524, obj. 1.0626)
+- Abiertas: short xyz:COPPER, long xyz:GOLD, short TRUMP
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+
