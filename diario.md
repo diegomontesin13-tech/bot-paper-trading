@@ -1322,3 +1322,13 @@
 - Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:AAPL, xyz:AMZN, xyz:COIN, xyz:MSTR, xyz:EUR, xyz:CL, xyz:BRENTOIL
 
 - 2026-11-05 13:58 UTC · sin operaciones · patrimonio $10.415,81 (+4.16%)
+
+## 2026-11-05 14:54 UTC · patrimonio $10.413,26 (+4.13%)
+
+- Cerrado long kBONK a 0.00296432 (stop-loss): -$104,03
+- Cerrado short HYPE a 80.3812 (objetivo): +$197,10
+- Cerrado long xyz:MSFT a 548.2392 (stop-loss): -$114,69
+- Abierto long xyz:GOLD 3x $15.697,30 a 4107.05 (stop 4079.78, obj. 4161.58)
+- Abiertas: short xyz:KR200, long xyz:GOLD
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+

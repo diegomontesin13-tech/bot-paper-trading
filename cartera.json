@@ -1,55 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 152.92093544935324,
+ "efectivo": 2930.2692077736665,
  "posiciones": [
-  {
-   "id": 117,
-   "simbolo": "kBONK",
-   "mercado": "memecoin",
-   "lado": "long",
-   "precio_entrada": 0.003056,
-   "nocional": 3357.3,
-   "apalancamiento": 1,
-   "margen": 3357.3,
-   "stop": 0.00296432,
-   "objetivo": 0.00323936,
-   "comision_entrada": 1.6786509671539955,
-   "abierta_en": "2026-11-04T17:36:37+00:00",
-   "revisada_hasta": 1793886900000,
-   "motivo": "tendencia long con momento (fuerza 1.3 ATR)"
-  },
-  {
-   "id": 119,
-   "simbolo": "HYPE",
-   "mercado": "cripto",
-   "lado": "short",
-   "precio_entrada": 84.7215,
-   "nocional": 3921.84,
-   "apalancamiento": 3,
-   "margen": 1307.28,
-   "stop": 86.89165193513477,
-   "objetivo": 80.38119612973047,
-   "comision_entrada": 1.9609181714893518,
-   "abierta_en": "2026-11-04T18:27:16+00:00",
-   "revisada_hasta": 1793886900000,
-   "motivo": "tendencia short con momento (fuerza 0.1 ATR)"
-  },
-  {
-   "id": 121,
-   "simbolo": "xyz:MSFT",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 553.98,
-   "nocional": 10097.94,
-   "apalancamiento": 3,
-   "margen": 3365.98,
-   "stop": 548.2391858184806,
-   "objetivo": 565.4616283630389,
-   "comision_entrada": 5.048968642309703,
-   "abierta_en": "2026-11-05T02:30:10+00:00",
-   "revisada_hasta": 1793886900000,
-   "motivo": "tendencia long con momento (fuerza 3.2 ATR)"
-  },
   {
    "id": 122,
    "simbolo": "xyz:KR200",
@@ -63,8 +15,24 @@
    "objetivo": 808.0858108390648,
    "comision_entrada": 3.1715253672889383,
    "abierta_en": "2026-11-05T12:42:05+00:00",
-   "revisada_hasta": 1793886900000,
+   "revisada_hasta": 1793890200000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
+  },
+  {
+   "id": 123,
+   "simbolo": "xyz:GOLD",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 4107.05,
+   "nocional": 15697.3,
+   "apalancamiento": 3,
+   "margen": 5232.43,
+   "stop": 4079.784131364048,
+   "objetivo": 4161.581737271905,
+   "comision_entrada": 7.848648075697041,
+   "abierta_en": "2026-11-05T14:54:36+00:00",
+   "revisada_hasta": 1793890476000,
+   "motivo": "tendencia long con momento (fuerza 2.8 ATR)"
   }
  ],
  "predicciones": [],
@@ -2419,10 +2387,70 @@
    "cerrada_en": "2026-11-05T12:42:05+00:00",
    "pnl": -107.96,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 117,
+   "simbolo": "kBONK",
+   "mercado": "memecoin",
+   "lado": "long",
+   "precio_entrada": 0.003056,
+   "nocional": 3357.3,
+   "apalancamiento": 1,
+   "margen": 3357.3,
+   "stop": 0.00296432,
+   "objetivo": 0.00323936,
+   "comision_entrada": 1.6786509671539955,
+   "abierta_en": "2026-11-04T17:36:37+00:00",
+   "revisada_hasta": 1793890200000,
+   "motivo": "tendencia long con momento (fuerza 1.3 ATR)",
+   "precio_salida": 0.00296432,
+   "cerrada_en": "2026-11-05T14:54:36+00:00",
+   "pnl": -104.03,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 119,
+   "simbolo": "HYPE",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 84.7215,
+   "nocional": 3921.84,
+   "apalancamiento": 3,
+   "margen": 1307.28,
+   "stop": 86.89165193513477,
+   "objetivo": 80.38119612973047,
+   "comision_entrada": 1.9609181714893518,
+   "abierta_en": "2026-11-04T18:27:16+00:00",
+   "revisada_hasta": 1793890200000,
+   "motivo": "tendencia short con momento (fuerza 0.1 ATR)",
+   "precio_salida": 80.38119612973047,
+   "cerrada_en": "2026-11-05T14:54:36+00:00",
+   "pnl": 197.1,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 121,
+   "simbolo": "xyz:MSFT",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 553.98,
+   "nocional": 10097.94,
+   "apalancamiento": 3,
+   "margen": 3365.98,
+   "stop": 548.2391858184806,
+   "objetivo": 565.4616283630389,
+   "comision_entrada": 5.048968642309703,
+   "abierta_en": "2026-11-05T02:30:10+00:00",
+   "revisada_hasta": 1793890200000,
+   "motivo": "tendencia long con momento (fuerza 3.2 ATR)",
+   "precio_salida": 548.2391858184806,
+   "cerrada_en": "2026-11-05T14:54:36+00:00",
+   "pnl": -114.69,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 812.7107085662797,
- "ultima_ejecucion": "2026-11-05T13:58:43+00:00",
+ "comisiones_pagadas": 829.0447569725779,
+ "ultima_ejecucion": "2026-11-05T14:54:36+00:00",
  "ultimo_resumen": "2026-11-04",
  "pausado": false,
  "historial_patrimonio": [
@@ -4529,7 +4557,11 @@
   [
    "2026-11-05T13:58:43+00:00",
    10415.81
+  ],
+  [
+   "2026-11-05T14:54:36+00:00",
+   10413.26
   ]
  ],
- "siguiente_id": 123
+ "siguiente_id": 124
 }
