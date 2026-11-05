@@ -1367,3 +1367,11 @@
 
 - 2026-11-05 19:39 UTC · sin operaciones · patrimonio $10.228,62 (+2.29%)
 - 2026-11-05 20:30 UTC · sin operaciones · patrimonio $10.259,45 (+2.59%)
+
+## 2026-11-05 21:19 UTC · patrimonio $10.241,49 (+2.41%)
+
+- Cerrado long xyz:GOLD a 4088.35 (stop-loss): -$99,08
+- Abierto short WIF 1x $3.414,40 a 0.16316 (stop 0.1680548, obj. 0.1533704)
+- Abiertas: short xyz:COPPER, short TRUMP, short WIF
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, DOGE, kBONK, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
