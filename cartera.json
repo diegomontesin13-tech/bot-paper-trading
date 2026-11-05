@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 50.41451283453125,
+ "efectivo": 25.26530282089739,
  "posiciones": [
   {
    "id": 124,
@@ -15,7 +15,7 @@
    "objetivo": 3.072885126968653,
    "comision_entrada": 4.298297581400714,
    "abierta_en": "2026-11-05T15:56:03+00:00",
-   "revisada_hasta": 1793898300000,
+   "revisada_hasta": 1793901300000,
    "motivo": "tendencia long con momento (fuerza 0.8 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 6.164763495530364,
    "comision_entrada": 5.471598790136491,
    "abierta_en": "2026-11-05T15:56:03+00:00",
-   "revisada_hasta": 1793898300000,
+   "revisada_hasta": 1793901300000,
    "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
   },
   {
@@ -47,8 +47,24 @@
    "objetivo": 4183.744858410353,
    "comision_entrada": 5.685347460988113,
    "abierta_en": "2026-11-05T17:06:53+00:00",
-   "revisada_hasta": 1793898413000,
+   "revisada_hasta": 1793901300000,
    "motivo": "tendencia long con momento (fuerza 2.2 ATR)"
+  },
+  {
+   "id": 127,
+   "simbolo": "xyz:EUR",
+   "mercado": "forex",
+   "lado": "long",
+   "precio_entrada": 1.1245,
+   "nocional": 75.33,
+   "apalancamiento": 3,
+   "margen": 25.11,
+   "stop": 1.122251,
+   "objetivo": 1.1289980000000002,
+   "comision_entrada": 0.037667314049376725,
+   "abierta_en": "2026-11-05T17:56:34+00:00",
+   "revisada_hasta": 1793901394000,
+   "motivo": "tendencia long con momento (fuerza 0.5 ATR)"
   }
  ],
  "predicciones": [],
@@ -2505,8 +2521,8 @@
    "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 855.3643742214971,
- "ultima_ejecucion": "2026-11-05T17:06:53+00:00",
+ "comisiones_pagadas": 855.4020415355465,
+ "ultima_ejecucion": "2026-11-05T17:56:34+00:00",
  "ultimo_resumen": "2026-11-04",
  "pausado": false,
  "historial_patrimonio": [
@@ -4625,7 +4641,11 @@
   [
    "2026-11-05T17:06:53+00:00",
    10297.81
+  ],
+  [
+   "2026-11-05T17:56:34+00:00",
+   10328.57
   ]
  ],
- "siguiente_id": 127
+ "siguiente_id": 128
 }
