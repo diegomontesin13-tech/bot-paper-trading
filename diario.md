@@ -1313,3 +1313,11 @@
 - Sin señal: kPEPE, kBONK, PENGU, FARTCOIN, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-05 11:38 UTC · sin operaciones · patrimonio $10.553,22 (+5.53%)
+
+## 2026-11-05 12:42 UTC · patrimonio $10.366,43 (+3.66%)
+
+- Cerrado long xyz:MSTR a 140.02 (stop-loss): -$107,96
+- Abierto short xyz:KR200 3x $6.343,05 a 835.4 (stop 849.0571, obj. 808.0858)
+- Abiertas: long kBONK, short HYPE, long xyz:MSFT, short xyz:KR200
+- Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:AAPL, xyz:AMZN, xyz:COIN, xyz:MSTR, xyz:EUR, xyz:CL, xyz:BRENTOIL
+
