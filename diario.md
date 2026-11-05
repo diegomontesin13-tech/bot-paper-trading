@@ -1321,3 +1321,4 @@
 - Abiertas: long kBONK, short HYPE, long xyz:MSFT, short xyz:KR200
 - Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:AAPL, xyz:AMZN, xyz:COIN, xyz:MSTR, xyz:EUR, xyz:CL, xyz:BRENTOIL
 
+- 2026-11-05 13:58 UTC · sin operaciones · patrimonio $10.415,81 (+4.16%)
