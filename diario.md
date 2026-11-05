@@ -1290,3 +1290,11 @@
 - Abiertas: long xyz:EUR, long xyz:SILVER, long kBONK, short HYPE, long xyz:MSTR
 - Sin señal: SOL, BNB, kPEPE, kSHIB, PENGU, FARTCOIN, TRUMP, xyz:META, xyz:GOOGL, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-11-05 02:30 UTC · patrimonio $10.459,30 (+4.59%)
+
+- Cerrado long xyz:SILVER a 53.386 (objetivo): +$192,63
+- Abierto long xyz:MSFT 3x $10.097,94 a 553.98 (stop 548.2392, obj. 565.4616)
+- Abiertas: long xyz:EUR, long kBONK, short HYPE, long xyz:MSTR, long xyz:MSFT
+- Sin señal: BTC, SOL, WIF, PENGU, TRUMP, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
