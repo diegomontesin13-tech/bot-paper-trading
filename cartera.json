@@ -1,38 +1,38 @@
 {
  "capital_inicial": 10000,
- "efectivo": 2930.2692077736665,
+ "efectivo": 3846.3315009542607,
  "posiciones": [
   {
-   "id": 122,
-   "simbolo": "xyz:KR200",
-   "mercado": "indice",
-   "lado": "short",
-   "precio_entrada": 835.4,
-   "nocional": 6343.05,
-   "apalancamiento": 3,
-   "margen": 2114.35,
-   "stop": 849.0570945804676,
-   "objetivo": 808.0858108390648,
-   "comision_entrada": 3.1715253672889383,
-   "abierta_en": "2026-11-05T12:42:05+00:00",
-   "revisada_hasta": 1793890200000,
-   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
-  },
-  {
-   "id": 123,
-   "simbolo": "xyz:GOLD",
+   "id": 124,
+   "simbolo": "xyz:NATGAS",
    "mercado": "materia_prima",
    "lado": "long",
-   "precio_entrada": 4107.05,
-   "nocional": 15697.3,
+   "precio_entrada": 3.0005,
+   "nocional": 8596.6,
    "apalancamiento": 3,
-   "margen": 5232.43,
-   "stop": 4079.784131364048,
-   "objetivo": 4161.581737271905,
-   "comision_entrada": 7.848648075697041,
-   "abierta_en": "2026-11-05T14:54:36+00:00",
-   "revisada_hasta": 1793890476000,
-   "motivo": "tendencia long con momento (fuerza 2.8 ATR)"
+   "margen": 2865.53,
+   "stop": 2.964307436515674,
+   "objetivo": 3.072885126968653,
+   "comision_entrada": 4.298297581400714,
+   "abierta_en": "2026-11-05T15:56:03+00:00",
+   "revisada_hasta": 1793894163000,
+   "motivo": "tendencia long con momento (fuerza 0.8 ATR)"
+  },
+  {
+   "id": 125,
+   "simbolo": "xyz:COPPER",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 6.2838,
+   "nocional": 10943.2,
+   "apalancamiento": 3,
+   "margen": 3647.73,
+   "stop": 6.343318252234819,
+   "objetivo": 6.164763495530364,
+   "comision_entrada": 5.471598790136491,
+   "abierta_en": "2026-11-05T15:56:03+00:00",
+   "revisada_hasta": 1793894163000,
+   "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
   }
  ],
  "predicciones": [],
@@ -2447,10 +2447,50 @@
    "cerrada_en": "2026-11-05T14:54:36+00:00",
    "pnl": -114.69,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 122,
+   "simbolo": "xyz:KR200",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 835.4,
+   "nocional": 6343.05,
+   "apalancamiento": 3,
+   "margen": 2114.35,
+   "stop": 849.0570945804676,
+   "objetivo": 808.0858108390648,
+   "comision_entrada": 3.1715253672889383,
+   "abierta_en": "2026-11-05T12:42:05+00:00",
+   "revisada_hasta": 1793894100000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)",
+   "precio_salida": 808.0858108390648,
+   "cerrada_en": "2026-11-05T15:56:03+00:00",
+   "pnl": 201.15,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 123,
+   "simbolo": "xyz:GOLD",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 4107.05,
+   "nocional": 15697.3,
+   "apalancamiento": 3,
+   "margen": 5232.43,
+   "stop": 4079.784131364048,
+   "objetivo": 4161.581737271905,
+   "comision_entrada": 7.848648075697041,
+   "abierta_en": "2026-11-05T14:54:36+00:00",
+   "revisada_hasta": 1793894100000,
+   "motivo": "tendencia long con momento (fuerza 2.8 ATR)",
+   "precio_salida": 4079.784131364048,
+   "cerrada_en": "2026-11-05T15:56:03+00:00",
+   "pnl": -119.86,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 829.0447569725779,
- "ultima_ejecucion": "2026-11-05T14:54:36+00:00",
+ "comisiones_pagadas": 849.6790267605089,
+ "ultima_ejecucion": "2026-11-05T15:56:03+00:00",
  "ultimo_resumen": "2026-11-04",
  "pausado": false,
  "historial_patrimonio": [
@@ -4561,7 +4601,11 @@
   [
    "2026-11-05T14:54:36+00:00",
    10413.26
+  ],
+  [
+   "2026-11-05T15:56:03+00:00",
+   10359.59
   ]
  ],
- "siguiente_id": 124
+ "siguiente_id": 126
 }
