@@ -1434,3 +1434,12 @@
 - 2026-11-06 18:17 UTC · sin operaciones · patrimonio $9.741,91 (-2.58%)
 - 2026-11-06 19:10 UTC · sin operaciones · patrimonio $9.718,51 (-2.81%)
 - 2026-11-06 20:01 UTC · sin operaciones · patrimonio $9.666,52 (-3.33%)
+
+## 2026-11-06 20:44 UTC · patrimonio $9.726,40 (-2.74%)
+
+- Predicción MU > 691.07 (06-11 20:00 UTC): GANADA +$24,16
+- Predicción SPCX > 126.39 (06-11 20:00 UTC): GANADA +$28,12
+- Abierto short xyz:JP225 3x $2.400,34 a 58207.5 (stop 58967.3, obj. 56687.89)
+- Abiertas: short xyz:COPPER, short ETH, short BTC, short xyz:JP225
+- Sin señal: XRP, DOGE, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+

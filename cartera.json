@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 700.6886637970119,
+ "efectivo": 50.76508980719859,
  "posiciones": [
   {
    "id": 125,
@@ -15,7 +15,7 @@
    "objetivo": 6.164763495530364,
    "comision_entrada": 5.471598790136491,
    "abierta_en": "2026-11-05T15:56:03+00:00",
-   "revisada_hasta": 1793995200000,
+   "revisada_hasta": 1793997300000,
    "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 2160.391543170717,
    "comision_entrada": 3.55931023981802,
    "abierta_en": "2026-11-06T15:29:21+00:00",
-   "revisada_hasta": 1793995200000,
+   "revisada_hasta": 1793997600000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
@@ -47,42 +47,27 @@
    "objetivo": 73954.75654693051,
    "comision_entrada": 4.360319330536813,
    "abierta_en": "2026-11-06T15:29:21+00:00",
-   "revisada_hasta": 1793995200000,
+   "revisada_hasta": 1793997600000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
-  }
- ],
- "predicciones": [
-  {
-   "id": 132,
-   "outcome": 26279,
-   "lado_id": 0,
-   "titulo": "MU > 691.07 (06-11 20:00 UTC)",
-   "subyacente": "xyz:MU",
-   "umbral": 691.07,
-   "vence": "2026-11-06T20:00:00+00:00",
-   "precio_entrada": 0.67193,
-   "importe": 49.53,
-   "contratos": 73.71203339579884,
-   "comision_entrada": 0.02476466329981956,
-   "abierta_en": "2026-11-06T11:25:08+00:00",
-   "motivo": "modelo 79% vs mercado 67%"
   },
   {
-   "id": 133,
-   "outcome": 26273,
-   "lado_id": 0,
-   "titulo": "SPCX > 126.39 (06-11 20:00 UTC)",
-   "subyacente": "xyz:SPCX",
-   "umbral": 126.39,
-   "vence": "2026-11-06T20:00:00+00:00",
-   "precio_entrada": 0.63757,
-   "importe": 49.53,
-   "contratos": 77.67877602069777,
-   "comision_entrada": 0.02476282861375814,
-   "abierta_en": "2026-11-06T11:25:08+00:00",
-   "motivo": "modelo 74% vs mercado 64%"
+   "id": 136,
+   "simbolo": "xyz:JP225",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 58207.5,
+   "nocional": 2400.34,
+   "apalancamiento": 3,
+   "margen": 800.11,
+   "stop": 58967.304709145894,
+   "objetivo": 56687.89058170821,
+   "comision_entrada": 1.2001713181322666,
+   "abierta_en": "2026-11-06T20:44:02+00:00",
+   "revisada_hasta": 1793997842000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   }
  ],
+ "predicciones": [],
  "cerradas": [
   {
    "id": 2,
@@ -2674,10 +2659,48 @@
    "cerrada_en": "2026-11-06T15:29:21+00:00",
    "pnl": -105.9,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 132,
+   "outcome": 26279,
+   "lado_id": 0,
+   "titulo": "MU > 691.07 (06-11 20:00 UTC)",
+   "subyacente": "xyz:MU",
+   "umbral": 691.07,
+   "vence": "2026-11-06T20:00:00+00:00",
+   "precio_entrada": 0.67193,
+   "importe": 49.53,
+   "contratos": 73.71203339579884,
+   "comision_entrada": 0.02476466329981956,
+   "abierta_en": "2026-11-06T11:25:08+00:00",
+   "motivo": "modelo 79% vs mercado 67%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-06T20:44:02+00:00",
+   "pnl": 24.16,
+   "razon_cierre": "liquidada (694.15 vs 691.07)"
+  },
+  {
+   "id": 133,
+   "outcome": 26273,
+   "lado_id": 0,
+   "titulo": "SPCX > 126.39 (06-11 20:00 UTC)",
+   "subyacente": "xyz:SPCX",
+   "umbral": 126.39,
+   "vence": "2026-11-06T20:00:00+00:00",
+   "precio_entrada": 0.63757,
+   "importe": 49.53,
+   "contratos": 77.67877602069777,
+   "comision_entrada": 0.02476282861375814,
+   "abierta_en": "2026-11-06T11:25:08+00:00",
+   "motivo": "modelo 74% vs mercado 64%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-06T20:44:02+00:00",
+   "pnl": 28.12,
+   "razon_cierre": "liquidada (134.93 vs 126.39)"
   }
  ],
- "comisiones_pagadas": 883.8616805374754,
- "ultima_ejecucion": "2026-11-06T20:01:35+00:00",
+ "comisiones_pagadas": 885.0618518556076,
+ "ultima_ejecucion": "2026-11-06T20:44:02+00:00",
  "ultimo_resumen": "2026-11-05",
  "pausado": false,
  "historial_patrimonio": [
@@ -4912,7 +4935,11 @@
   [
    "2026-11-06T20:01:35+00:00",
    9666.52
+  ],
+  [
+   "2026-11-06T20:44:02+00:00",
+   9726.4
   ]
  ],
- "siguiente_id": 136
+ "siguiente_id": 137
 }
