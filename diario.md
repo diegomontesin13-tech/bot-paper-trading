@@ -1453,3 +1453,4 @@
 - Abiertas: short xyz:COPPER, short BTC, short xyz:JP225, short XRP, short xyz:SP500
 - Sin señal: HYPE, DOGE, kPEPE, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:EUR, xyz:COPPER
 
+- 2026-11-06 22:55 UTC · sin operaciones · patrimonio $9.667,35 (-3.33%)
