@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 50.76508980719859,
+ "efectivo": 28.277171266643705,
  "posiciones": [
   {
    "id": 125,
@@ -15,24 +15,8 @@
    "objetivo": 6.164763495530364,
    "comision_entrada": 5.471598790136491,
    "abierta_en": "2026-11-05T15:56:03+00:00",
-   "revisada_hasta": 1794000000000,
+   "revisada_hasta": 1794003000000,
    "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
-  },
-  {
-   "id": 134,
-   "simbolo": "ETH",
-   "mercado": "cripto",
-   "lado": "short",
-   "precio_entrada": 2221.45,
-   "nocional": 7118.62,
-   "apalancamiento": 3,
-   "margen": 2372.87,
-   "stop": 2251.9792284146415,
-   "objetivo": 2160.391543170717,
-   "comision_entrada": 3.55931023981802,
-   "abierta_en": "2026-11-06T15:29:21+00:00",
-   "revisada_hasta": 1794000000000,
-   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
    "id": 135,
@@ -47,7 +31,7 @@
    "objetivo": 73954.75654693051,
    "comision_entrada": 4.360319330536813,
    "abierta_en": "2026-11-06T15:29:21+00:00",
-   "revisada_hasta": 1794000000000,
+   "revisada_hasta": 1794003000000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   },
   {
@@ -63,7 +47,39 @@
    "objetivo": 56687.89058170821,
    "comision_entrada": 1.2001713181322666,
    "abierta_en": "2026-11-06T20:44:02+00:00",
-   "revisada_hasta": 1794000000000,
+   "revisada_hasta": 1794003000000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
+  },
+  {
+   "id": 137,
+   "simbolo": "XRP",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 1.17935,
+   "nocional": 6300.43,
+   "apalancamiento": 3,
+   "margen": 2100.14,
+   "stop": 1.1974103434997918,
+   "objetivo": 1.143229313000416,
+   "comision_entrada": 3.1502162439133286,
+   "abierta_en": "2026-11-06T22:14:51+00:00",
+   "revisada_hasta": 1794003291000,
+   "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
+  },
+  {
+   "id": 138,
+   "simbolo": "xyz:SP500",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 7384.35,
+   "nocional": 571.02,
+   "apalancamiento": 3,
+   "margen": 190.34,
+   "stop": 7432.055149227995,
+   "objetivo": 7288.939701544012,
+   "comision_entrada": 0.2855086804676776,
+   "abierta_en": "2026-11-06T22:14:51+00:00",
+   "revisada_hasta": 1794003291000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   }
  ],
@@ -2697,10 +2713,30 @@
    "cerrada_en": "2026-11-06T20:44:02+00:00",
    "pnl": 28.12,
    "razon_cierre": "liquidada (134.93 vs 126.39)"
+  },
+  {
+   "id": 134,
+   "simbolo": "ETH",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 2221.45,
+   "nocional": 7118.62,
+   "apalancamiento": 3,
+   "margen": 2372.87,
+   "stop": 2251.9792284146415,
+   "objetivo": 2160.391543170717,
+   "comision_entrada": 3.55931023981802,
+   "abierta_en": "2026-11-06T15:29:21+00:00",
+   "revisada_hasta": 1794003000000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)",
+   "precio_salida": 2251.9792284146415,
+   "cerrada_en": "2026-11-06T22:14:51+00:00",
+   "pnl": -105.0,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 885.0618518556076,
- "ultima_ejecucion": "2026-11-06T21:23:34+00:00",
+ "comisiones_pagadas": 892.1058021226651,
+ "ultima_ejecucion": "2026-11-06T22:14:51+00:00",
  "ultimo_resumen": "2026-11-06",
  "pausado": false,
  "historial_patrimonio": [
@@ -4943,7 +4979,11 @@
   [
    "2026-11-06T21:23:34+00:00",
    9732.59
+  ],
+  [
+   "2026-11-06T22:14:51+00:00",
+   9644.92
   ]
  ],
- "siguiente_id": 137
+ "siguiente_id": 139
 }

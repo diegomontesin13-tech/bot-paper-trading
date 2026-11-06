@@ -1444,3 +1444,12 @@
 - Sin señal: XRP, DOGE, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
 - 2026-11-06 21:23 UTC · sin operaciones · patrimonio $9.732,59 (-2.67%)
+
+## 2026-11-06 22:14 UTC · patrimonio $9.644,92 (-3.55%)
+
+- Cerrado short ETH a 2251.98 (stop-loss): -$105,00
+- Abierto short XRP 3x $6.300,43 a 1.1793 (stop 1.1974, obj. 1.1432)
+- Abierto short xyz:SP500 3x $571,02 a 7384.35 (stop 7432.06, obj. 7288.94)
+- Abiertas: short xyz:COPPER, short BTC, short xyz:JP225, short XRP, short xyz:SP500
+- Sin señal: HYPE, DOGE, kPEPE, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:EUR, xyz:COPPER
+
