@@ -1385,3 +1385,4 @@
 - Abiertas: short xyz:COPPER, short TRUMP, short WIF, short xyz:AMD
 - Sin señal: BTC, ETH, HYPE, XRP, kBONK, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
+- 2026-11-06 01:28 UTC · sin operaciones · patrimonio $10.067,94 (+0.68%)
