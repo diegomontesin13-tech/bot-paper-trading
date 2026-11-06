@@ -1386,3 +1386,11 @@
 - Sin señal: BTC, ETH, HYPE, XRP, kBONK, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
 - 2026-11-06 01:28 UTC · sin operaciones · patrimonio $10.067,94 (+0.68%)
+
+## 2026-11-06 02:30 UTC · patrimonio $9.934,07 (-0.66%)
+
+- Cerrado short xyz:AMD a 425.9882 (stop-loss): -$105,12
+- Abierto short xyz:AMD 3x $2.468,26 a 429.535 (stop 446.8247, obj. 394.9555)
+- Abiertas: short xyz:COPPER, short TRUMP, short WIF, short xyz:AMD
+- Sin señal: ETH, kPEPE, kBONK, TRUMP, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+
