@@ -1410,3 +1410,4 @@
 - Abiertas: short xyz:COPPER, short TRUMP, short WIF, short xyz:AMD, MU > 691.07 (06-11 20:00 UTC), SPCX > 126.39 (06-11 20:00 UTC)
 - Sin señal: XRP, kSHIB, kBONK, WIF, PENGU, FARTCOIN, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL
 
+- 2026-11-06 12:23 UTC · sin operaciones · patrimonio $9.845,42 (-1.55%)
