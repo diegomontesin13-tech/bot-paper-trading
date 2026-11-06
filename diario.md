@@ -1402,3 +1402,11 @@
 - 2026-11-06 08:30 UTC · sin operaciones · patrimonio $10.016,81 (+0.17%)
 - 2026-11-06 09:27 UTC · sin operaciones · patrimonio $9.901,69 (-0.98%)
 - 2026-11-06 10:31 UTC · sin operaciones · patrimonio $9.922,27 (-0.78%)
+
+## 2026-11-06 11:25 UTC · patrimonio $9.904,33 (-0.96%)
+
+- Apuesta MU > 691.07 (06-11 20:00 UTC) $49,53 a 67% (modelo 79%)
+- Apuesta SPCX > 126.39 (06-11 20:00 UTC) $49,53 a 64% (modelo 74%)
+- Abiertas: short xyz:COPPER, short TRUMP, short WIF, short xyz:AMD, MU > 691.07 (06-11 20:00 UTC), SPCX > 126.39 (06-11 20:00 UTC)
+- Sin señal: XRP, kSHIB, kBONK, WIF, PENGU, FARTCOIN, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL
+
