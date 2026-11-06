@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 858.2958418162212,
+ "efectivo": 700.6886637970119,
  "posiciones": [
   {
    "id": 125,
@@ -15,40 +15,40 @@
    "objetivo": 6.164763495530364,
    "comision_entrada": 5.471598790136491,
    "abierta_en": "2026-11-05T15:56:03+00:00",
-   "revisada_hasta": 1793975700000,
+   "revisada_hasta": 1793978700000,
    "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
   },
   {
-   "id": 128,
-   "simbolo": "TRUMP",
-   "mercado": "memecoin",
+   "id": 134,
+   "simbolo": "ETH",
+   "mercado": "cripto",
    "lado": "short",
-   "precio_entrada": 1.18915,
-   "nocional": 1923.18,
-   "apalancamiento": 1,
-   "margen": 1923.18,
-   "stop": 1.2524116446787001,
-   "objetivo": 1.062626710642599,
-   "comision_entrada": 0.9615916196437857,
-   "abierta_en": "2026-11-05T18:51:12+00:00",
-   "revisada_hasta": 1793975700000,
-   "motivo": "tendencia short con momento (fuerza 2.5 ATR)"
+   "precio_entrada": 2221.45,
+   "nocional": 7118.62,
+   "apalancamiento": 3,
+   "margen": 2372.87,
+   "stop": 2251.9792284146415,
+   "objetivo": 2160.391543170717,
+   "comision_entrada": 3.55931023981802,
+   "abierta_en": "2026-11-06T15:29:21+00:00",
+   "revisada_hasta": 1793978961000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
-   "id": 129,
-   "simbolo": "WIF",
-   "mercado": "memecoin",
+   "id": 135,
+   "simbolo": "BTC",
+   "mercado": "cripto",
    "lado": "short",
-   "precio_entrada": 0.16316,
-   "nocional": 3414.4,
-   "apalancamiento": 1,
-   "margen": 3414.4,
-   "stop": 0.1680548,
-   "objetivo": 0.1533704,
-   "comision_entrada": 1.7071999958489752,
-   "abierta_en": "2026-11-05T21:19:36+00:00",
-   "revisada_hasta": 1793975700000,
-   "motivo": "tendencia short con momento (fuerza 0.9 ATR)"
+   "precio_entrada": 75651.5,
+   "nocional": 8720.64,
+   "apalancamiento": 3,
+   "margen": 2906.88,
+   "stop": 76499.87172653474,
+   "objetivo": 73954.75654693051,
+   "comision_entrada": 4.360319330536813,
+   "abierta_en": "2026-11-06T15:29:21+00:00",
+   "revisada_hasta": 1793978961000,
+   "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   }
  ],
  "predicciones": [
@@ -2634,10 +2634,50 @@
    "cerrada_en": "2026-11-06T14:37:48+00:00",
    "pnl": -101.87,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 128,
+   "simbolo": "TRUMP",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 1.18915,
+   "nocional": 1923.18,
+   "apalancamiento": 1,
+   "margen": 1923.18,
+   "stop": 1.2524116446787001,
+   "objetivo": 1.062626710642599,
+   "comision_entrada": 0.9615916196437857,
+   "abierta_en": "2026-11-05T18:51:12+00:00",
+   "revisada_hasta": 1793978700000,
+   "motivo": "tendencia short con momento (fuerza 2.5 ATR)",
+   "precio_salida": 1.2524116446787001,
+   "cerrada_en": "2026-11-06T15:29:21+00:00",
+   "pnl": -104.29,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 129,
+   "simbolo": "WIF",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.16316,
+   "nocional": 3414.4,
+   "apalancamiento": 1,
+   "margen": 3414.4,
+   "stop": 0.1680548,
+   "objetivo": 0.1533704,
+   "comision_entrada": 1.7071999958489752,
+   "abierta_en": "2026-11-05T21:19:36+00:00",
+   "revisada_hasta": 1793978700000,
+   "motivo": "tendencia short con momento (fuerza 0.9 ATR)",
+   "precio_salida": 0.1680548,
+   "cerrada_en": "2026-11-06T15:29:21+00:00",
+   "pnl": -105.9,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 873.1708892971826,
- "ultima_ejecucion": "2026-11-06T14:37:48+00:00",
+ "comisiones_pagadas": 883.8616805374754,
+ "ultima_ejecucion": "2026-11-06T15:29:21+00:00",
  "ultimo_resumen": "2026-11-05",
  "pausado": false,
  "historial_patrimonio": [
@@ -4848,7 +4888,11 @@
   [
    "2026-11-06T14:37:48+00:00",
    9822.98
+  ],
+  [
+   "2026-11-06T15:29:21+00:00",
+   9775.15
   ]
  ],
- "siguiente_id": 134
+ "siguiente_id": 136
 }

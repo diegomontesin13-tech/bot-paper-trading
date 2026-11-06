@@ -1419,3 +1419,13 @@
 - Abiertas: short xyz:COPPER, short TRUMP, short WIF, MU > 691.07 (06-11 20:00 UTC), SPCX > 126.39 (06-11 20:00 UTC)
 - Sin señal: XRP, BNB, DOGE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:COPPER
 
+
+## 2026-11-06 15:29 UTC · patrimonio $9.775,15 (-2.25%)
+
+- Cerrado short TRUMP a 1.2524 (stop-loss): -$104,29
+- Cerrado short WIF a 0.1680548 (stop-loss): -$105,90
+- Abierto short ETH 3x $7.118,62 a 2221.45 (stop 2251.98, obj. 2160.39)
+- Abierto short BTC 3x $8.720,64 a 75651.5 (stop 76499.87, obj. 73954.76)
+- Abiertas: short xyz:COPPER, short ETH, short BTC, MU > 691.07 (06-11 20:00 UTC), SPCX > 126.39 (06-11 20:00 UTC)
+- Sin señal: SOL, HYPE, XRP, BNB, DOGE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+
