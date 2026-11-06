@@ -1429,3 +1429,4 @@
 - Abiertas: short xyz:COPPER, short ETH, short BTC, MU > 691.07 (06-11 20:00 UTC), SPCX > 126.39 (06-11 20:00 UTC)
 - Sin señal: SOL, HYPE, XRP, BNB, DOGE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-06 16:22 UTC · sin operaciones · patrimonio $9.748,11 (-2.52%)
