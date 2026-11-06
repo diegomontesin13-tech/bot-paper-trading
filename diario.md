@@ -1378,3 +1378,10 @@
 - 2026-11-05 22:04 UTC · sin operaciones · patrimonio $10.280,02 (+2.80%)
 - 2026-11-05 22:48 UTC · sin operaciones · patrimonio $10.325,17 (+3.25%)
 - 2026-11-05 23:27 UTC · sin operaciones · patrimonio $10.277,01 (+2.77%)
+
+## 2026-11-06 00:09 UTC · patrimonio $10.250,48 (+2.50%)
+
+- Abierto short xyz:AMD 3x $2.555,80 a 409.56 (stop 425.9882, obj. 376.7037)
+- Abiertas: short xyz:COPPER, short TRUMP, short WIF, short xyz:AMD
+- Sin señal: BTC, ETH, HYPE, XRP, kBONK, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+
