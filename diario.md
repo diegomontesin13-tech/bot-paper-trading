@@ -1412,3 +1412,10 @@
 
 - 2026-11-06 12:23 UTC · sin operaciones · patrimonio $9.845,42 (-1.55%)
 - 2026-11-06 13:42 UTC · sin operaciones · patrimonio $9.900,28 (-1.00%)
+
+## 2026-11-06 14:37 UTC · patrimonio $9.822,98 (-1.77%)
+
+- Cerrado short xyz:AMD a 446.8247 (stop-loss): -$101,87
+- Abiertas: short xyz:COPPER, short TRUMP, short WIF, MU > 691.07 (06-11 20:00 UTC), SPCX > 126.39 (06-11 20:00 UTC)
+- Sin señal: XRP, BNB, DOGE, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
