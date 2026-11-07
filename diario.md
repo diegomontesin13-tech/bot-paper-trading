@@ -1498,3 +1498,10 @@
 - 2026-11-07 20:35 UTC · sin operaciones · patrimonio $9.812,50 (-1.88%)
 - 2026-11-07 21:12 UTC · sin operaciones · patrimonio $9.847,12 (-1.53%)
 - 2026-11-07 21:51 UTC · sin operaciones · patrimonio $9.862,25 (-1.38%)
+
+## 2026-11-07 22:21 UTC · patrimonio $9.758,09 (-2.42%)
+
+- Predicción SILVER <= 51.958 (07-11 22:00 UTC): perdida -$48,97
+- Abiertas: short BTC, short xyz:JP225, short XRP, short xyz:SP500, short TRUMP
+- Sin señal: BNB, kPEPE, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+
