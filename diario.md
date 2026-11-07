@@ -1483,3 +1483,10 @@
 - Abiertas: short BTC, short xyz:JP225, short XRP, short xyz:SP500, short TRUMP
 - Sin señal: kPEPE, kSHIB, PENGU, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-11-07 16:37 UTC · patrimonio $9.781,54 (-2.18%)
+
+- Apuesta SILVER <= 51.958 (07-11 22:00 UTC) $48,95 a 18% (modelo 42%)
+- Abiertas: short BTC, short xyz:JP225, short XRP, short xyz:SP500, short TRUMP, SILVER <= 51.958 (07-11 22:00 UTC)
+- Sin señal: kPEPE, kSHIB, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
+
