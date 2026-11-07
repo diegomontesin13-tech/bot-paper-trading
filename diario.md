@@ -1505,3 +1505,4 @@
 - Abiertas: short BTC, short xyz:JP225, short XRP, short xyz:SP500, short TRUMP
 - Sin señal: BNB, kPEPE, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
+- 2026-11-07 22:55 UTC · sin operaciones · patrimonio $9.762,31 (-2.38%)
