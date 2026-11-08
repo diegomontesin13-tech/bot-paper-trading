@@ -1543,3 +1543,10 @@
 - 2026-11-08 16:53 UTC · sin operaciones · patrimonio $9.723,60 (-2.76%)
 - 2026-11-08 17:32 UTC · sin operaciones · patrimonio $9.747,76 (-2.52%)
 - 2026-11-08 18:05 UTC · sin operaciones · patrimonio $9.735,24 (-2.65%)
+
+## 2026-11-08 18:42 UTC · patrimonio $9.713,61 (-2.86%)
+
+- Abierto short HYPE 3x $9.552,82 a 77.0335 (stop 77.8172, obj. 75.4661)
+- Abiertas: short xyz:JP225, short XRP, short xyz:SP500, short TRUMP, short HYPE, GOLD > 4072.4 (08-11 22:00 UTC)
+- Sin señal: BTC, SOL, BNB, DOGE, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:NATGAS
+
