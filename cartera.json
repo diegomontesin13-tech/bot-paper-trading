@@ -1,38 +1,38 @@
 {
  "capital_inicial": 10000,
- "efectivo": 3281.432010580159,
+ "efectivo": 237.34585544520814,
  "posiciones": [
   {
-   "id": 139,
-   "simbolo": "TRUMP",
-   "mercado": "memecoin",
+   "id": 143,
+   "simbolo": "xyz:SP500",
+   "mercado": "indice",
    "lado": "short",
-   "precio_entrada": 1.1829,
-   "nocional": 3274.71,
-   "apalancamiento": 1,
-   "margen": 3274.71,
-   "stop": 1.218387,
-   "objetivo": 1.111926,
-   "comision_entrada": 1.6373549275261103,
-   "abierta_en": "2026-11-07T15:56:32+00:00",
-   "revisada_hasta": 1794172800000,
-   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
+   "precio_entrada": 7347.4,
+   "nocional": 18227.43,
+   "apalancamiento": 3,
+   "margen": 6075.81,
+   "stop": 7384.136999999999,
+   "objetivo": 7273.9259999999995,
+   "comision_entrada": 9.113716167267771,
+   "abierta_en": "2026-11-08T21:56:22+00:00",
+   "revisada_hasta": 1794174982000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   },
   {
-   "id": 142,
-   "simbolo": "HYPE",
-   "mercado": "cripto",
+   "id": 144,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
    "lado": "short",
-   "precio_entrada": 77.0335,
-   "nocional": 9552.82,
+   "precio_entrada": 439.855,
+   "nocional": 11391.23,
    "apalancamiento": 3,
-   "margen": 3184.27,
-   "stop": 77.81718645118156,
-   "objetivo": 75.46612709763693,
-   "comision_entrada": 4.776410294268295,
-   "abierta_en": "2026-11-08T18:42:43+00:00",
-   "revisada_hasta": 1794172800000,
-   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
+   "margen": 3797.08,
+   "stop": 443.7616154579463,
+   "objetivo": 432.04176908410744,
+   "comision_entrada": 5.695617141896995,
+   "abierta_en": "2026-11-08T21:56:22+00:00",
+   "revisada_hasta": 1794174982000,
+   "motivo": "tendencia short con momento (fuerza 0.0 ATR)"
   }
  ],
  "predicciones": [
@@ -2820,10 +2820,50 @@
    "cerrada_en": "2026-11-08T21:22:04+00:00",
    "pnl": 186.76,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 139,
+   "simbolo": "TRUMP",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 1.1829,
+   "nocional": 3274.71,
+   "apalancamiento": 1,
+   "margen": 3274.71,
+   "stop": 1.218387,
+   "objetivo": 1.111926,
+   "comision_entrada": 1.6373549275261103,
+   "abierta_en": "2026-11-07T15:56:32+00:00",
+   "revisada_hasta": 1794174900000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)",
+   "precio_salida": 1.111926,
+   "cerrada_en": "2026-11-08T21:56:22+00:00",
+   "pnl": 193.31,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 142,
+   "simbolo": "HYPE",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 77.0335,
+   "nocional": 9552.82,
+   "apalancamiento": 3,
+   "margen": 3184.27,
+   "stop": 77.81718645118156,
+   "objetivo": 75.46612709763693,
+   "comision_entrada": 4.776410294268295,
+   "abierta_en": "2026-11-08T18:42:43+00:00",
+   "revisada_hasta": 1794174900000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)",
+   "precio_salida": 75.46612709763693,
+   "cerrada_en": "2026-11-08T21:56:22+00:00",
+   "pnl": 184.91,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 912.9434943863886,
- "ultima_ejecucion": "2026-11-08T21:22:04+00:00",
+ "comisiones_pagadas": 933.9711675001756,
+ "ultima_ejecucion": "2026-11-08T21:56:22+00:00",
  "ultimo_resumen": "2026-11-08",
  "pausado": false,
  "historial_patrimonio": [
@@ -5326,7 +5366,11 @@
   [
    "2026-11-08T21:22:04+00:00",
    9896.03
+  ],
+  [
+   "2026-11-08T21:56:22+00:00",
+   10111.54
   ]
  ],
- "siguiente_id": 143
+ "siguiente_id": 145
 }

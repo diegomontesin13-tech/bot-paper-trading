@@ -1572,3 +1572,13 @@
 - Abiertas: short TRUMP, short HYPE, GOLD > 4072.4 (08-11 22:00 UTC)
 - Sin señal: BNB, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:GOLD, xyz:SILVER
 
+
+## 2026-11-08 21:56 UTC · patrimonio $10.111,54 (+1.12%)
+
+- Cerrado short TRUMP a 1.1119 (objetivo): +$193,31
+- Cerrado short HYPE a 75.4661 (objetivo): +$184,91
+- Abierto short xyz:SP500 3x $18.227,43 a 7347.4 (stop 7384.14, obj. 7273.93)
+- Abierto short xyz:AMD 3x $11.391,23 a 439.855 (stop 443.7616, obj. 432.0418)
+- Abiertas: short xyz:SP500, short xyz:AMD, GOLD > 4072.4 (08-11 22:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS
+
