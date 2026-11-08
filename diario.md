@@ -1550,3 +1550,10 @@
 - Abiertas: short xyz:JP225, short XRP, short xyz:SP500, short TRUMP, short HYPE, GOLD > 4072.4 (08-11 22:00 UTC)
 - Sin señal: BTC, SOL, BNB, DOGE, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:NATGAS
 
+
+## 2026-11-08 19:25 UTC · patrimonio $9.743,40 (-2.57%)
+
+- Cerrado short xyz:SP500 a 7399.8 (tendencia rota): -$1,77
+- Abiertas: short xyz:JP225, short XRP, short TRUMP, short HYPE, GOLD > 4072.4 (08-11 22:00 UTC)
+- Sin señal: SOL, BNB, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER
+
