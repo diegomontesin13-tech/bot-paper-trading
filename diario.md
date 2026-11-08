@@ -1532,3 +1532,10 @@
 - 2026-11-08 13:35 UTC · sin operaciones · patrimonio $9.720,77 (-2.79%)
 - 2026-11-08 14:17 UTC · sin operaciones · patrimonio $9.767,73 (-2.32%)
 - 2026-11-08 14:53 UTC · sin operaciones · patrimonio $9.676,62 (-3.23%)
+
+## 2026-11-08 15:33 UTC · patrimonio $9.672,13 (-3.28%)
+
+- Cerrado short BTC a 76052.5 (más de 48 h abierta): -$54,97
+- Abiertas: short xyz:JP225, short XRP, short xyz:SP500, short TRUMP, GOLD > 4072.4 (08-11 22:00 UTC)
+- Sin señal: BTC, ETH, SOL, BNB, DOGE, TRUMP, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+
