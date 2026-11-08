@@ -1582,3 +1582,12 @@
 - Abiertas: short xyz:SP500, short xyz:AMD, GOLD > 4072.4 (08-11 22:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS
 
+
+## 2026-11-08 22:36 UTC · patrimonio $10.039,11 (+0.39%)
+
+- Cerrado short xyz:AMD a 443.7616 (stop-loss): -$112,61
+- Predicción GOLD > 4072.4 (08-11 22:00 UTC): perdida -$48,74
+- Abierto short TRUMP 1x $3.346,93 a 1.1368 (stop 1.171, obj. 1.0686)
+- Abiertas: short xyz:SP500, short TRUMP
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+

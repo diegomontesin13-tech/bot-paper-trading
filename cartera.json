@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 237.34585544520814,
+ "efectivo": 578.908059911766,
  "posiciones": [
   {
    "id": 143,
@@ -15,43 +15,27 @@
    "objetivo": 7273.9259999999995,
    "comision_entrada": 9.113716167267771,
    "abierta_en": "2026-11-08T21:56:22+00:00",
-   "revisada_hasta": 1794174982000,
+   "revisada_hasta": 1794177300000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   },
   {
-   "id": 144,
-   "simbolo": "xyz:AMD",
-   "mercado": "accion",
+   "id": 145,
+   "simbolo": "TRUMP",
+   "mercado": "memecoin",
    "lado": "short",
-   "precio_entrada": 439.855,
-   "nocional": 11391.23,
-   "apalancamiento": 3,
-   "margen": 3797.08,
-   "stop": 443.7616154579463,
-   "objetivo": 432.04176908410744,
-   "comision_entrada": 5.695617141896995,
-   "abierta_en": "2026-11-08T21:56:22+00:00",
-   "revisada_hasta": 1794174982000,
-   "motivo": "tendencia short con momento (fuerza 0.0 ATR)"
+   "precio_entrada": 1.13685,
+   "nocional": 3346.93,
+   "apalancamiento": 1,
+   "margen": 3346.93,
+   "stop": 1.1709555,
+   "objetivo": 1.068639,
+   "comision_entrada": 1.673462900744231,
+   "abierta_en": "2026-11-08T22:36:28+00:00",
+   "revisada_hasta": 1794177388000,
+   "motivo": "tendencia short con momento (fuerza 1.1 ATR)"
   }
  ],
- "predicciones": [
-  {
-   "id": 141,
-   "outcome": 28551,
-   "lado_id": 0,
-   "titulo": "GOLD > 4072.4 (08-11 22:00 UTC)",
-   "subyacente": "xyz:GOLD",
-   "umbral": 4072.4,
-   "vence": "2026-11-08T22:00:00+00:00",
-   "precio_entrada": 0.19009,
-   "importe": 48.72,
-   "contratos": 256.32067319741253,
-   "comision_entrada": 0.024361998384048074,
-   "abierta_en": "2026-11-08T11:56:18+00:00",
-   "motivo": "modelo 41% vs mercado 19%"
-  }
- ],
+ "predicciones": [],
  "cerradas": [
   {
    "id": 2,
@@ -2860,10 +2844,49 @@
    "cerrada_en": "2026-11-08T21:56:22+00:00",
    "pnl": 184.91,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 144,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 439.855,
+   "nocional": 11391.23,
+   "apalancamiento": 3,
+   "margen": 3797.08,
+   "stop": 443.7616154579463,
+   "objetivo": 432.04176908410744,
+   "comision_entrada": 5.695617141896995,
+   "abierta_en": "2026-11-08T21:56:22+00:00",
+   "revisada_hasta": 1794177300000,
+   "motivo": "tendencia short con momento (fuerza 0.0 ATR)",
+   "precio_salida": 443.7616154579463,
+   "cerrada_en": "2026-11-08T22:36:28+00:00",
+   "pnl": -112.61,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 141,
+   "outcome": 28551,
+   "lado_id": 0,
+   "titulo": "GOLD > 4072.4 (08-11 22:00 UTC)",
+   "subyacente": "xyz:GOLD",
+   "umbral": 4072.4,
+   "vence": "2026-11-08T22:00:00+00:00",
+   "precio_entrada": 0.19009,
+   "importe": 48.72,
+   "contratos": 256.32067319741253,
+   "comision_entrada": 0.024361998384048074,
+   "abierta_en": "2026-11-08T11:56:18+00:00",
+   "motivo": "modelo 41% vs mercado 19%",
+   "precio_salida": 0.0,
+   "cerrada_en": "2026-11-08T22:36:28+00:00",
+   "pnl": -48.74,
+   "razon_cierre": "liquidada (4045.1 vs 4072.4)"
   }
  ],
- "comisiones_pagadas": 933.9711675001756,
- "ultima_ejecucion": "2026-11-08T21:56:22+00:00",
+ "comisiones_pagadas": 941.3908315659095,
+ "ultima_ejecucion": "2026-11-08T22:36:28+00:00",
  "ultimo_resumen": "2026-11-08",
  "pausado": false,
  "historial_patrimonio": [
@@ -5370,7 +5393,11 @@
   [
    "2026-11-08T21:56:22+00:00",
    10111.54
+  ],
+  [
+   "2026-11-08T22:36:28+00:00",
+   10039.11
   ]
  ],
- "siguiente_id": 145
+ "siguiente_id": 146
 }
