@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 578.908059911766,
+ "efectivo": 522.7881832672674,
  "posiciones": [
-  {
-   "id": 143,
-   "simbolo": "xyz:SP500",
-   "mercado": "indice",
-   "lado": "short",
-   "precio_entrada": 7347.4,
-   "nocional": 18227.43,
-   "apalancamiento": 3,
-   "margen": 6075.81,
-   "stop": 7384.136999999999,
-   "objetivo": 7273.9259999999995,
-   "comision_entrada": 9.113716167267771,
-   "abierta_en": "2026-11-08T21:56:22+00:00",
-   "revisada_hasta": 1794177300000,
-   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
-  },
   {
    "id": 145,
    "simbolo": "TRUMP",
@@ -31,8 +15,40 @@
    "objetivo": 1.068639,
    "comision_entrada": 1.673462900744231,
    "abierta_en": "2026-11-08T22:36:28+00:00",
-   "revisada_hasta": 1794177388000,
+   "revisada_hasta": 1794179400000,
    "motivo": "tendencia short con momento (fuerza 1.1 ATR)"
+  },
+  {
+   "id": 146,
+   "simbolo": "xyz:COIN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 132.21,
+   "nocional": 11566.0,
+   "apalancamiento": 3,
+   "margen": 3855.33,
+   "stop": 133.33715437362196,
+   "objetivo": 129.9556912527561,
+   "comision_entrada": 5.783000427345738,
+   "abierta_en": "2026-11-08T23:12:17+00:00",
+   "revisada_hasta": 1794179537000,
+   "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
+  },
+  {
+   "id": 147,
+   "simbolo": "XRP",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 1.12215,
+   "nocional": 6501.8,
+   "apalancamiento": 3,
+   "margen": 2167.27,
+   "stop": 1.1391584537605977,
+   "objetivo": 1.0881330924788042,
+   "comision_entrada": 3.2508988882850685,
+   "abierta_en": "2026-11-08T23:12:17+00:00",
+   "revisada_hasta": 1794179537000,
+   "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   }
  ],
  "predicciones": [],
@@ -2883,10 +2899,30 @@
    "cerrada_en": "2026-11-08T22:36:28+00:00",
    "pnl": -48.74,
    "razon_cierre": "liquidada (4045.1 vs 4072.4)"
+  },
+  {
+   "id": 143,
+   "simbolo": "xyz:SP500",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 7347.4,
+   "nocional": 18227.43,
+   "apalancamiento": 3,
+   "margen": 6075.81,
+   "stop": 7384.136999999999,
+   "objetivo": 7273.9259999999995,
+   "comision_entrada": 9.113716167267771,
+   "abierta_en": "2026-11-08T21:56:22+00:00",
+   "revisada_hasta": 1794179400000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)",
+   "precio_salida": 7384.136999999999,
+   "cerrada_en": "2026-11-08T23:12:17+00:00",
+   "pnl": -109.41,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 941.3908315659095,
- "ultima_ejecucion": "2026-11-08T22:36:28+00:00",
+ "comisiones_pagadas": 959.5840144565403,
+ "ultima_ejecucion": "2026-11-08T23:12:17+00:00",
  "ultimo_resumen": "2026-11-08",
  "pausado": false,
  "historial_patrimonio": [
@@ -5397,7 +5433,11 @@
   [
    "2026-11-08T22:36:28+00:00",
    10039.11
+  ],
+  [
+   "2026-11-08T23:12:17+00:00",
+   9851.54
   ]
  ],
- "siguiente_id": 146
+ "siguiente_id": 148
 }
