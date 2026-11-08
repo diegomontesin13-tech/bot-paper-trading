@@ -1600,3 +1600,4 @@
 - Abiertas: short TRUMP, short xyz:COIN, short XRP
 - Sin señal: ETH, kPEPE, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-08 23:49 UTC · sin operaciones · patrimonio $10.005,05 (+0.05%)
