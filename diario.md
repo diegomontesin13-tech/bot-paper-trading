@@ -1528,3 +1528,4 @@
 - Abiertas: short BTC, short xyz:JP225, short XRP, short xyz:SP500, short TRUMP, GOLD > 4072.4 (08-11 22:00 UTC)
 - Sin señal: BTC, ETH, SOL, XRP, BNB, kPEPE, FARTCOIN, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
+- 2026-11-08 12:44 UTC · sin operaciones · patrimonio $9.756,92 (-2.43%)
