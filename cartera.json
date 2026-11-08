@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 991.3785481961896,
+ "efectivo": 3281.432010580159,
  "posiciones": [
-  {
-   "id": 137,
-   "simbolo": "XRP",
-   "mercado": "cripto",
-   "lado": "short",
-   "precio_entrada": 1.17935,
-   "nocional": 6300.43,
-   "apalancamiento": 3,
-   "margen": 2100.14,
-   "stop": 1.1974103434997918,
-   "objetivo": 1.143229313000416,
-   "comision_entrada": 3.1502162439133286,
-   "abierta_en": "2026-11-06T22:14:51+00:00",
-   "revisada_hasta": 1794171000000,
-   "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
-  },
   {
    "id": 139,
    "simbolo": "TRUMP",
@@ -31,7 +15,7 @@
    "objetivo": 1.111926,
    "comision_entrada": 1.6373549275261103,
    "abierta_en": "2026-11-07T15:56:32+00:00",
-   "revisada_hasta": 1794171000000,
+   "revisada_hasta": 1794172800000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
@@ -47,7 +31,7 @@
    "objetivo": 75.46612709763693,
    "comision_entrada": 4.776410294268295,
    "abierta_en": "2026-11-08T18:42:43+00:00",
-   "revisada_hasta": 1794171000000,
+   "revisada_hasta": 1794172800000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   }
  ],
@@ -2816,11 +2800,31 @@
    "cerrada_en": "2026-11-08T20:52:01+00:00",
    "pnl": -2.38,
    "razon_cierre": "más de 48 h abierta"
+  },
+  {
+   "id": 137,
+   "simbolo": "XRP",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 1.17935,
+   "nocional": 6300.43,
+   "apalancamiento": 3,
+   "margen": 2100.14,
+   "stop": 1.1974103434997918,
+   "objetivo": 1.143229313000416,
+   "comision_entrada": 3.1502162439133286,
+   "abierta_en": "2026-11-06T22:14:51+00:00",
+   "revisada_hasta": 1794172800000,
+   "motivo": "tendencia short con momento (fuerza 2.4 ATR)",
+   "precio_salida": 1.143229313000416,
+   "cerrada_en": "2026-11-08T21:22:04+00:00",
+   "pnl": 186.76,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 909.8897629832821,
- "ultima_ejecucion": "2026-11-08T20:52:01+00:00",
- "ultimo_resumen": "2026-11-07",
+ "comisiones_pagadas": 912.9434943863886,
+ "ultima_ejecucion": "2026-11-08T21:22:04+00:00",
+ "ultimo_resumen": "2026-11-08",
  "pausado": false,
  "historial_patrimonio": [
   [
@@ -5318,6 +5322,10 @@
   [
    "2026-11-08T20:52:01+00:00",
    9897.91
+  ],
+  [
+   "2026-11-08T21:22:04+00:00",
+   9896.03
   ]
  ],
  "siguiente_id": 143

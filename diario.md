@@ -1565,3 +1565,10 @@
 - Abiertas: short XRP, short TRUMP, short HYPE, GOLD > 4072.4 (08-11 22:00 UTC)
 - Sin señal: SOL, BNB, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:XYZ100, xyz:GOLD, xyz:SILVER, xyz:NATGAS
 
+
+## 2026-11-08 21:22 UTC · patrimonio $9.896,03 (-1.04%)
+
+- Cerrado short XRP a 1.1432 (objetivo): +$186,76
+- Abiertas: short TRUMP, short HYPE, GOLD > 4072.4 (08-11 22:00 UTC)
+- Sin señal: BNB, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:GOLD, xyz:SILVER
+
