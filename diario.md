@@ -1558,3 +1558,10 @@
 - Sin señal: SOL, BNB, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER
 
 - 2026-11-08 20:11 UTC · sin operaciones · patrimonio $9.810,69 (-1.89%)
+
+## 2026-11-08 20:52 UTC · patrimonio $9.897,91 (-1.02%)
+
+- Cerrado short xyz:JP225 a 58207 (más de 48 h abierta): -$2,38
+- Abiertas: short XRP, short TRUMP, short HYPE, GOLD > 4072.4 (08-11 22:00 UTC)
+- Sin señal: SOL, BNB, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:SP500, xyz:XYZ100, xyz:GOLD, xyz:SILVER, xyz:NATGAS
+

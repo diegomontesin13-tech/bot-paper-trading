@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 192.44808906618053,
+ "efectivo": 991.3785481961896,
  "posiciones": [
-  {
-   "id": 136,
-   "simbolo": "xyz:JP225",
-   "mercado": "indice",
-   "lado": "short",
-   "precio_entrada": 58207.5,
-   "nocional": 2400.34,
-   "apalancamiento": 3,
-   "margen": 800.11,
-   "stop": 58967.304709145894,
-   "objetivo": 56687.89058170821,
-   "comision_entrada": 1.2001713181322666,
-   "abierta_en": "2026-11-06T20:44:02+00:00",
-   "revisada_hasta": 1794168300000,
-   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
-  },
   {
    "id": 137,
    "simbolo": "XRP",
@@ -31,7 +15,7 @@
    "objetivo": 1.143229313000416,
    "comision_entrada": 3.1502162439133286,
    "abierta_en": "2026-11-06T22:14:51+00:00",
-   "revisada_hasta": 1794168600000,
+   "revisada_hasta": 1794171000000,
    "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
   },
   {
@@ -47,7 +31,7 @@
    "objetivo": 1.111926,
    "comision_entrada": 1.6373549275261103,
    "abierta_en": "2026-11-07T15:56:32+00:00",
-   "revisada_hasta": 1794168600000,
+   "revisada_hasta": 1794171000000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
@@ -63,7 +47,7 @@
    "objetivo": 75.46612709763693,
    "comision_entrada": 4.776410294268295,
    "abierta_en": "2026-11-08T18:42:43+00:00",
-   "revisada_hasta": 1794168600000,
+   "revisada_hasta": 1794171000000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   }
  ],
@@ -2812,10 +2796,30 @@
    "cerrada_en": "2026-11-08T19:25:56+00:00",
    "pnl": -1.77,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 136,
+   "simbolo": "xyz:JP225",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 58207.5,
+   "nocional": 2400.34,
+   "apalancamiento": 3,
+   "margen": 800.11,
+   "stop": 58967.304709145894,
+   "objetivo": 56687.89058170821,
+   "comision_entrada": 1.2001713181322666,
+   "abierta_en": "2026-11-06T20:44:02+00:00",
+   "revisada_hasta": 1794170700000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)",
+   "precio_salida": 58207.0,
+   "cerrada_en": "2026-11-08T20:52:01+00:00",
+   "pnl": -2.38,
+   "razon_cierre": "más de 48 h abierta"
   }
  ],
- "comisiones_pagadas": 908.6896032926925,
- "ultima_ejecucion": "2026-11-08T20:11:39+00:00",
+ "comisiones_pagadas": 909.8897629832821,
+ "ultima_ejecucion": "2026-11-08T20:52:01+00:00",
  "ultimo_resumen": "2026-11-07",
  "pausado": false,
  "historial_patrimonio": [
@@ -5310,6 +5314,10 @@
   [
    "2026-11-08T20:11:39+00:00",
    9810.69
+  ],
+  [
+   "2026-11-08T20:52:01+00:00",
+   9897.91
   ]
  ],
  "siguiente_id": 143
