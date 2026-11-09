@@ -1672,3 +1672,10 @@
 - Abiertas: short XRP, short xyz:NVDA, long xyz:GOLD
 - Sin señal: BTC, SOL, HYPE, XRP, BNB, DOGE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-09 17:24 UTC · patrimonio $10.083,41 (+0.83%)
+
+- Abierto short SOL 3x $5.973,82 a 86.4365 (stop 87.8959, obj. 83.5177)
+- Abiertas: short XRP, short xyz:NVDA, long xyz:GOLD, short SOL
+- Sin señal: BTC, HYPE, BNB, DOGE, kSHIB, kBONK, WIF, POPCAT, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:NATGAS, xyz:COPPER
+
