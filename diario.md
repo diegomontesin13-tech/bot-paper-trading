@@ -1602,3 +1602,11 @@
 
 - 2026-11-08 23:49 UTC · sin operaciones · patrimonio $10.005,05 (+0.05%)
 - 2026-11-09 00:21 UTC · sin operaciones · patrimonio $10.035,18 (+0.35%)
+
+## 2026-11-09 01:35 UTC · patrimonio $9.798,56 (-2.01%)
+
+- Cerrado short xyz:COIN a 133.3372 (stop-loss): -$110,22
+- Abierto short PENGU 1x $3.266,73 a 0.00621 (stop 0.0063963, obj. 0.0058374)
+- Abiertas: short TRUMP, short XRP, short PENGU
+- Sin señal: ETH, HYPE, XRP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
