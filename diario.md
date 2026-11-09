@@ -1610,3 +1610,12 @@
 - Abiertas: short TRUMP, short XRP, short PENGU
 - Sin señal: ETH, HYPE, XRP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
 
+
+## 2026-11-09 02:31 UTC · patrimonio $9.673,42 (-3.27%)
+
+- Cerrado short TRUMP a 1.171 (stop-loss): -$103,94
+- Abierto short HYPE 3x $5.860,60 a 75.0155 (stop 76.2545, obj. 72.5376)
+- Abierto short ETH 3x $6.150,92 a 2152.45 (stop 2186.31, obj. 2084.73)
+- Abiertas: short XRP, short PENGU, short HYPE, short ETH
+- Sin señal: BTC, kBONK, TRUMP, xyz:TSLA, xyz:MSFT, xyz:META, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
