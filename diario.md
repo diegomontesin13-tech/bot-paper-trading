@@ -1665,3 +1665,10 @@
 - Abiertas: short XRP, short ETH, short xyz:NVDA, long xyz:GOLD
 - Sin señal: BTC, SOL, HYPE, BNB, DOGE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-09 16:19 UTC · patrimonio $10.081,03 (+0.81%)
+
+- Cerrado short ETH a 2148.36 (stop-loss): -$107,68
+- Abiertas: short XRP, short xyz:NVDA, long xyz:GOLD
+- Sin señal: BTC, SOL, HYPE, XRP, BNB, DOGE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:NATGAS, xyz:COPPER
+
