@@ -1644,3 +1644,12 @@
 
 - 2026-11-09 10:00 UTC · sin operaciones · patrimonio $10.122,14 (+1.22%)
 - 2026-11-09 10:54 UTC · sin operaciones · patrimonio $10.148,48 (+1.48%)
+
+## 2026-11-09 11:53 UTC · patrimonio $10.129,93 (+1.30%)
+
+- Cerrado short WIF a 0.15660635 (stop-loss): -$106,76
+- Abierto short ETH 3x $6.265,09 a 2114.15 (stop 2148.36, obj. 2045.74)
+- Abierto short xyz:NVDA 3x $6.654,62 a 177.675 (stop 180.3805, obj. 172.2639)
+- Abiertas: short PENGU, short XRP, short ETH, short xyz:NVDA
+- Sin señal: XRP, kPEPE, WIF, FARTCOIN, xyz:TSLA, xyz:META, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:BRENTOIL, xyz:COPPER
+
