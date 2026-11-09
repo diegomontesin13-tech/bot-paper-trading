@@ -1634,3 +1634,11 @@
 - Abiertas: short PENGU, short WIF, short xyz:COIN
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:SILVER, xyz:COPPER
 
+
+## 2026-11-09 09:06 UTC · patrimonio $10.059,63 (+0.60%)
+
+- Cerrado short xyz:COIN a 131.626 (stop-loss): -$112,16
+- Abierto short XRP 3x $5.926,44 a 1.0986 (stop 1.1173, obj. 1.0613)
+- Abiertas: short PENGU, short WIF, short XRP
+- Sin señal: kBONK, xyz:TSLA, xyz:META, xyz:AMD, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:COPPER
+
