@@ -1712,3 +1712,4 @@
 - Sin señal: BNB, kSHIB, kBONK, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:MSFT, xyz:AMZN, xyz:COIN, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
 - 2026-11-10 10:39 UTC · sin operaciones · patrimonio $10.133,41 (+1.33%)
+- 2026-11-10 11:36 UTC · sin operaciones · patrimonio $10.170,37 (+1.70%)
