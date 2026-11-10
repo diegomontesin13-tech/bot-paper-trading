@@ -1703,3 +1703,11 @@
 - Sin señal: BTC, HYPE, XRP, BNB, DOGE, kSHIB, kBONK, WIF, POPCAT, FARTCOIN, xyz:NVDA, xyz:META, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
 - 2026-11-10 08:39 UTC · sin operaciones · patrimonio $10.088,75 (+0.89%)
+
+## 2026-11-10 09:37 UTC · patrimonio $10.048,28 (+0.48%)
+
+- Cerrado long xyz:GOLD a 4095.03 (stop-loss): -$91,62
+- Abierto long xyz:META 3x $12.568,20 a 643.86 (stop 638.7091, obj. 654.1618)
+- Abiertas: short XRP, short SOL, long xyz:AMD, long xyz:META
+- Sin señal: BNB, kSHIB, kBONK, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:MSFT, xyz:AMZN, xyz:COIN, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
