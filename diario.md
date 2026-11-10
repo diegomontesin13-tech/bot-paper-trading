@@ -1745,3 +1745,10 @@
 - Abiertas: short xyz:BRENTOIL, long xyz:META, short xyz:CL
 - Sin señal: XRP, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-10 16:09 UTC · patrimonio $9.967,84 (-0.32%)
+
+- Abierto long xyz:NATGAS 3x $6.961,65 a 3.4333 (stop 3.3855, obj. 3.5287)
+- Abiertas: short xyz:BRENTOIL, long xyz:META, short xyz:CL, long xyz:NATGAS
+- Sin señal: ETH, SOL, XRP, kPEPE, kBONK, FARTCOIN, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
