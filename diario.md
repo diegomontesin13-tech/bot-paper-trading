@@ -1702,3 +1702,4 @@
 - Abiertas: short XRP, long xyz:GOLD, short SOL, long xyz:AMD
 - Sin señal: BTC, HYPE, XRP, BNB, DOGE, kSHIB, kBONK, WIF, POPCAT, FARTCOIN, xyz:NVDA, xyz:META, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-10 08:39 UTC · sin operaciones · patrimonio $10.088,75 (+0.89%)
