@@ -1734,3 +1734,14 @@
 - Abiertas: long xyz:AAPL, short xyz:CL, short xyz:BRENTOIL, long xyz:AMD
 - Sin señal: kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-10 15:19 UTC · patrimonio $9.990,91 (-0.09%)
+
+- Cerrado long xyz:AAPL a 349.6254 (stop-loss): -$113,87
+- Cerrado short xyz:CL a 84.9741 (stop-loss): -$86,68
+- Cerrado long xyz:AMD a 531.1804 (objetivo): +$195,30
+- Abierto long xyz:META 3x $10.610,98 a 644.235 (stop 638.164, obj. 656.377)
+- Abierto short xyz:CL 3x $6.274,86 a 84.893 (stop 86.2451, obj. 82.1888)
+- Abiertas: short xyz:BRENTOIL, long xyz:META, short xyz:CL
+- Sin señal: XRP, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+
