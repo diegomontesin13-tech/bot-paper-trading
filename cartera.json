@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 135.2726276477847,
+ "efectivo": 895.8725836681865,
  "posiciones": [
   {
    "id": 166,
@@ -15,24 +15,8 @@
    "objetivo": 82.18879854262428,
    "comision_entrada": 3.137431242444922,
    "abierta_en": "2026-11-10T15:19:16+00:00",
-   "revisada_hasta": 1794333300000,
+   "revisada_hasta": 1794336300000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
-  },
-  {
-   "id": 167,
-   "simbolo": "xyz:NATGAS",
-   "mercado": "materia_prima",
-   "lado": "long",
-   "precio_entrada": 3.43325,
-   "nocional": 6961.65,
-   "apalancamiento": 3,
-   "margen": 2320.55,
-   "stop": 3.385549220743099,
-   "objetivo": 3.5286515585138027,
-   "comision_entrada": 3.4808237346917266,
-   "abierta_en": "2026-11-10T16:09:54+00:00",
-   "revisada_hasta": 1794333300000,
-   "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
   },
   {
    "id": 168,
@@ -47,7 +31,7 @@
    "objetivo": 539.1342373678278,
    "comision_entrada": 1.5922966953609334,
    "abierta_en": "2026-11-10T17:08:27+00:00",
-   "revisada_hasta": 1794333300000,
+   "revisada_hasta": 1794336300000,
    "motivo": "tendencia long con momento (fuerza 1.6 ATR)"
   },
   {
@@ -63,7 +47,7 @@
    "objetivo": 383.9950313139507,
    "comision_entrada": 4.407301787688047,
    "abierta_en": "2026-11-10T17:08:27+00:00",
-   "revisada_hasta": 1794333300000,
+   "revisada_hasta": 1794336300000,
    "motivo": "tendencia long con momento (fuerza 1.6 ATR)"
   },
   {
@@ -79,8 +63,24 @@
    "objetivo": 113.93086283482754,
    "comision_entrada": 1.944599541236703,
    "abierta_en": "2026-11-10T17:58:28+00:00",
-   "revisada_hasta": 1794333508000,
+   "revisada_hasta": 1794336300000,
    "motivo": "tendencia short con momento (fuerza 0.7 ATR)"
+  },
+  {
+   "id": 171,
+   "simbolo": "ETH",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 2042.15,
+   "nocional": 5241.6,
+   "apalancamiento": 3,
+   "margen": 1747.2,
+   "stop": 2081.2890074541615,
+   "objetivo": 1963.8719850916766,
+   "comision_entrada": 2.6207981974868786,
+   "abierta_en": "2026-11-10T18:46:54+00:00",
+   "revisada_hasta": 1794336414000,
+   "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   }
  ],
  "predicciones": [],
@@ -3371,10 +3371,30 @@
    "cerrada_en": "2026-11-10T17:08:27+00:00",
    "pnl": -110.55,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 167,
+   "simbolo": "xyz:NATGAS",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 3.43325,
+   "nocional": 6961.65,
+   "apalancamiento": 3,
+   "margen": 2320.55,
+   "stop": 3.385549220743099,
+   "objetivo": 3.5286515585138027,
+   "comision_entrada": 3.4808237346917266,
+   "abierta_en": "2026-11-10T16:09:54+00:00",
+   "revisada_hasta": 1794336300000,
+   "motivo": "tendencia long con momento (fuerza 2.9 ATR)",
+   "precio_salida": 3.5286515585138027,
+   "cerrada_en": "2026-11-10T18:46:54+00:00",
+   "pnl": 186.39,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1111.3910578191214,
- "ultima_ejecucion": "2026-11-10T17:58:28+00:00",
+ "comisiones_pagadas": 1117.5894045671548,
+ "ultima_ejecucion": "2026-11-10T18:46:54+00:00",
  "ultimo_resumen": "2026-11-09",
  "pausado": false,
  "historial_patrimonio": [
@@ -6069,7 +6089,11 @@
   [
    "2026-11-10T17:58:28+00:00",
    9925.36
+  ],
+  [
+   "2026-11-10T18:46:54+00:00",
+   10043.21
   ]
  ],
- "siguiente_id": 171
+ "siguiente_id": 172
 }
