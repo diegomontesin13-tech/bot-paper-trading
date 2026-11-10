@@ -1,39 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 88.44629554179073,
+ "efectivo": 1433.6169213468233,
  "posiciones": [
-  {
-   "id": 163,
-   "simbolo": "xyz:BRENTOIL",
-   "mercado": "materia_prima",
-   "lado": "short",
-   "precio_entrada": 88.6135,
-   "nocional": 6066.46,
-   "apalancamiento": 3,
-   "margen": 2022.15,
-   "stop": 90.07282750200886,
-   "objetivo": 85.69484499598225,
-   "comision_entrada": 3.033230765614861,
-   "abierta_en": "2026-11-10T14:35:45+00:00",
-   "revisada_hasta": 1794326700000,
-   "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
-  },
-  {
-   "id": 165,
-   "simbolo": "xyz:META",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 644.235,
-   "nocional": 10610.98,
-   "apalancamiento": 3,
-   "margen": 3536.99,
-   "stop": 638.1639919868794,
-   "objetivo": 656.3770160262412,
-   "comision_entrada": 5.305490510698258,
-   "abierta_en": "2026-11-10T15:19:16+00:00",
-   "revisada_hasta": 1794326700000,
-   "motivo": "tendencia long con momento (fuerza 2.1 ATR)"
-  },
   {
    "id": 166,
    "simbolo": "xyz:CL",
@@ -47,7 +15,7 @@
    "objetivo": 82.18879854262428,
    "comision_entrada": 3.137431242444922,
    "abierta_en": "2026-11-10T15:19:16+00:00",
-   "revisada_hasta": 1794326700000,
+   "revisada_hasta": 1794330300000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
@@ -63,8 +31,40 @@
    "objetivo": 3.5286515585138027,
    "comision_entrada": 3.4808237346917266,
    "abierta_en": "2026-11-10T16:09:54+00:00",
-   "revisada_hasta": 1794326994000,
+   "revisada_hasta": 1794330300000,
    "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
+  },
+  {
+   "id": 168,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 507.485,
+   "nocional": 3184.59,
+   "apalancamiento": 3,
+   "margen": 1061.53,
+   "stop": 491.6603813160861,
+   "objetivo": 539.1342373678278,
+   "comision_entrada": 1.5922966953609334,
+   "abierta_en": "2026-11-10T17:08:27+00:00",
+   "revisada_hasta": 1794330507000,
+   "motivo": "tendencia long con momento (fuerza 1.6 ATR)"
+  },
+  {
+   "id": 169,
+   "simbolo": "xyz:TSLA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 375.535,
+   "nocional": 8814.6,
+   "apalancamiento": 3,
+   "margen": 2938.2,
+   "stop": 371.3049843430247,
+   "objetivo": 383.9950313139507,
+   "comision_entrada": 4.407301787688047,
+   "abierta_en": "2026-11-10T17:08:27+00:00",
+   "revisada_hasta": 1794330507000,
+   "motivo": "tendencia long con momento (fuerza 1.6 ATR)"
   }
  ],
  "predicciones": [],
@@ -3315,10 +3315,50 @@
    "cerrada_en": "2026-11-10T15:19:16+00:00",
    "pnl": 195.3,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 163,
+   "simbolo": "xyz:BRENTOIL",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 88.6135,
+   "nocional": 6066.46,
+   "apalancamiento": 3,
+   "margen": 2022.15,
+   "stop": 90.07282750200886,
+   "objetivo": 85.69484499598225,
+   "comision_entrada": 3.033230765614861,
+   "abierta_en": "2026-11-10T14:35:45+00:00",
+   "revisada_hasta": 1794330300000,
+   "motivo": "tendencia short con momento (fuerza 2.4 ATR)",
+   "precio_salida": 90.07282750200886,
+   "cerrada_en": "2026-11-10T17:08:27+00:00",
+   "pnl": -106.02,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 165,
+   "simbolo": "xyz:META",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 644.235,
+   "nocional": 10610.98,
+   "apalancamiento": 3,
+   "margen": 3536.99,
+   "stop": 638.1639919868794,
+   "objetivo": 656.3770160262412,
+   "comision_entrada": 5.305490510698258,
+   "abierta_en": "2026-11-10T15:19:16+00:00",
+   "revisada_hasta": 1794330300000,
+   "motivo": "tendencia long con momento (fuerza 2.1 ATR)",
+   "precio_salida": 638.1639919868794,
+   "cerrada_en": "2026-11-10T17:08:27+00:00",
+   "pnl": -110.55,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1095.1081839557958,
- "ultima_ejecucion": "2026-11-10T16:09:54+00:00",
+ "comisiones_pagadas": 1109.4464582778846,
+ "ultima_ejecucion": "2026-11-10T17:08:27+00:00",
  "ultimo_resumen": "2026-11-09",
  "pausado": false,
  "historial_patrimonio": [
@@ -6005,7 +6045,11 @@
   [
    "2026-11-10T16:09:54+00:00",
    9967.84
+  ],
+  [
+   "2026-11-10T17:08:27+00:00",
+   9924.34
   ]
  ],
- "siguiente_id": 168
+ "siguiente_id": 170
 }
