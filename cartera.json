@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1433.6169213468233,
+ "efectivo": 135.2726276477847,
  "posiciones": [
   {
    "id": 166,
@@ -15,7 +15,7 @@
    "objetivo": 82.18879854262428,
    "comision_entrada": 3.137431242444922,
    "abierta_en": "2026-11-10T15:19:16+00:00",
-   "revisada_hasta": 1794330300000,
+   "revisada_hasta": 1794333300000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 3.5286515585138027,
    "comision_entrada": 3.4808237346917266,
    "abierta_en": "2026-11-10T16:09:54+00:00",
-   "revisada_hasta": 1794330300000,
+   "revisada_hasta": 1794333300000,
    "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 539.1342373678278,
    "comision_entrada": 1.5922966953609334,
    "abierta_en": "2026-11-10T17:08:27+00:00",
-   "revisada_hasta": 1794330507000,
+   "revisada_hasta": 1794333300000,
    "motivo": "tendencia long con momento (fuerza 1.6 ATR)"
   },
   {
@@ -63,8 +63,24 @@
    "objetivo": 383.9950313139507,
    "comision_entrada": 4.407301787688047,
    "abierta_en": "2026-11-10T17:08:27+00:00",
-   "revisada_hasta": 1794330507000,
+   "revisada_hasta": 1794333300000,
    "motivo": "tendencia long con momento (fuerza 1.6 ATR)"
+  },
+  {
+   "id": 170,
+   "simbolo": "xyz:MSTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 120.06,
+   "nocional": 3889.2,
+   "apalancamiento": 3,
+   "margen": 1296.4,
+   "stop": 123.12456858258624,
+   "objetivo": 113.93086283482754,
+   "comision_entrada": 1.944599541236703,
+   "abierta_en": "2026-11-10T17:58:28+00:00",
+   "revisada_hasta": 1794333508000,
+   "motivo": "tendencia short con momento (fuerza 0.7 ATR)"
   }
  ],
  "predicciones": [],
@@ -3357,8 +3373,8 @@
    "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1109.4464582778846,
- "ultima_ejecucion": "2026-11-10T17:08:27+00:00",
+ "comisiones_pagadas": 1111.3910578191214,
+ "ultima_ejecucion": "2026-11-10T17:58:28+00:00",
  "ultimo_resumen": "2026-11-09",
  "pausado": false,
  "historial_patrimonio": [
@@ -6049,7 +6065,11 @@
   [
    "2026-11-10T17:08:27+00:00",
    9924.34
+  ],
+  [
+   "2026-11-10T17:58:28+00:00",
+   9925.36
   ]
  ],
- "siguiente_id": 170
+ "siguiente_id": 171
 }
