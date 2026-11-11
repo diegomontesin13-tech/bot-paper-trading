@@ -1805,3 +1805,4 @@
 - Abiertas: short xyz:CL, short xyz:MSTR, short ETH, short xyz:BRENTOIL, long xyz:TSLA
 - Sin señal: ETH, kPEPE, kSHIB, WIF, xyz:NVDA, xyz:AAPL, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-11 07:47 UTC · sin operaciones · patrimonio $10.180,41 (+1.80%)
