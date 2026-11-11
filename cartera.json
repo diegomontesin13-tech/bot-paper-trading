@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1048.6285065884667,
+ "efectivo": 960.5418372661507,
  "posiciones": [
   {
    "id": 178,
@@ -15,7 +15,7 @@
    "objetivo": 62406.94929636096,
    "comision_entrada": 7.456654971668365,
    "abierta_en": "2026-11-11T14:51:33+00:00",
-   "revisada_hasta": 1794424800000,
+   "revisada_hasta": 1794434100000,
    "motivo": "tendencia long con momento (fuerza 2.3 ATR)"
   },
   {
@@ -31,24 +31,24 @@
    "objetivo": 568.594387452173,
    "comision_entrada": 1.9400644686758477,
    "abierta_en": "2026-11-11T15:32:13+00:00",
-   "revisada_hasta": 1794424800000,
+   "revisada_hasta": 1794434100000,
    "motivo": "tendencia long con momento (fuerza 2.0 ATR)"
   },
   {
-   "id": 181,
+   "id": 182,
    "simbolo": "xyz:NATGAS",
    "mercado": "materia_prima",
    "lado": "long",
-   "precio_entrada": 3.5992,
-   "nocional": 7597.91,
+   "precio_entrada": 3.59395,
+   "nocional": 7537.52,
    "apalancamiento": 3,
-   "margen": 2532.64,
-   "stop": 3.551495917275625,
-   "objetivo": 3.694608165448751,
-   "comision_entrada": 3.7989544322094413,
-   "abierta_en": "2026-11-11T16:28:00+00:00",
-   "revisada_hasta": 1794424800000,
-   "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
+   "margen": 2512.51,
+   "stop": 3.5464795004117455,
+   "objetivo": 3.6888909991765084,
+   "comision_entrada": 3.7687590063615843,
+   "abierta_en": "2026-11-11T21:58:43+00:00",
+   "revisada_hasta": 1794434323000,
+   "motivo": "tendencia long con momento (fuerza 2.5 ATR)"
   }
  ],
  "predicciones": [],
@@ -3599,11 +3599,31 @@
    "cerrada_en": "2026-11-11T16:28:00+00:00",
    "pnl": 14.58,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 181,
+   "simbolo": "xyz:NATGAS",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 3.5992,
+   "nocional": 7597.91,
+   "apalancamiento": 3,
+   "margen": 2532.64,
+   "stop": 3.551495917275625,
+   "objetivo": 3.694608165448751,
+   "comision_entrada": 3.7989544322094413,
+   "abierta_en": "2026-11-11T16:28:00+00:00",
+   "revisada_hasta": 1794434100000,
+   "motivo": "tendencia long con momento (fuerza 2.9 ATR)",
+   "precio_salida": 3.551495917275625,
+   "cerrada_en": "2026-11-11T21:58:43+00:00",
+   "pnl": -108.25,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1183.0074070510532,
- "ultima_ejecucion": "2026-11-11T19:24:18+00:00",
- "ultimo_resumen": "2026-11-10",
+ "comisiones_pagadas": 1190.5247694060515,
+ "ultima_ejecucion": "2026-11-11T21:58:43+00:00",
+ "ultimo_resumen": "2026-11-11",
  "pausado": false,
  "historial_patrimonio": [
   [
@@ -6409,7 +6429,11 @@
   [
    "2026-11-11T19:24:18+00:00",
    10026.65
+  ],
+  [
+   "2026-11-11T21:58:43+00:00",
+   9952.13
   ]
  ],
- "siguiente_id": 182
+ "siguiente_id": 183
 }
