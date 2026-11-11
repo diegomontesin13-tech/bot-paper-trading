@@ -1785,3 +1785,11 @@
 - 2026-11-10 23:19 UTC · sin operaciones · patrimonio $10.101,57 (+1.02%)
 - 2026-11-10 23:52 UTC · sin operaciones · patrimonio $10.116,65 (+1.17%)
 - 2026-11-11 00:56 UTC · sin operaciones · patrimonio $10.173,81 (+1.74%)
+
+## 2026-11-11 01:58 UTC · patrimonio $10.254,57 (+2.55%)
+
+- Cerrado long xyz:TSLA a 383.995 (objetivo): +$189,66
+- Abierto short xyz:BRENTOIL 3x $8.335,22 a 90.4275 (stop 91.5405, obj. 88.2016)
+- Abiertas: short xyz:CL, long xyz:AMD, short xyz:MSTR, short ETH, short xyz:BRENTOIL
+- Sin señal: kSHIB, WIF, PENGU, TRUMP, xyz:AAPL, xyz:MSFT, xyz:KR200, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+
