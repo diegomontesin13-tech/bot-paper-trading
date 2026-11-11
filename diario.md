@@ -1887,3 +1887,4 @@
 - Abiertas: long xyz:JP225, long xyz:NATGAS, long xyz:JPY
 - Sin señal: BTC, SOL, BNB, kPEPE, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:COPPER
 
+- 2026-11-11 23:35 UTC · sin operaciones · patrimonio $9.946,33 (-0.54%)
