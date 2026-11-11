@@ -1815,3 +1815,13 @@
 - Sin señal: kPEPE, kBONK, xyz:NVDA, xyz:AAPL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:EUR, xyz:GOLD, xyz:NATGAS
 
 - 2026-11-11 09:40 UTC · sin operaciones · patrimonio $10.168,47 (+1.68%)
+
+## 2026-11-11 10:42 UTC · patrimonio $10.047,13 (+0.47%)
+
+- Cerrado short xyz:CL a 86.2451 (stop-loss): -$106,27
+- Cerrado short xyz:BRENTOIL a 91.5405 (stop-loss): -$110,97
+- Abierto long xyz:AMD 3x $4.975,08 a 543.24 (stop 532.2617, obj. 565.1966)
+- Abierto long xyz:PLTR 3x $8.953,39 a 172.825 (stop 171.2784, obj. 175.9183)
+- Abiertas: short ETH, long xyz:TSLA, long xyz:AMZN, long xyz:AMD, long xyz:PLTR
+- Sin señal: BTC, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:AMZN, xyz:COIN, xyz:MSTR, xyz:JP225, xyz:KR200, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
