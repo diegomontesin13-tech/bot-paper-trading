@@ -1851,3 +1851,11 @@
 - Abiertas: short ETH, long xyz:PLTR, long xyz:JP225, long xyz:TSLA
 - Sin señal: SOL, HYPE, BNB, DOGE, kPEPE, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-11 15:32 UTC · patrimonio $9.944,50 (-0.55%)
+
+- Cerrado long xyz:PLTR a 171.2784 (stop-loss): -$89,04
+- Abierto long xyz:AMD 3x $3.880,13 a 540.865 (stop 527.0003, obj. 568.5944)
+- Abiertas: short ETH, long xyz:JP225, long xyz:TSLA, long xyz:AMD
+- Sin señal: SOL, HYPE, BNB, DOGE, kPEPE, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:COIN, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
