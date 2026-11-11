@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 39.510983603197474,
+ "efectivo": 61.18238582353365,
  "posiciones": [
   {
    "id": 171,
@@ -15,40 +15,8 @@
    "objetivo": 1963.8719850916766,
    "comision_entrada": 2.6207981974868786,
    "abierta_en": "2026-11-10T18:46:54+00:00",
-   "revisada_hasta": 1794405300000,
+   "revisada_hasta": 1794408600000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
-  },
-  {
-   "id": 173,
-   "simbolo": "xyz:TSLA",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 385.655,
-   "nocional": 6730.46,
-   "apalancamiento": 3,
-   "margen": 2243.49,
-   "stop": 382.2759676349816,
-   "objetivo": 392.41306473003675,
-   "comision_entrada": 3.3652303059474526,
-   "abierta_en": "2026-11-11T06:27:36+00:00",
-   "revisada_hasta": 1794405300000,
-   "motivo": "tendencia long con momento (fuerza 2.4 ATR)"
-  },
-  {
-   "id": 175,
-   "simbolo": "xyz:AMD",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 543.24,
-   "nocional": 4975.08,
-   "apalancamiento": 3,
-   "margen": 1658.36,
-   "stop": 532.2616968555283,
-   "objetivo": 565.1966062889436,
-   "comision_entrada": 2.48753797049031,
-   "abierta_en": "2026-11-11T10:42:58+00:00",
-   "revisada_hasta": 1794405300000,
-   "motivo": "tendencia long con momento (fuerza 2.6 ATR)"
   },
   {
    "id": 176,
@@ -63,24 +31,40 @@
    "objetivo": 175.91828435619004,
    "comision_entrada": 4.476695448325309,
    "abierta_en": "2026-11-11T10:42:58+00:00",
-   "revisada_hasta": 1794405300000,
+   "revisada_hasta": 1794408600000,
    "motivo": "tendencia long con momento (fuerza 2.3 ATR)"
   },
   {
-   "id": 177,
-   "simbolo": "xyz:META",
+   "id": 178,
+   "simbolo": "xyz:JP225",
+   "mercado": "indice",
+   "lado": "long",
+   "precio_entrada": 61583.5,
+   "nocional": 14913.31,
+   "apalancamiento": 3,
+   "margen": 4971.1,
+   "stop": 61171.775351819524,
+   "objetivo": 62406.94929636096,
+   "comision_entrada": 7.456654971668365,
+   "abierta_en": "2026-11-11T14:51:33+00:00",
+   "revisada_hasta": 1794408693000,
+   "motivo": "tendencia long con momento (fuerza 2.3 ATR)"
+  },
+  {
+   "id": 179,
+   "simbolo": "xyz:TSLA",
    "mercado": "accion",
    "lado": "long",
-   "precio_entrada": 650.645,
-   "nocional": 4148.22,
+   "precio_entrada": 387.82,
+   "nocional": 780.79,
    "apalancamiento": 3,
-   "margen": 1382.74,
-   "stop": 645.43984,
-   "objetivo": 661.0553199999999,
-   "comision_entrada": 2.0741099781008234,
-   "abierta_en": "2026-11-11T13:57:03+00:00",
-   "revisada_hasta": 1794405423000,
-   "motivo": "tendencia long con momento (fuerza 1.8 ATR)"
+   "margen": 260.26,
+   "stop": 384.0035059058777,
+   "objetivo": 395.4529881882445,
+   "comision_entrada": 0.3903964597513932,
+   "abierta_en": "2026-11-11T14:51:33+00:00",
+   "revisada_hasta": 1794408693000,
+   "motivo": "tendencia long con momento (fuerza 2.2 ATR)"
   }
  ],
  "predicciones": [],
@@ -3511,10 +3495,70 @@
    "cerrada_en": "2026-11-11T11:39:16+00:00",
    "pnl": -38.27,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 173,
+   "simbolo": "xyz:TSLA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 385.655,
+   "nocional": 6730.46,
+   "apalancamiento": 3,
+   "margen": 2243.49,
+   "stop": 382.2759676349816,
+   "objetivo": 392.41306473003675,
+   "comision_entrada": 3.3652303059474526,
+   "abierta_en": "2026-11-11T06:27:36+00:00",
+   "revisada_hasta": 1794408600000,
+   "motivo": "tendencia long con momento (fuerza 2.4 ATR)",
+   "precio_salida": 392.41306473003675,
+   "cerrada_en": "2026-11-11T14:51:33+00:00",
+   "pnl": 111.15,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 175,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 543.24,
+   "nocional": 4975.08,
+   "apalancamiento": 3,
+   "margen": 1658.36,
+   "stop": 532.2616968555283,
+   "objetivo": 565.1966062889436,
+   "comision_entrada": 2.48753797049031,
+   "abierta_en": "2026-11-11T10:42:58+00:00",
+   "revisada_hasta": 1794408600000,
+   "motivo": "tendencia long con momento (fuerza 2.6 ATR)",
+   "precio_salida": 532.2616968555283,
+   "cerrada_en": "2026-11-11T14:51:33+00:00",
+   "pnl": -105.47,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 177,
+   "simbolo": "xyz:META",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 650.645,
+   "nocional": 4148.22,
+   "apalancamiento": 3,
+   "margen": 1382.74,
+   "stop": 645.43984,
+   "objetivo": 661.0553199999999,
+   "comision_entrada": 2.0741099781008234,
+   "abierta_en": "2026-11-11T13:57:03+00:00",
+   "revisada_hasta": 1794408600000,
+   "motivo": "tendencia long con momento (fuerza 1.8 ATR)",
+   "precio_salida": 645.43984,
+   "cerrada_en": "2026-11-11T14:51:33+00:00",
+   "pnl": -37.32,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1153.996609096521,
- "ultima_ejecucion": "2026-11-11T13:57:03+00:00",
+ "comisiones_pagadas": 1169.7626480590054,
+ "ultima_ejecucion": "2026-11-11T14:51:33+00:00",
  "ultimo_resumen": "2026-11-10",
  "pausado": false,
  "historial_patrimonio": [
@@ -6297,7 +6341,11 @@
   [
    "2026-11-11T13:57:03+00:00",
    10014.18
+  ],
+  [
+   "2026-11-11T14:51:33+00:00",
+   9962.64
   ]
  ],
- "siguiente_id": 178
+ "siguiente_id": 180
 }
