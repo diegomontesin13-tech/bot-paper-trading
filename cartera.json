@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1424.3250789818471,
+ "efectivo": 39.510983603197474,
  "posiciones": [
   {
    "id": 171,
@@ -15,7 +15,7 @@
    "objetivo": 1963.8719850916766,
    "comision_entrada": 2.6207981974868786,
    "abierta_en": "2026-11-10T18:46:54+00:00",
-   "revisada_hasta": 1794400800000,
+   "revisada_hasta": 1794405300000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 392.41306473003675,
    "comision_entrada": 3.3652303059474526,
    "abierta_en": "2026-11-11T06:27:36+00:00",
-   "revisada_hasta": 1794400800000,
+   "revisada_hasta": 1794405300000,
    "motivo": "tendencia long con momento (fuerza 2.4 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 565.1966062889436,
    "comision_entrada": 2.48753797049031,
    "abierta_en": "2026-11-11T10:42:58+00:00",
-   "revisada_hasta": 1794400800000,
+   "revisada_hasta": 1794405300000,
    "motivo": "tendencia long con momento (fuerza 2.6 ATR)"
   },
   {
@@ -63,8 +63,24 @@
    "objetivo": 175.91828435619004,
    "comision_entrada": 4.476695448325309,
    "abierta_en": "2026-11-11T10:42:58+00:00",
-   "revisada_hasta": 1794400800000,
+   "revisada_hasta": 1794405300000,
    "motivo": "tendencia long con momento (fuerza 2.3 ATR)"
+  },
+  {
+   "id": 177,
+   "simbolo": "xyz:META",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 650.645,
+   "nocional": 4148.22,
+   "apalancamiento": 3,
+   "margen": 1382.74,
+   "stop": 645.43984,
+   "objetivo": 661.0553199999999,
+   "comision_entrada": 2.0741099781008234,
+   "abierta_en": "2026-11-11T13:57:03+00:00",
+   "revisada_hasta": 1794405423000,
+   "motivo": "tendencia long con momento (fuerza 1.8 ATR)"
   }
  ],
  "predicciones": [],
@@ -3497,8 +3513,8 @@
    "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1151.9224991184203,
- "ultima_ejecucion": "2026-11-11T12:42:11+00:00",
+ "comisiones_pagadas": 1153.996609096521,
+ "ultima_ejecucion": "2026-11-11T13:57:03+00:00",
  "ultimo_resumen": "2026-11-10",
  "pausado": false,
  "historial_patrimonio": [
@@ -6277,7 +6293,11 @@
   [
    "2026-11-11T12:42:11+00:00",
    10108.59
+  ],
+  [
+   "2026-11-11T13:57:03+00:00",
+   10014.18
   ]
  ],
- "siguiente_id": 177
+ "siguiente_id": 178
 }
