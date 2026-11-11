@@ -1832,3 +1832,4 @@
 - Abiertas: short ETH, long xyz:TSLA, long xyz:AMD, long xyz:PLTR
 - Sin señal: BTC, SOL, HYPE, BNB, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-11 12:42 UTC · sin operaciones · patrimonio $10.108,59 (+1.09%)
