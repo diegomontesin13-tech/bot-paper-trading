@@ -1879,3 +1879,11 @@
 - Abiertas: long xyz:JP225, long xyz:AMD, long xyz:NATGAS
 - Sin señal: BTC, ETH, SOL, HYPE, BNB, DOGE, kPEPE, WIF, FARTCOIN, TRUMP, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:COPPER
 
+
+## 2026-11-11 22:48 UTC · patrimonio $9.913,87 (-0.86%)
+
+- Cerrado long xyz:AMD a 568.5944 (objetivo): +$194,95
+- Abierto long xyz:JPY 3x $7.301,73 a 159.63 (stop 159.3107, obj. 160.2685)
+- Abiertas: long xyz:JP225, long xyz:NATGAS, long xyz:JPY
+- Sin señal: BTC, SOL, BNB, kPEPE, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:COPPER
+

@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 960.5418372661507,
+ "efectivo": 13.249939523291687,
  "posiciones": [
   {
    "id": 178,
@@ -15,24 +15,8 @@
    "objetivo": 62406.94929636096,
    "comision_entrada": 7.456654971668365,
    "abierta_en": "2026-11-11T14:51:33+00:00",
-   "revisada_hasta": 1794434100000,
+   "revisada_hasta": 1794437100000,
    "motivo": "tendencia long con momento (fuerza 2.3 ATR)"
-  },
-  {
-   "id": 180,
-   "simbolo": "xyz:AMD",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 540.865,
-   "nocional": 3880.13,
-   "apalancamiento": 3,
-   "margen": 1293.38,
-   "stop": 527.0003062739136,
-   "objetivo": 568.594387452173,
-   "comision_entrada": 1.9400644686758477,
-   "abierta_en": "2026-11-11T15:32:13+00:00",
-   "revisada_hasta": 1794434100000,
-   "motivo": "tendencia long con momento (fuerza 2.0 ATR)"
   },
   {
    "id": 182,
@@ -47,8 +31,24 @@
    "objetivo": 3.6888909991765084,
    "comision_entrada": 3.7687590063615843,
    "abierta_en": "2026-11-11T21:58:43+00:00",
-   "revisada_hasta": 1794434323000,
+   "revisada_hasta": 1794437100000,
    "motivo": "tendencia long con momento (fuerza 2.5 ATR)"
+  },
+  {
+   "id": 183,
+   "simbolo": "xyz:JPY",
+   "mercado": "forex",
+   "lado": "long",
+   "precio_entrada": 159.63,
+   "nocional": 7301.73,
+   "apalancamiento": 3,
+   "margen": 2433.91,
+   "stop": 159.31073999999998,
+   "objetivo": 160.26852,
+   "comision_entrada": 3.650865461868947,
+   "abierta_en": "2026-11-11T22:48:31+00:00",
+   "revisada_hasta": 1794437311000,
+   "motivo": "tendencia long con momento (fuerza 3.5 ATR)"
   }
  ],
  "predicciones": [],
@@ -3619,10 +3619,30 @@
    "cerrada_en": "2026-11-11T21:58:43+00:00",
    "pnl": -108.25,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 180,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 540.865,
+   "nocional": 3880.13,
+   "apalancamiento": 3,
+   "margen": 1293.38,
+   "stop": 527.0003062739136,
+   "objetivo": 568.594387452173,
+   "comision_entrada": 1.9400644686758477,
+   "abierta_en": "2026-11-11T15:32:13+00:00",
+   "revisada_hasta": 1794437100000,
+   "motivo": "tendencia long con momento (fuerza 2.0 ATR)",
+   "precio_salida": 568.594387452173,
+   "cerrada_en": "2026-11-11T22:48:31+00:00",
+   "pnl": 194.95,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1190.5247694060515,
- "ultima_ejecucion": "2026-11-11T21:58:43+00:00",
+ "comisiones_pagadas": 1196.2151642704375,
+ "ultima_ejecucion": "2026-11-11T22:48:31+00:00",
  "ultimo_resumen": "2026-11-11",
  "pausado": false,
  "historial_patrimonio": [
@@ -6433,7 +6453,11 @@
   [
    "2026-11-11T21:58:43+00:00",
    9952.13
+  ],
+  [
+   "2026-11-11T22:48:31+00:00",
+   9913.87
   ]
  ],
- "siguiente_id": 183
+ "siguiente_id": 184
 }
