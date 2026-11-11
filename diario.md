@@ -1797,3 +1797,11 @@
 - 2026-11-11 03:35 UTC · sin operaciones · patrimonio $10.146,86 (+1.47%)
 - 2026-11-11 04:32 UTC · sin operaciones · patrimonio $10.159,51 (+1.60%)
 - 2026-11-11 05:28 UTC · sin operaciones · patrimonio $10.194,14 (+1.94%)
+
+## 2026-11-11 06:27 UTC · patrimonio $10.153,75 (+1.54%)
+
+- Cerrado long xyz:AMD a 539.1342 (objetivo): +$195,32
+- Abierto long xyz:TSLA 3x $6.730,46 a 385.655 (stop 382.276, obj. 392.4131)
+- Abiertas: short xyz:CL, short xyz:MSTR, short ETH, short xyz:BRENTOIL, long xyz:TSLA
+- Sin señal: ETH, kPEPE, kSHIB, WIF, xyz:NVDA, xyz:AAPL, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
