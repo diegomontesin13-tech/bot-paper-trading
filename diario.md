@@ -1806,3 +1806,11 @@
 - Sin señal: ETH, kPEPE, kSHIB, WIF, xyz:NVDA, xyz:AAPL, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-11 07:47 UTC · sin operaciones · patrimonio $10.180,41 (+1.80%)
+
+## 2026-11-11 08:39 UTC · patrimonio $10.276,69 (+2.77%)
+
+- Cerrado short xyz:MSTR a 123.1246 (stop-loss): -$103,21
+- Abierto long xyz:AMZN 3x $4.254,31 a 272.775 (stop 270.5928, obj. 277.1394)
+- Abiertas: short xyz:CL, short ETH, short xyz:BRENTOIL, long xyz:TSLA, long xyz:AMZN
+- Sin señal: kPEPE, kBONK, xyz:NVDA, xyz:AAPL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:EUR, xyz:GOLD, xyz:NATGAS
+
