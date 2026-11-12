@@ -1935,3 +1935,4 @@
 - Abiertas: long xyz:NATGAS, long xyz:AMD, short HYPE, long xyz:AAPL
 - Sin señal: BTC, ETH, BNB, kPEPE, FARTCOIN, xyz:NVDA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:COIN, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+- 2026-11-12 17:50 UTC · sin operaciones · patrimonio $9.891,70 (-1.08%)
