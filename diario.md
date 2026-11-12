@@ -1940,3 +1940,11 @@
 - 2026-11-12 19:31 UTC · sin operaciones · patrimonio $9.929,18 (-0.71%)
 - 2026-11-12 20:22 UTC · sin operaciones · patrimonio $9.916,91 (-0.83%)
 - 2026-11-12 21:20 UTC · sin operaciones · patrimonio $9.901,67 (-0.98%)
+
+## 2026-11-12 22:06 UTC · patrimonio $9.878,12 (-1.22%)
+
+- Cerrado long xyz:NATGAS a 3.754 (objetivo): +$190,08
+- Abierto short xyz:EUR 3x $9.058,76 a 1.106 (stop 1.1083, obj. 1.1016)
+- Abiertas: long xyz:AMD, short HYPE, long xyz:AAPL, short xyz:EUR
+- Sin señal: BTC, HYPE, BNB, kPEPE, kSHIB, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:SP500, xyz:JP225, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
