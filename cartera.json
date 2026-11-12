@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 769.5287772127176,
+ "efectivo": 3736.8376270198473,
  "posiciones": [
-  {
-   "id": 182,
-   "simbolo": "xyz:NATGAS",
-   "mercado": "materia_prima",
-   "lado": "long",
-   "precio_entrada": 3.59395,
-   "nocional": 7537.52,
-   "apalancamiento": 3,
-   "margen": 2512.51,
-   "stop": 3.5464795004117455,
-   "objetivo": 3.6888909991765084,
-   "comision_entrada": 3.7687590063615843,
-   "abierta_en": "2026-11-11T21:58:43+00:00",
-   "revisada_hasta": 1794491700000,
-   "motivo": "tendencia long con momento (fuerza 2.5 ATR)"
-  },
   {
    "id": 183,
    "simbolo": "xyz:JPY",
@@ -31,24 +15,40 @@
    "objetivo": 160.26852,
    "comision_entrada": 3.650865461868947,
    "abierta_en": "2026-11-11T22:48:31+00:00",
-   "revisada_hasta": 1794491400000,
+   "revisada_hasta": 1794495000000,
    "motivo": "tendencia long con momento (fuerza 3.5 ATR)"
   },
   {
-   "id": 184,
-   "simbolo": "xyz:MSFT",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 520.15,
-   "nocional": 12304.67,
+   "id": 185,
+   "simbolo": "xyz:NATGAS",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 3.664,
+   "nocional": 8066.68,
    "apalancamiento": 3,
-   "margen": 4101.56,
-   "stop": 524.3112,
-   "objetivo": 511.82759999999996,
-   "comision_entrada": 6.152335671434046,
-   "abierta_en": "2026-11-12T00:24:51+00:00",
-   "revisada_hasta": 1794491700000,
-   "motivo": "tendencia short con momento (fuerza 2.0 ATR)"
+   "margen": 2688.89,
+   "stop": 3.618976172154225,
+   "objetivo": 3.7540476556915507,
+   "comision_entrada": 4.03333890263124,
+   "abierta_en": "2026-11-12T14:52:43+00:00",
+   "revisada_hasta": 1794495163000,
+   "motivo": "tendencia long con momento (fuerza 2.2 ATR)"
+  },
+  {
+   "id": 186,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 568.935,
+   "nocional": 3128.64,
+   "apalancamiento": 3,
+   "margen": 1042.88,
+   "stop": 550.9168075776842,
+   "objetivo": 604.9713848446315,
+   "comision_entrada": 1.5643222916273845,
+   "abierta_en": "2026-11-12T14:52:43+00:00",
+   "revisada_hasta": 1794495163000,
+   "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
   }
  ],
  "predicciones": [],
@@ -3659,10 +3659,50 @@
    "cerrada_en": "2026-11-12T00:24:51+00:00",
    "pnl": -114.57,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 182,
+   "simbolo": "xyz:NATGAS",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 3.59395,
+   "nocional": 7537.52,
+   "apalancamiento": 3,
+   "margen": 2512.51,
+   "stop": 3.5464795004117455,
+   "objetivo": 3.6888909991765084,
+   "comision_entrada": 3.7687590063615843,
+   "abierta_en": "2026-11-11T21:58:43+00:00",
+   "revisada_hasta": 1794495000000,
+   "motivo": "tendencia long con momento (fuerza 2.5 ATR)",
+   "precio_salida": 3.6888909991765084,
+   "cerrada_en": "2026-11-12T14:52:43+00:00",
+   "pnl": 191.48,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 184,
+   "simbolo": "xyz:MSFT",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 520.15,
+   "nocional": 12304.67,
+   "apalancamiento": 3,
+   "margen": 4101.56,
+   "stop": 524.3112,
+   "objetivo": 511.82759999999996,
+   "comision_entrada": 6.152335671434046,
+   "abierta_en": "2026-11-12T00:24:51+00:00",
+   "revisada_hasta": 1794495000000,
+   "motivo": "tendencia short con momento (fuerza 2.0 ATR)",
+   "precio_salida": 524.3112,
+   "cerrada_en": "2026-11-12T14:52:43+00:00",
+   "pnl": -110.79,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1209.7743024869692,
- "ultima_ejecucion": "2026-11-12T13:57:53+00:00",
+ "comisiones_pagadas": 1225.4418362977895,
+ "ultima_ejecucion": "2026-11-12T14:52:43+00:00",
  "ultimo_resumen": "2026-11-11",
  "pausado": false,
  "historial_patrimonio": [
@@ -6533,7 +6573,11 @@
   [
    "2026-11-12T13:57:53+00:00",
    9951.64
+  ],
+  [
+   "2026-11-12T14:52:43+00:00",
+   9906.86
   ]
  ],
- "siguiente_id": 185
+ "siguiente_id": 187
 }

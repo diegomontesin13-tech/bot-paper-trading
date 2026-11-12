@@ -1908,3 +1908,13 @@
 - 2026-11-12 11:40 UTC · sin operaciones · patrimonio $9.903,47 (-0.97%)
 - 2026-11-12 12:42 UTC · sin operaciones · patrimonio $9.920,47 (-0.80%)
 - 2026-11-12 13:57 UTC · sin operaciones · patrimonio $9.951,64 (-0.48%)
+
+## 2026-11-12 14:52 UTC · patrimonio $9.906,86 (-0.93%)
+
+- Cerrado long xyz:NATGAS a 3.6889 (objetivo): +$191,48
+- Cerrado short xyz:MSFT a 524.3112 (stop-loss): -$110,79
+- Abierto long xyz:NATGAS 3x $8.066,68 a 3.664 (stop 3.619, obj. 3.754)
+- Abierto long xyz:AMD 3x $3.128,64 a 568.935 (stop 550.9168, obj. 604.9714)
+- Abiertas: long xyz:JPY, long xyz:NATGAS, long xyz:AMD
+- Sin señal: BTC, ETH, SOL, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
