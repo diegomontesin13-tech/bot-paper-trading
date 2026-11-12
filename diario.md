@@ -1936,3 +1936,4 @@
 - Sin señal: BTC, ETH, BNB, kPEPE, FARTCOIN, xyz:NVDA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:COIN, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
 - 2026-11-12 17:50 UTC · sin operaciones · patrimonio $9.891,70 (-1.08%)
+- 2026-11-12 18:36 UTC · sin operaciones · patrimonio $9.868,63 (-1.31%)
