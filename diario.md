@@ -1949,3 +1949,11 @@
 - Sin señal: BTC, HYPE, BNB, kPEPE, kSHIB, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:SP500, xyz:JP225, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-12 22:48 UTC · sin operaciones · patrimonio $9.894,72 (-1.05%)
+
+## 2026-11-12 23:25 UTC · patrimonio $9.895,04 (-1.05%)
+
+- Cerrado short HYPE a 72.0805 (tendencia rota): -$67,16
+- Abierto short xyz:MSTR 3x $5.037,56 a 113.895 (stop 116.1328, obj. 109.4195)
+- Abiertas: long xyz:AMD, long xyz:AAPL, short xyz:EUR, short xyz:MSTR
+- Sin señal: BTC, HYPE, BNB, kPEPE, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
