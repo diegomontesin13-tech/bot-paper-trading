@@ -1997,3 +1997,11 @@
 - 2026-11-13 18:20 UTC · sin operaciones · patrimonio $10.047,66 (+0.48%)
 - 2026-11-13 19:18 UTC · sin operaciones · patrimonio $10.068,55 (+0.69%)
 - 2026-11-13 20:08 UTC · sin operaciones · patrimonio $10.032,97 (+0.33%)
+
+## 2026-11-13 21:05 UTC · patrimonio $9.989,47 (-0.11%)
+
+- Predicción SP500 > 7460 (13-11 21:00 UTC): GANADA +$7,76
+- Abierto short BTC 3x $2.880,59 a 68517.5 (stop 69373.45, obj. 66805.61)
+- Abiertas: long xyz:AAPL, short xyz:EUR, short xyz:GOLD, short BTC
+- Sin señal: HYPE, kBONK, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+

@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 904.8829669920004,
+ "efectivo": 1.2810098870229467,
  "posiciones": [
   {
    "id": 189,
@@ -15,7 +15,7 @@
    "objetivo": 362.93044,
    "comision_entrada": 6.201882534444447,
    "abierta_en": "2026-11-12T16:58:20+00:00",
-   "revisada_hasta": 1794600300000,
+   "revisada_hasta": 1794603900000,
    "motivo": "tendencia long con momento (fuerza 2.1 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 1.1016257999999999,
    "comision_entrada": 4.529378549208319,
    "abierta_en": "2026-11-12T22:06:46+00:00",
-   "revisada_hasta": 1794598500000,
+   "revisada_hasta": 1794603900000,
    "motivo": "tendencia short con momento (fuerza 2.2 ATR)"
   },
   {
@@ -47,27 +47,27 @@
    "objetivo": 3851.5697999999998,
    "comision_entrada": 2.814794252830807,
    "abierta_en": "2026-11-13T06:28:52+00:00",
-   "revisada_hasta": 1794600300000,
+   "revisada_hasta": 1794603900000,
    "motivo": "tendencia short con momento (fuerza 2.6 ATR)"
-  }
- ],
- "predicciones": [
+  },
   {
-   "id": 193,
-   "outcome": 27435,
-   "lado_id": 0,
-   "titulo": "SP500 > 7460 (13-11 21:00 UTC)",
-   "subyacente": "xyz:SP500",
-   "umbral": 7460.0,
-   "vence": "2026-11-13T21:00:00+00:00",
-   "precio_entrada": 0.86587,
-   "importe": 50.25,
-   "contratos": 58.03618696390972,
-   "comision_entrada": 0.025125896603220257,
-   "abierta_en": "2026-11-13T15:31:30+00:00",
-   "motivo": "modelo 97% vs mercado 87%"
+   "id": 194,
+   "simbolo": "BTC",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 68517.5,
+   "nocional": 2880.59,
+   "apalancamiento": 3,
+   "margen": 960.2,
+   "stop": 69373.44721531005,
+   "objetivo": 66805.6055693799,
+   "comision_entrada": 1.4402967709469103,
+   "abierta_en": "2026-11-13T21:05:52+00:00",
+   "revisada_hasta": 1794603952000,
+   "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
   }
  ],
+ "predicciones": [],
  "cerradas": [
   {
    "id": 2,
@@ -3835,11 +3835,30 @@
    "cerrada_en": "2026-11-13T14:51:07+00:00",
    "pnl": -102.16,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 193,
+   "outcome": 27435,
+   "lado_id": 0,
+   "titulo": "SP500 > 7460 (13-11 21:00 UTC)",
+   "subyacente": "xyz:SP500",
+   "umbral": 7460.0,
+   "vence": "2026-11-13T21:00:00+00:00",
+   "precio_entrada": 0.86587,
+   "importe": 50.25,
+   "contratos": 58.03618696390972,
+   "comision_entrada": 0.025125896603220257,
+   "abierta_en": "2026-11-13T15:31:30+00:00",
+   "motivo": "modelo 97% vs mercado 87%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-13T21:05:52+00:00",
+   "pnl": 7.76,
+   "razon_cierre": "liquidada (7560.2 vs 7460)"
   }
  ],
- "comisiones_pagadas": 1263.1009205749995,
- "ultima_ejecucion": "2026-11-13T20:08:48+00:00",
- "ultimo_resumen": "2026-11-12",
+ "comisiones_pagadas": 1264.5412173459463,
+ "ultima_ejecucion": "2026-11-13T21:05:52+00:00",
+ "ultimo_resumen": "2026-11-13",
  "pausado": false,
  "historial_patrimonio": [
   [
@@ -6837,7 +6856,11 @@
   [
    "2026-11-13T20:08:48+00:00",
    10032.97
+  ],
+  [
+   "2026-11-13T21:05:52+00:00",
+   9989.47
   ]
  ],
- "siguiente_id": 194
+ "siguiente_id": 195
 }
