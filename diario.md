@@ -1957,3 +1957,4 @@
 - Abiertas: long xyz:AMD, long xyz:AAPL, short xyz:EUR, short xyz:MSTR
 - Sin señal: BTC, HYPE, BNB, kPEPE, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-13 00:15 UTC · sin operaciones · patrimonio $9.899,65 (-1.00%)
