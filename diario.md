@@ -1963,3 +1963,11 @@
 - 2026-11-13 03:22 UTC · sin operaciones · patrimonio $10.035,47 (+0.35%)
 - 2026-11-13 04:30 UTC · sin operaciones · patrimonio $10.018,78 (+0.19%)
 - 2026-11-13 05:29 UTC · sin operaciones · patrimonio $10.029,19 (+0.29%)
+
+## 2026-11-13 06:28 UTC · patrimonio $10.070,77 (+0.71%)
+
+- Cerrado short xyz:MSTR a 109.4195 (objetivo): +$193,01
+- Abierto short xyz:GOLD 3x $5.629,59 a 3898.35 (stop 3921.74, obj. 3851.57)
+- Abiertas: long xyz:AMD, long xyz:AAPL, short xyz:EUR, short xyz:GOLD
+- Sin señal: BTC, ETH, HYPE, BNB, kPEPE, kBONK, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+

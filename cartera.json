@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 17.501982561359455,
+ "efectivo": 12.87880815219296,
  "posiciones": [
   {
    "id": 186,
@@ -15,7 +15,7 @@
    "objetivo": 604.9713848446315,
    "comision_entrada": 1.5643222916273845,
    "abierta_en": "2026-11-12T14:52:43+00:00",
-   "revisada_hasta": 1794547500000,
+   "revisada_hasta": 1794551100000,
    "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 362.93044,
    "comision_entrada": 6.201882534444447,
    "abierta_en": "2026-11-12T16:58:20+00:00",
-   "revisada_hasta": 1794547500000,
+   "revisada_hasta": 1794551100000,
    "motivo": "tendencia long con momento (fuerza 2.1 ATR)"
   },
   {
@@ -47,24 +47,24 @@
    "objetivo": 1.1016257999999999,
    "comision_entrada": 4.529378549208319,
    "abierta_en": "2026-11-12T22:06:46+00:00",
-   "revisada_hasta": 1794547200000,
+   "revisada_hasta": 1794551100000,
    "motivo": "tendencia short con momento (fuerza 2.2 ATR)"
   },
   {
-   "id": 191,
-   "simbolo": "xyz:MSTR",
-   "mercado": "accion",
+   "id": 192,
+   "simbolo": "xyz:GOLD",
+   "mercado": "materia_prima",
    "lado": "short",
-   "precio_entrada": 113.895,
-   "nocional": 5037.56,
+   "precio_entrada": 3898.35,
+   "nocional": 5629.59,
    "apalancamiento": 3,
-   "margen": 1679.19,
-   "stop": 116.13275208109319,
-   "objetivo": 109.4194958378136,
-   "comision_entrada": 2.5187818346448103,
-   "abierta_en": "2026-11-12T23:25:23+00:00",
-   "revisada_hasta": 1794547500000,
-   "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
+   "margen": 1876.53,
+   "stop": 3921.7401,
+   "objetivo": 3851.5697999999998,
+   "comision_entrada": 2.814794252830807,
+   "abierta_en": "2026-11-13T06:28:52+00:00",
+   "revisada_hasta": 1794551332000,
+   "motivo": "tendencia short con momento (fuerza 2.6 ATR)"
   }
  ],
  "predicciones": [],
@@ -3795,10 +3795,30 @@
    "cerrada_en": "2026-11-12T23:25:23+00:00",
    "pnl": -67.16,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 191,
+   "simbolo": "xyz:MSTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 113.895,
+   "nocional": 5037.56,
+   "apalancamiento": 3,
+   "margen": 1679.19,
+   "stop": 116.13275208109319,
+   "objetivo": 109.4194958378136,
+   "comision_entrada": 2.5187818346448103,
+   "abierta_en": "2026-11-12T23:25:23+00:00",
+   "revisada_hasta": 1794551100000,
+   "motivo": "tendencia short con momento (fuerza 1.7 ATR)",
+   "precio_salida": 109.4194958378136,
+   "cerrada_en": "2026-11-13T06:28:52+00:00",
+   "pnl": 193.01,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1256.3264179607638,
- "ultima_ejecucion": "2026-11-13T05:29:13+00:00",
+ "comisiones_pagadas": 1261.5610167504608,
+ "ultima_ejecucion": "2026-11-13T06:28:52+00:00",
  "ultimo_resumen": "2026-11-12",
  "pausado": false,
  "historial_patrimonio": [
@@ -6737,7 +6757,11 @@
   [
    "2026-11-13T05:29:13+00:00",
    10029.19
+  ],
+  [
+   "2026-11-13T06:28:52+00:00",
+   10070.77
   ]
  ],
- "siguiente_id": 192
+ "siguiente_id": 193
 }
