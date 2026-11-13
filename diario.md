@@ -1993,3 +1993,4 @@
 - Sin señal: HYPE, XRP, DOGE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-13 16:26 UTC · sin operaciones · patrimonio $10.039,90 (+0.40%)
+- 2026-11-13 17:25 UTC · sin operaciones · patrimonio $10.059,59 (+0.60%)
