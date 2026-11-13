@@ -1992,3 +1992,4 @@
 - Abiertas: long xyz:AAPL, short xyz:EUR, short xyz:GOLD, SP500 > 7460 (13-11 21:00 UTC)
 - Sin señal: HYPE, XRP, DOGE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-13 16:26 UTC · sin operaciones · patrimonio $10.039,90 (+0.40%)
