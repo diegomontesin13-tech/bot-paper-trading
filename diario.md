@@ -2005,3 +2005,13 @@
 - Abiertas: long xyz:AAPL, short xyz:EUR, short xyz:GOLD, short BTC
 - Sin señal: HYPE, kBONK, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-13 21:49 UTC · patrimonio $9.973,02 (-0.27%)
+
+- Cerrado long xyz:AAPL a 355.375 (tendencia rota): -$76,26
+- Abierto short BNB 3x $7.198,25 a 630.3 (stop 639.0415, obj. 612.8171)
+- Abierto short xyz:MSTR 3x $3.947,52 a 110.085 (stop 112.868, obj. 104.519)
+- Apuesta MU > 779 (14-11 21:00 UTC) $49,89 a 31% (modelo 41%)
+- Abiertas: short xyz:EUR, short xyz:GOLD, short BTC, short BNB, short xyz:MSTR, MU > 779 (14-11 21:00 UTC)
+- Sin señal: HYPE, kBONK, PENGU, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+

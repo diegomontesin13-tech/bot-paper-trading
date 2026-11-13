@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1.2810098870229467,
+ "efectivo": 295.069932290788,
  "posiciones": [
-  {
-   "id": 189,
-   "simbolo": "xyz:AAPL",
-   "mercado": "accion",
-   "lado": "long",
-   "precio_entrada": 357.215,
-   "nocional": 12403.77,
-   "apalancamiento": 3,
-   "margen": 4134.59,
-   "stop": 354.35727999999995,
-   "objetivo": 362.93044,
-   "comision_entrada": 6.201882534444447,
-   "abierta_en": "2026-11-12T16:58:20+00:00",
-   "revisada_hasta": 1794603900000,
-   "motivo": "tendencia long con momento (fuerza 2.1 ATR)"
-  },
   {
    "id": 190,
    "simbolo": "xyz:EUR",
@@ -31,7 +15,7 @@
    "objetivo": 1.1016257999999999,
    "comision_entrada": 4.529378549208319,
    "abierta_en": "2026-11-12T22:06:46+00:00",
-   "revisada_hasta": 1794603900000,
+   "revisada_hasta": 1794606000000,
    "motivo": "tendencia short con momento (fuerza 2.2 ATR)"
   },
   {
@@ -47,7 +31,7 @@
    "objetivo": 3851.5697999999998,
    "comision_entrada": 2.814794252830807,
    "abierta_en": "2026-11-13T06:28:52+00:00",
-   "revisada_hasta": 1794603900000,
+   "revisada_hasta": 1794606300000,
    "motivo": "tendencia short con momento (fuerza 2.6 ATR)"
   },
   {
@@ -63,11 +47,59 @@
    "objetivo": 66805.6055693799,
    "comision_entrada": 1.4402967709469103,
    "abierta_en": "2026-11-13T21:05:52+00:00",
-   "revisada_hasta": 1794603952000,
+   "revisada_hasta": 1794606300000,
    "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
+  },
+  {
+   "id": 195,
+   "simbolo": "BNB",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 630.3,
+   "nocional": 7198.25,
+   "apalancamiento": 3,
+   "margen": 2399.42,
+   "stop": 639.0414558011059,
+   "objetivo": 612.817088397788,
+   "comision_entrada": 3.5991229392169393,
+   "abierta_en": "2026-11-13T21:49:15+00:00",
+   "revisada_hasta": 1794606555000,
+   "motivo": "tendencia short con momento (fuerza 2.0 ATR)"
+  },
+  {
+   "id": 196,
+   "simbolo": "xyz:MSTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 110.085,
+   "nocional": 3947.52,
+   "apalancamiento": 3,
+   "margen": 1315.84,
+   "stop": 112.8679844339676,
+   "objetivo": 104.51903113206478,
+   "comision_entrada": 1.9737589543547343,
+   "abierta_en": "2026-11-13T21:49:15+00:00",
+   "revisada_hasta": 1794606555000,
+   "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   }
  ],
- "predicciones": [],
+ "predicciones": [
+  {
+   "id": 197,
+   "outcome": 34917,
+   "lado_id": 0,
+   "titulo": "MU > 779 (14-11 21:00 UTC)",
+   "subyacente": "xyz:MU",
+   "umbral": 779.0,
+   "vence": "2026-11-14T21:00:00+00:00",
+   "precio_entrada": 0.30816,
+   "importe": 49.89,
+   "contratos": 161.8879801167192,
+   "comision_entrada": 0.024943699976384095,
+   "abierta_en": "2026-11-13T21:49:15+00:00",
+   "motivo": "modelo 41% vs mercado 31%"
+  }
+ ],
  "cerradas": [
   {
    "id": 2,
@@ -3854,10 +3886,30 @@
    "cerrada_en": "2026-11-13T21:05:52+00:00",
    "pnl": 7.76,
    "razon_cierre": "liquidada (7560.2 vs 7460)"
+  },
+  {
+   "id": 189,
+   "simbolo": "xyz:AAPL",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 357.215,
+   "nocional": 12403.77,
+   "apalancamiento": 3,
+   "margen": 4134.59,
+   "stop": 354.35727999999995,
+   "objetivo": 362.93044,
+   "comision_entrada": 6.201882534444447,
+   "abierta_en": "2026-11-12T16:58:20+00:00",
+   "revisada_hasta": 1794606300000,
+   "motivo": "tendencia long con momento (fuerza 2.1 ATR)",
+   "precio_salida": 355.375,
+   "cerrada_en": "2026-11-13T21:49:15+00:00",
+   "pnl": -76.26,
+   "razon_cierre": "tendencia rota"
   }
  ],
- "comisiones_pagadas": 1264.5412173459463,
- "ultima_ejecucion": "2026-11-13T21:05:52+00:00",
+ "comisiones_pagadas": 1276.3089822809973,
+ "ultima_ejecucion": "2026-11-13T21:49:15+00:00",
  "ultimo_resumen": "2026-11-13",
  "pausado": false,
  "historial_patrimonio": [
@@ -6860,7 +6912,11 @@
   [
    "2026-11-13T21:05:52+00:00",
    9989.47
+  ],
+  [
+   "2026-11-13T21:49:15+00:00",
+   9973.02
   ]
  ],
- "siguiente_id": 195
+ "siguiente_id": 198
 }
