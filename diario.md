@@ -1985,3 +1985,10 @@
 - Abiertas: long xyz:AAPL, short xyz:EUR, short xyz:GOLD
 - Sin señal: SOL, HYPE, XRP, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-13 15:31 UTC · patrimonio $10.049,57 (+0.50%)
+
+- Apuesta SP500 > 7460 (13-11 21:00 UTC) $50,25 a 87% (modelo 97%)
+- Abiertas: long xyz:AAPL, short xyz:EUR, short xyz:GOLD, SP500 > 7460 (13-11 21:00 UTC)
+- Sin señal: HYPE, XRP, DOGE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
