@@ -1958,3 +1958,4 @@
 - Sin señal: BTC, HYPE, BNB, kPEPE, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-13 00:15 UTC · sin operaciones · patrimonio $9.899,65 (-1.00%)
+- 2026-11-13 01:26 UTC · sin operaciones · patrimonio $9.886,88 (-1.13%)
