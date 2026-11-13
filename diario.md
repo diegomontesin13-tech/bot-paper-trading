@@ -1978,3 +1978,10 @@
 - 2026-11-13 11:38 UTC · sin operaciones · patrimonio $10.074,47 (+0.74%)
 - 2026-11-13 12:42 UTC · sin operaciones · patrimonio $10.083,22 (+0.83%)
 - 2026-11-13 13:56 UTC · sin operaciones · patrimonio $10.087,73 (+0.88%)
+
+## 2026-11-13 14:51 UTC · patrimonio $10.049,44 (+0.49%)
+
+- Cerrado long xyz:AMD a 550.9168 (stop-loss): -$102,16
+- Abiertas: long xyz:AAPL, short xyz:EUR, short xyz:GOLD
+- Sin señal: SOL, HYPE, XRP, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
