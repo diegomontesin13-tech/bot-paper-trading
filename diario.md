@@ -2028,3 +2028,12 @@
 - Abiertas: short xyz:EUR, short xyz:GOLD, short BNB, short xyz:MSTR, MU > 779 (14-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, BNB, kPEPE, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-14 04:27 UTC · patrimonio $10.304,49 (+3.04%)
+
+- Cerrado short BNB a 612.8171 (objetivo): +$192,56
+- Abierto short ETH 3x $5.938,75 a 1894.75 (stop 1927.65, obj. 1828.96)
+- Abierto short XRP 3x $5.754,43 a 0.992705 (stop 1.0105, obj. 0.95714224)
+- Abiertas: short xyz:EUR, short xyz:GOLD, short xyz:MSTR, short ETH, short XRP, MU > 779 (14-11 21:00 UTC)
+- Sin señal: BTC, SOL, HYPE, BNB, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+

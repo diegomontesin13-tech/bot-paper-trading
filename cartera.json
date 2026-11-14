@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1325.836520362834,
+ "efectivo": 17.844329697061767,
  "posiciones": [
   {
    "id": 190,
@@ -15,7 +15,7 @@
    "objetivo": 1.1016257999999999,
    "comision_entrada": 4.529378549208319,
    "abierta_en": "2026-11-12T22:06:46+00:00",
-   "revisada_hasta": 1794624300000,
+   "revisada_hasta": 1794629400000,
    "motivo": "tendencia short con momento (fuerza 2.2 ATR)"
   },
   {
@@ -31,24 +31,8 @@
    "objetivo": 3851.5697999999998,
    "comision_entrada": 2.814794252830807,
    "abierta_en": "2026-11-13T06:28:52+00:00",
-   "revisada_hasta": 1794627000000,
+   "revisada_hasta": 1794630300000,
    "motivo": "tendencia short con momento (fuerza 2.6 ATR)"
-  },
-  {
-   "id": 195,
-   "simbolo": "BNB",
-   "mercado": "cripto",
-   "lado": "short",
-   "precio_entrada": 630.3,
-   "nocional": 7198.25,
-   "apalancamiento": 3,
-   "margen": 2399.42,
-   "stop": 639.0414558011059,
-   "objetivo": 612.817088397788,
-   "comision_entrada": 3.5991229392169393,
-   "abierta_en": "2026-11-13T21:49:15+00:00",
-   "revisada_hasta": 1794627000000,
-   "motivo": "tendencia short con momento (fuerza 2.0 ATR)"
   },
   {
    "id": 196,
@@ -63,8 +47,40 @@
    "objetivo": 104.51903113206478,
    "comision_entrada": 1.9737589543547343,
    "abierta_en": "2026-11-13T21:49:15+00:00",
-   "revisada_hasta": 1794627000000,
+   "revisada_hasta": 1794630300000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
+  },
+  {
+   "id": 198,
+   "simbolo": "ETH",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 1894.75,
+   "nocional": 5938.75,
+   "apalancamiento": 3,
+   "margen": 1979.58,
+   "stop": 1927.645021525495,
+   "objetivo": 1828.9599569490101,
+   "comision_entrada": 2.969373601928345,
+   "abierta_en": "2026-11-14T04:27:33+00:00",
+   "revisada_hasta": 1794630453000,
+   "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
+  },
+  {
+   "id": 199,
+   "simbolo": "XRP",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 0.992705,
+   "nocional": 5754.43,
+   "apalancamiento": 3,
+   "margen": 1918.14,
+   "stop": 1.0104863786485128,
+   "objetivo": 0.9571422427029745,
+   "comision_entrada": 2.877217451315633,
+   "abierta_en": "2026-11-14T04:27:33+00:00",
+   "revisada_hasta": 1794630453000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   }
  ],
  "predicciones": [
@@ -3910,10 +3926,30 @@
    "cerrada_en": "2026-11-14T03:31:28+00:00",
    "pnl": 69.13,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 195,
+   "simbolo": "BNB",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 630.3,
+   "nocional": 7198.25,
+   "apalancamiento": 3,
+   "margen": 2399.42,
+   "stop": 639.0414558011059,
+   "objetivo": 612.817088397788,
+   "comision_entrada": 3.5991229392169393,
+   "abierta_en": "2026-11-13T21:49:15+00:00",
+   "revisada_hasta": 1794630300000,
+   "motivo": "tendencia short con momento (fuerza 2.0 ATR)",
+   "precio_salida": 612.817088397788,
+   "cerrada_en": "2026-11-14T04:27:33+00:00",
+   "pnl": 192.56,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1277.7132918321856,
- "ultima_ejecucion": "2026-11-14T03:31:28+00:00",
+ "comisiones_pagadas": 1287.059177353587,
+ "ultima_ejecucion": "2026-11-14T04:27:33+00:00",
  "ultimo_resumen": "2026-11-13",
  "pausado": false,
  "historial_patrimonio": [
@@ -6948,7 +6984,11 @@
   [
    "2026-11-14T03:31:28+00:00",
    10227.72
+  ],
+  [
+   "2026-11-14T04:27:33+00:00",
+   10304.49
   ]
  ],
- "siguiente_id": 198
+ "siguiente_id": 200
 }
