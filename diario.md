@@ -2095,3 +2095,11 @@
 
 - 2026-11-14 22:51 UTC · sin operaciones · patrimonio $10.936,38 (+9.36%)
 - 2026-11-14 23:21 UTC · sin operaciones · patrimonio $10.898,25 (+8.98%)
+
+## 2026-11-14 23:53 UTC · patrimonio $10.848,90 (+8.49%)
+
+- Abierto short xyz:MSTR 3x $3.861,33 a 98.791 (stop 101.5675, obj. 93.238)
+- Abierto short HYPE 3x $2.810,53 a 64.2995 (stop 66.7818, obj. 59.3348)
+- Abiertas: short xyz:AMZN, short xyz:NVDA, short xyz:MSTR, short HYPE
+- Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kSHIB, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:GOLD, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS
+

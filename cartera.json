@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 3583.2339503350177,
+ "efectivo": 1355.945089886065,
  "posiciones": [
   {
    "id": 200,
@@ -15,7 +15,7 @@
    "objetivo": 259.01340000000005,
    "comision_entrada": 6.721556158877414,
    "abierta_en": "2026-11-14T15:54:03+00:00",
-   "revisada_hasta": 1794698400000,
+   "revisada_hasta": 1794700200000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   },
   {
@@ -31,8 +31,40 @@
    "objetivo": 155.46561474415506,
    "comision_entrada": 4.1229451500917,
    "abierta_en": "2026-11-14T16:37:59+00:00",
-   "revisada_hasta": 1794698400000,
+   "revisada_hasta": 1794700200000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
+  },
+  {
+   "id": 202,
+   "simbolo": "xyz:MSTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 98.791,
+   "nocional": 3861.33,
+   "apalancamiento": 3,
+   "margen": 1287.11,
+   "stop": 101.56751311349868,
+   "objetivo": 93.23797377300264,
+   "comision_entrada": 1.9306655258458763,
+   "abierta_en": "2026-11-14T23:53:20+00:00",
+   "revisada_hasta": 1794700400000,
+   "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
+  },
+  {
+   "id": 203,
+   "simbolo": "HYPE",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 64.2995,
+   "nocional": 2810.53,
+   "apalancamiento": 3,
+   "margen": 936.84,
+   "stop": 66.78184317188706,
+   "objetivo": 59.33481365622586,
+   "comision_entrada": 1.4052638707326852,
+   "abierta_en": "2026-11-14T23:53:20+00:00",
+   "revisada_hasta": 1794700400000,
+   "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   }
  ],
  "predicciones": [],
@@ -4003,8 +4035,8 @@
    "razon_cierre": "más de 48 h abierta"
   }
  ],
- "comisiones_pagadas": 1312.712688327094,
- "ultima_ejecucion": "2026-11-14T23:21:00+00:00",
+ "comisiones_pagadas": 1316.0486177236724,
+ "ultima_ejecucion": "2026-11-14T23:53:20+00:00",
  "ultimo_resumen": "2026-11-14",
  "pausado": false,
  "historial_patrimonio": [
@@ -7143,7 +7175,11 @@
   [
    "2026-11-14T23:21:00+00:00",
    10898.25
+  ],
+  [
+   "2026-11-14T23:53:20+00:00",
+   10848.9
   ]
  ],
- "siguiente_id": 202
+ "siguiente_id": 204
 }
