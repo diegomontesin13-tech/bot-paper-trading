@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1531.3995310656803,
+ "efectivo": 1167.8652764888484,
  "posiciones": [
   {
    "id": 190,
@@ -15,40 +15,8 @@
    "objetivo": 1.1016257999999999,
    "comision_entrada": 4.529378549208319,
    "abierta_en": "2026-11-12T22:06:46+00:00",
-   "revisada_hasta": 1794669000000,
+   "revisada_hasta": 1794670500000,
    "motivo": "tendencia short con momento (fuerza 2.2 ATR)"
-  },
-  {
-   "id": 192,
-   "simbolo": "xyz:GOLD",
-   "mercado": "materia_prima",
-   "lado": "short",
-   "precio_entrada": 3898.35,
-   "nocional": 5629.59,
-   "apalancamiento": 3,
-   "margen": 1876.53,
-   "stop": 3921.7401,
-   "objetivo": 3851.5697999999998,
-   "comision_entrada": 2.814794252830807,
-   "abierta_en": "2026-11-13T06:28:52+00:00",
-   "revisada_hasta": 1794669000000,
-   "motivo": "tendencia short con momento (fuerza 2.6 ATR)"
-  },
-  {
-   "id": 198,
-   "simbolo": "ETH",
-   "mercado": "cripto",
-   "lado": "short",
-   "precio_entrada": 1894.75,
-   "nocional": 5938.75,
-   "apalancamiento": 3,
-   "margen": 1979.58,
-   "stop": 1927.645021525495,
-   "objetivo": 1828.9599569490101,
-   "comision_entrada": 2.969373601928345,
-   "abierta_en": "2026-11-14T04:27:33+00:00",
-   "revisada_hasta": 1794669000000,
-   "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   },
   {
    "id": 199,
@@ -63,8 +31,24 @@
    "objetivo": 0.9571422427029745,
    "comision_entrada": 2.877217451315633,
    "abierta_en": "2026-11-14T04:27:33+00:00",
-   "revisada_hasta": 1794669000000,
+   "revisada_hasta": 1794671400000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
+  },
+  {
+   "id": 200,
+   "simbolo": "xyz:AMZN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 263.225,
+   "nocional": 13443.11,
+   "apalancamiento": 3,
+   "margen": 4481.04,
+   "stop": 265.3308,
+   "objetivo": 259.01340000000005,
+   "comision_entrada": 6.721556158877414,
+   "abierta_en": "2026-11-14T15:54:03+00:00",
+   "revisada_hasta": 1794671643000,
+   "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   }
  ],
  "predicciones": [
@@ -3950,10 +3934,50 @@
    "cerrada_en": "2026-11-14T15:14:01+00:00",
    "pnl": 195.74,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 192,
+   "simbolo": "xyz:GOLD",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 3898.35,
+   "nocional": 5629.59,
+   "apalancamiento": 3,
+   "margen": 1876.53,
+   "stop": 3921.7401,
+   "objetivo": 3851.5697999999998,
+   "comision_entrada": 2.814794252830807,
+   "abierta_en": "2026-11-13T06:28:52+00:00",
+   "revisada_hasta": 1794671400000,
+   "motivo": "tendencia short con momento (fuerza 2.6 ATR)",
+   "precio_salida": 3851.5697999999998,
+   "cerrada_en": "2026-11-14T15:54:03+00:00",
+   "pnl": 61.96,
+   "razon_cierre": "objetivo"
+  },
+  {
+   "id": 198,
+   "simbolo": "ETH",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 1894.75,
+   "nocional": 5938.75,
+   "apalancamiento": 3,
+   "margen": 1979.58,
+   "stop": 1927.645021525495,
+   "objetivo": 1828.9599569490101,
+   "comision_entrada": 2.969373601928345,
+   "abierta_en": "2026-11-14T04:27:33+00:00",
+   "revisada_hasta": 1794671400000,
+   "motivo": "tendencia short con momento (fuerza 1.7 ATR)",
+   "precio_salida": 1828.9599569490101,
+   "cerrada_en": "2026-11-14T15:54:03+00:00",
+   "pnl": 200.37,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1288.9331427701945,
- "ultima_ejecucion": "2026-11-14T15:14:01+00:00",
+ "comisiones_pagadas": 1301.3019879141625,
+ "ultima_ejecucion": "2026-11-14T15:54:03+00:00",
  "ultimo_resumen": "2026-11-13",
  "pausado": false,
  "historial_patrimonio": [
@@ -7044,7 +7068,11 @@
   [
    "2026-11-14T15:14:01+00:00",
    10614.79
+  ],
+  [
+   "2026-11-14T15:54:03+00:00",
+   10747.77
   ]
  ],
- "siguiente_id": 200
+ "siguiente_id": 201
 }

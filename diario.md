@@ -2056,3 +2056,12 @@
 - Abiertas: short xyz:EUR, short xyz:GOLD, short ETH, short XRP, MU > 779 (14-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-14 15:54 UTC · patrimonio $10.747,77 (+7.48%)
+
+- Cerrado short xyz:GOLD a 3851.57 (objetivo): +$61,96
+- Cerrado short ETH a 1828.96 (objetivo): +$200,37
+- Abierto short xyz:AMZN 3x $13.443,11 a 263.225 (stop 265.3308, obj. 259.0134)
+- Abiertas: short xyz:EUR, short XRP, short xyz:AMZN, MU > 779 (14-11 21:00 UTC)
+- Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
