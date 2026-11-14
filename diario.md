@@ -2038,3 +2038,4 @@
 - Sin señal: BTC, SOL, HYPE, BNB, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
 - 2026-11-14 05:23 UTC · sin operaciones · patrimonio $10.246,80 (+2.47%)
+- 2026-11-14 06:21 UTC · sin operaciones · patrimonio $10.200,76 (+2.01%)
