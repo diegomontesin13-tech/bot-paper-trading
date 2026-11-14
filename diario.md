@@ -2079,3 +2079,10 @@
 - 2026-11-14 19:27 UTC · sin operaciones · patrimonio $10.864,21 (+8.64%)
 - 2026-11-14 20:09 UTC · sin operaciones · patrimonio $10.841,12 (+8.41%)
 - 2026-11-14 20:53 UTC · sin operaciones · patrimonio $10.945,39 (+9.45%)
+
+## 2026-11-14 21:34 UTC · patrimonio $10.898,84 (+8.99%)
+
+- Predicción MU > 779 (14-11 21:00 UTC): perdida -$49,91
+- Abiertas: short xyz:EUR, short xyz:AMZN, short xyz:NVDA
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
