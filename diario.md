@@ -2094,3 +2094,4 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:META, xyz:GOOGL, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-14 22:51 UTC · sin operaciones · patrimonio $10.936,38 (+9.36%)
+- 2026-11-14 23:21 UTC · sin operaciones · patrimonio $10.898,25 (+8.98%)
