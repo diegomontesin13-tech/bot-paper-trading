@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 295.069932290788,
+ "efectivo": 1325.836520362834,
  "posiciones": [
   {
    "id": 190,
@@ -15,7 +15,7 @@
    "objetivo": 1.1016257999999999,
    "comision_entrada": 4.529378549208319,
    "abierta_en": "2026-11-12T22:06:46+00:00",
-   "revisada_hasta": 1794624000000,
+   "revisada_hasta": 1794624300000,
    "motivo": "tendencia short con momento (fuerza 2.2 ATR)"
   },
   {
@@ -31,24 +31,8 @@
    "objetivo": 3851.5697999999998,
    "comision_entrada": 2.814794252830807,
    "abierta_en": "2026-11-13T06:28:52+00:00",
-   "revisada_hasta": 1794624300000,
+   "revisada_hasta": 1794627000000,
    "motivo": "tendencia short con momento (fuerza 2.6 ATR)"
-  },
-  {
-   "id": 194,
-   "simbolo": "BTC",
-   "mercado": "cripto",
-   "lado": "short",
-   "precio_entrada": 68517.5,
-   "nocional": 2880.59,
-   "apalancamiento": 3,
-   "margen": 960.2,
-   "stop": 69373.44721531005,
-   "objetivo": 66805.6055693799,
-   "comision_entrada": 1.4402967709469103,
-   "abierta_en": "2026-11-13T21:05:52+00:00",
-   "revisada_hasta": 1794624300000,
-   "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
   },
   {
    "id": 195,
@@ -63,7 +47,7 @@
    "objetivo": 612.817088397788,
    "comision_entrada": 3.5991229392169393,
    "abierta_en": "2026-11-13T21:49:15+00:00",
-   "revisada_hasta": 1794624300000,
+   "revisada_hasta": 1794627000000,
    "motivo": "tendencia short con momento (fuerza 2.0 ATR)"
   },
   {
@@ -79,7 +63,7 @@
    "objetivo": 104.51903113206478,
    "comision_entrada": 1.9737589543547343,
    "abierta_en": "2026-11-13T21:49:15+00:00",
-   "revisada_hasta": 1794624300000,
+   "revisada_hasta": 1794627000000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   }
  ],
@@ -3906,10 +3890,30 @@
    "cerrada_en": "2026-11-13T21:49:15+00:00",
    "pnl": -76.26,
    "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 194,
+   "simbolo": "BTC",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 68517.5,
+   "nocional": 2880.59,
+   "apalancamiento": 3,
+   "margen": 960.2,
+   "stop": 69373.44721531005,
+   "objetivo": 66805.6055693799,
+   "comision_entrada": 1.4402967709469103,
+   "abierta_en": "2026-11-13T21:05:52+00:00",
+   "revisada_hasta": 1794627000000,
+   "motivo": "tendencia short con momento (fuerza 2.4 ATR)",
+   "precio_salida": 66805.6055693799,
+   "cerrada_en": "2026-11-14T03:31:28+00:00",
+   "pnl": 69.13,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1276.3089822809973,
- "ultima_ejecucion": "2026-11-14T02:47:41+00:00",
+ "comisiones_pagadas": 1277.7132918321856,
+ "ultima_ejecucion": "2026-11-14T03:31:28+00:00",
  "ultimo_resumen": "2026-11-13",
  "pausado": false,
  "historial_patrimonio": [
@@ -6940,6 +6944,10 @@
   [
    "2026-11-14T02:47:41+00:00",
    10112.34
+  ],
+  [
+   "2026-11-14T03:31:28+00:00",
+   10227.72
   ]
  ],
  "siguiente_id": 198

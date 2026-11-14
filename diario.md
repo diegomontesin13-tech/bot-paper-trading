@@ -2021,3 +2021,10 @@
 - 2026-11-14 00:54 UTC · sin operaciones · patrimonio $9.949,27 (-0.51%)
 - 2026-11-14 01:58 UTC · sin operaciones · patrimonio $9.964,40 (-0.36%)
 - 2026-11-14 02:47 UTC · sin operaciones · patrimonio $10.112,34 (+1.12%)
+
+## 2026-11-14 03:31 UTC · patrimonio $10.227,72 (+2.28%)
+
+- Cerrado short BTC a 66805.61 (objetivo): +$69,13
+- Abiertas: short xyz:EUR, short xyz:GOLD, short BNB, short xyz:MSTR, MU > 779 (14-11 21:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, BNB, kPEPE, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+
