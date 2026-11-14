@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 536.6253314986188,
+ "efectivo": 3583.2339503350177,
  "posiciones": [
-  {
-   "id": 190,
-   "simbolo": "xyz:EUR",
-   "mercado": "forex",
-   "lado": "short",
-   "precio_entrada": 1.10605,
-   "nocional": 9058.76,
-   "apalancamiento": 3,
-   "margen": 3019.59,
-   "stop": 1.1082621,
-   "objetivo": 1.1016257999999999,
-   "comision_entrada": 4.529378549208319,
-   "abierta_en": "2026-11-12T22:06:46+00:00",
-   "revisada_hasta": 1794691800000,
-   "motivo": "tendencia short con momento (fuerza 2.2 ATR)"
-  },
   {
    "id": 200,
    "simbolo": "xyz:AMZN",
@@ -31,7 +15,7 @@
    "objetivo": 259.01340000000005,
    "comision_entrada": 6.721556158877414,
    "abierta_en": "2026-11-14T15:54:03+00:00",
-   "revisada_hasta": 1794691800000,
+   "revisada_hasta": 1794694200000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   },
   {
@@ -47,7 +31,7 @@
    "objetivo": 155.46561474415506,
    "comision_entrada": 4.1229451500917,
    "abierta_en": "2026-11-14T16:37:59+00:00",
-   "revisada_hasta": 1794691800000,
+   "revisada_hasta": 1794694200000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   }
  ],
@@ -3997,10 +3981,30 @@
    "cerrada_en": "2026-11-14T21:34:54+00:00",
    "pnl": -49.91,
    "razon_cierre": "liquidada (747.8 vs 779)"
+  },
+  {
+   "id": 190,
+   "simbolo": "xyz:EUR",
+   "mercado": "forex",
+   "lado": "short",
+   "precio_entrada": 1.10605,
+   "nocional": 9058.76,
+   "apalancamiento": 3,
+   "margen": 3019.59,
+   "stop": 1.1082621,
+   "objetivo": 1.1016257999999999,
+   "comision_entrada": 4.529378549208319,
+   "abierta_en": "2026-11-12T22:06:46+00:00",
+   "revisada_hasta": 1794694200000,
+   "motivo": "tendencia short con momento (fuerza 2.2 ATR)",
+   "precio_salida": 1.1022,
+   "cerrada_en": "2026-11-14T22:12:08+00:00",
+   "pnl": 22.49,
+   "razon_cierre": "más de 48 h abierta"
   }
  ],
- "comisiones_pagadas": 1308.199074443454,
- "ultima_ejecucion": "2026-11-14T21:34:54+00:00",
+ "comisiones_pagadas": 1312.712688327094,
+ "ultima_ejecucion": "2026-11-14T22:12:08+00:00",
  "ultimo_resumen": "2026-11-14",
  "pausado": false,
  "historial_patrimonio": [
@@ -7127,6 +7131,10 @@
   [
    "2026-11-14T21:34:54+00:00",
    10898.84
+  ],
+  [
+   "2026-11-14T22:12:08+00:00",
+   10969.8
   ]
  ],
  "siguiente_id": 202
