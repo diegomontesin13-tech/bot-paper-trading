@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 289.34131264986263,
+ "efectivo": 1131.7827162298627,
  "posiciones": [
   {
    "id": 205,
@@ -15,7 +15,7 @@
    "objetivo": 6.030258,
    "comision_entrada": 1.6998312286475958,
    "abierta_en": "2026-11-15T02:48:41+00:00",
-   "revisada_hasta": 1794771600000,
+   "revisada_hasta": 1794773700000,
    "motivo": "tendencia short con momento (fuerza 2.5 ATR)"
   },
   {
@@ -31,24 +31,8 @@
    "objetivo": 566.0629384199947,
    "comision_entrada": 1.7387140294877372,
    "abierta_en": "2026-11-15T03:35:21+00:00",
-   "revisada_hasta": 1794771600000,
+   "revisada_hasta": 1794774000000,
    "motivo": "tendencia short con momento (fuerza 2.3 ATR)"
-  },
-  {
-   "id": 207,
-   "simbolo": "xyz:EUR",
-   "mercado": "forex",
-   "lado": "short",
-   "precio_entrada": 1.10195,
-   "nocional": 2546.42,
-   "apalancamiento": 3,
-   "margen": 848.81,
-   "stop": 1.1041539,
-   "objetivo": 1.0975422,
-   "comision_entrada": 1.2732075367118652,
-   "abierta_en": "2026-11-15T09:18:20+00:00",
-   "revisada_hasta": 1794771600000,
-   "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   },
   {
    "id": 208,
@@ -63,7 +47,7 @@
    "objetivo": 0.00464548,
    "comision_entrada": 1.7167333523705246,
    "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794771705000,
+   "revisada_hasta": 1794774000000,
    "motivo": "tendencia short con momento (fuerza 3.1 ATR)"
   },
   {
@@ -79,7 +63,7 @@
    "objetivo": 0.8887606,
    "comision_entrada": 1.7164477793549546,
    "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794771705000,
+   "revisada_hasta": 1794774000000,
    "motivo": "tendencia short con momento (fuerza 2.1 ATR)"
   }
  ],
@@ -4149,10 +4133,30 @@
    "cerrada_en": "2026-11-15T19:41:45+00:00",
    "pnl": -116.99,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 207,
+   "simbolo": "xyz:EUR",
+   "mercado": "forex",
+   "lado": "short",
+   "precio_entrada": 1.10195,
+   "nocional": 2546.42,
+   "apalancamiento": 3,
+   "margen": 848.81,
+   "stop": 1.1041539,
+   "objetivo": 1.0975422,
+   "comision_entrada": 1.2732075367118652,
+   "abierta_en": "2026-11-15T09:18:20+00:00",
+   "revisada_hasta": 1794774000000,
+   "motivo": "tendencia short con momento (fuerza 1.4 ATR)",
+   "precio_salida": 1.1041539,
+   "cerrada_en": "2026-11-15T20:21:00+00:00",
+   "pnl": -7.64,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1342.5167642053566,
- "ultima_ejecucion": "2026-11-15T19:41:45+00:00",
+ "comisiones_pagadas": 1343.7925206253567,
+ "ultima_ejecucion": "2026-11-15T20:21:00+00:00",
  "ultimo_resumen": "2026-11-14",
  "pausado": false,
  "historial_patrimonio": [
@@ -7391,6 +7395,10 @@
   [
    "2026-11-15T19:41:45+00:00",
    10296.97
+  ],
+  [
+   "2026-11-15T20:21:00+00:00",
+   10312.82
   ]
  ],
  "siguiente_id": 210

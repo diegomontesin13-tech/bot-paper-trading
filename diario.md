@@ -2163,3 +2163,10 @@
 - Abiertas: short xyz:COPPER, short BNB, short xyz:EUR, short PENGU, short TRUMP
 - Sin señal: ETH, SOL, HYPE, XRP, DOGE, kSHIB, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER
 
+
+## 2026-11-15 20:21 UTC · patrimonio $10.312,82 (+3.13%)
+
+- Cerrado short xyz:EUR a 1.1042 (stop-loss): -$7,64
+- Abiertas: short xyz:COPPER, short BNB, short PENGU, short TRUMP
+- Sin señal: ETH, HYPE, XRP, kSHIB, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
