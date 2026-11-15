@@ -2103,3 +2103,10 @@
 - Abiertas: short xyz:AMZN, short xyz:NVDA, short xyz:MSTR, short HYPE
 - Sin señal: BTC, ETH, SOL, XRP, BNB, DOGE, kSHIB, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:GOLD, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-15 00:58 UTC · patrimonio $10.941,89 (+9.42%)
+
+- Abierto short XRP 3x $3.899,67 a 0.920575 (stop 0.94640957, obj. 0.86890587)
+- Abiertas: short xyz:AMZN, short xyz:NVDA, short xyz:MSTR, short HYPE, short XRP
+- Sin señal: BTC, ETH, SOL, BNB, DOGE, kSHIB, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SILVER, xyz:NATGAS
+
