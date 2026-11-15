@@ -2110,3 +2110,4 @@
 - Abiertas: short xyz:AMZN, short xyz:NVDA, short xyz:MSTR, short HYPE, short XRP
 - Sin señal: BTC, ETH, SOL, BNB, DOGE, kSHIB, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SILVER, xyz:NATGAS
 
+- 2026-11-15 02:00 UTC · sin operaciones · patrimonio $11.145,66 (+11.46%)
