@@ -2132,3 +2132,11 @@
 - 2026-11-15 06:23 UTC · sin operaciones · patrimonio $10.556,31 (+5.56%)
 - 2026-11-15 07:40 UTC · sin operaciones · patrimonio $10.590,93 (+5.91%)
 - 2026-11-15 08:32 UTC · sin operaciones · patrimonio $10.557,42 (+5.57%)
+
+## 2026-11-15 09:18 UTC · patrimonio $10.369,57 (+3.70%)
+
+- Cerrado short HYPE a 66.7818 (stop-loss): -$111,37
+- Abierto short xyz:EUR 3x $2.546,42 a 1.1019 (stop 1.1042, obj. 1.0975)
+- Abiertas: short xyz:AMZN, short xyz:NVDA, short xyz:COPPER, short BNB, short xyz:EUR
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, POPCAT, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
