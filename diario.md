@@ -2111,3 +2111,11 @@
 - Sin señal: BTC, ETH, SOL, BNB, DOGE, kSHIB, kBONK, WIF, POPCAT, PENGU, FARTCOIN, TRUMP, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SILVER, xyz:NATGAS
 
 - 2026-11-15 02:00 UTC · sin operaciones · patrimonio $11.145,66 (+11.46%)
+
+## 2026-11-15 02:48 UTC · patrimonio $10.585,14 (+5.85%)
+
+- Cerrado short XRP a 0.94640957 (stop-loss): -$113,39
+- Abierto short xyz:COPPER 3x $3.399,66 a 6.1035 (stop 6.1401, obj. 6.0303)
+- Abiertas: short xyz:AMZN, short xyz:NVDA, short xyz:MSTR, short HYPE, short xyz:COPPER
+- Sin señal: xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMD, xyz:XYZ100, xyz:EUR
+

@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 54.10511827262371,
+ "efectivo": 107.63147851476788,
  "posiciones": [
   {
    "id": 200,
@@ -15,7 +15,7 @@
    "objetivo": 259.01340000000005,
    "comision_entrada": 6.721556158877414,
    "abierta_en": "2026-11-14T15:54:03+00:00",
-   "revisada_hasta": 1794708000000,
+   "revisada_hasta": 1794710700000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 155.46561474415506,
    "comision_entrada": 4.1229451500917,
    "abierta_en": "2026-11-14T16:37:59+00:00",
-   "revisada_hasta": 1794708000000,
+   "revisada_hasta": 1794710700000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 93.23797377300264,
    "comision_entrada": 1.9306655258458763,
    "abierta_en": "2026-11-14T23:53:20+00:00",
-   "revisada_hasta": 1794708000000,
+   "revisada_hasta": 1794710700000,
    "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
   },
   {
@@ -63,24 +63,24 @@
    "objetivo": 59.33481365622586,
    "comision_entrada": 1.4052638707326852,
    "abierta_en": "2026-11-14T23:53:20+00:00",
-   "revisada_hasta": 1794708000000,
+   "revisada_hasta": 1794710700000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   },
   {
-   "id": 204,
-   "simbolo": "XRP",
-   "mercado": "cripto",
+   "id": 205,
+   "simbolo": "xyz:COPPER",
+   "mercado": "materia_prima",
    "lado": "short",
-   "precio_entrada": 0.920575,
-   "nocional": 3899.67,
+   "precio_entrada": 6.1035,
+   "nocional": 3399.66,
    "apalancamiento": 3,
-   "margen": 1299.89,
-   "stop": 0.9464095674111901,
-   "objetivo": 0.8689058651776199,
-   "comision_entrada": 1.9498352046132421,
-   "abierta_en": "2026-11-15T00:58:16+00:00",
-   "revisada_hasta": 1794708000000,
-   "motivo": "tendencia short con momento (fuerza 1.9 ATR)"
+   "margen": 1133.22,
+   "stop": 6.140121000000001,
+   "objetivo": 6.030258,
+   "comision_entrada": 1.6998312286475958,
+   "abierta_en": "2026-11-15T02:48:41+00:00",
+   "revisada_hasta": 1794710921000,
+   "motivo": "tendencia short con momento (fuerza 2.5 ATR)"
   }
  ],
  "predicciones": [],
@@ -4049,10 +4049,30 @@
    "cerrada_en": "2026-11-14T22:12:08+00:00",
    "pnl": 22.49,
    "razon_cierre": "más de 48 h abierta"
+  },
+  {
+   "id": 204,
+   "simbolo": "XRP",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 0.920575,
+   "nocional": 3899.67,
+   "apalancamiento": 3,
+   "margen": 1299.89,
+   "stop": 0.9464095674111901,
+   "objetivo": 0.8689058651776199,
+   "comision_entrada": 1.9498352046132421,
+   "abierta_en": "2026-11-15T00:58:16+00:00",
+   "revisada_hasta": 1794710700000,
+   "motivo": "tendencia short con momento (fuerza 1.9 ATR)",
+   "precio_salida": 0.9464095674111901,
+   "cerrada_en": "2026-11-15T02:48:41+00:00",
+   "pnl": -113.39,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1317.9984529282856,
- "ultima_ejecucion": "2026-11-15T02:00:18+00:00",
+ "comisiones_pagadas": 1321.7028383745399,
+ "ultima_ejecucion": "2026-11-15T02:48:41+00:00",
  "ultimo_resumen": "2026-11-14",
  "pausado": false,
  "historial_patrimonio": [
@@ -7203,7 +7223,11 @@
   [
    "2026-11-15T02:00:18+00:00",
    11145.66
+  ],
+  [
+   "2026-11-15T02:48:41+00:00",
+   10585.14
   ]
  ],
- "siguiente_id": 205
+ "siguiente_id": 206
 }
