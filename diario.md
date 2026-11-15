@@ -2140,3 +2140,4 @@
 - Abiertas: short xyz:AMZN, short xyz:NVDA, short xyz:COPPER, short BNB, short xyz:EUR
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, POPCAT, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:GOLD, xyz:SILVER, xyz:COPPER
 
+- 2026-11-15 10:03 UTC · sin operaciones · patrimonio $10.367,69 (+3.68%)
