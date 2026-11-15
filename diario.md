@@ -2119,3 +2119,11 @@
 - Abiertas: short xyz:AMZN, short xyz:NVDA, short xyz:MSTR, short HYPE, short xyz:COPPER
 - Sin señal: xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMD, xyz:XYZ100, xyz:EUR
 
+
+## 2026-11-15 03:35 UTC · patrimonio $10.457,13 (+4.57%)
+
+- Cerrado short xyz:MSTR a 101.5675 (stop-loss): -$112,44
+- Abierto short BNB 3x $3.477,43 a 593.04 (stop 606.5285, obj. 566.0629)
+- Abiertas: short xyz:AMZN, short xyz:NVDA, short HYPE, short xyz:COPPER, short BNB
+- Sin señal: HYPE, XRP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMD, xyz:XYZ100, xyz:EUR
+
