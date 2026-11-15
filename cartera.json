@@ -1,39 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 100.15185828722838,
+ "efectivo": 289.34131264986263,
  "posiciones": [
-  {
-   "id": 200,
-   "simbolo": "xyz:AMZN",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 263.225,
-   "nocional": 13443.11,
-   "apalancamiento": 3,
-   "margen": 4481.04,
-   "stop": 265.3308,
-   "objetivo": 259.01340000000005,
-   "comision_entrada": 6.721556158877414,
-   "abierta_en": "2026-11-14T15:54:03+00:00",
-   "revisada_hasta": 1794769200000,
-   "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
-  },
-  {
-   "id": 201,
-   "simbolo": "xyz:NVDA",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 159.675,
-   "nocional": 8245.89,
-   "apalancamiento": 3,
-   "margen": 2748.63,
-   "stop": 161.77969262792251,
-   "objetivo": 155.46561474415506,
-   "comision_entrada": 4.1229451500917,
-   "abierta_en": "2026-11-14T16:37:59+00:00",
-   "revisada_hasta": 1794769200000,
-   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
-  },
   {
    "id": 205,
    "simbolo": "xyz:COPPER",
@@ -47,7 +15,7 @@
    "objetivo": 6.030258,
    "comision_entrada": 1.6998312286475958,
    "abierta_en": "2026-11-15T02:48:41+00:00",
-   "revisada_hasta": 1794768600000,
+   "revisada_hasta": 1794771600000,
    "motivo": "tendencia short con momento (fuerza 2.5 ATR)"
   },
   {
@@ -63,7 +31,7 @@
    "objetivo": 566.0629384199947,
    "comision_entrada": 1.7387140294877372,
    "abierta_en": "2026-11-15T03:35:21+00:00",
-   "revisada_hasta": 1794769200000,
+   "revisada_hasta": 1794771600000,
    "motivo": "tendencia short con momento (fuerza 2.3 ATR)"
   },
   {
@@ -79,8 +47,40 @@
    "objetivo": 1.0975422,
    "comision_entrada": 1.2732075367118652,
    "abierta_en": "2026-11-15T09:18:20+00:00",
-   "revisada_hasta": 1794769200000,
+   "revisada_hasta": 1794771600000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
+  },
+  {
+   "id": 208,
+   "simbolo": "PENGU",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.004942,
+   "nocional": 3433.47,
+   "apalancamiento": 1,
+   "margen": 3433.47,
+   "stop": 0.00509026,
+   "objetivo": 0.00464548,
+   "comision_entrada": 1.7167333523705246,
+   "abierta_en": "2026-11-15T19:41:45+00:00",
+   "revisada_hasta": 1794771705000,
+   "motivo": "tendencia short con momento (fuerza 3.1 ATR)"
+  },
+  {
+   "id": 209,
+   "simbolo": "TRUMP",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.94549,
+   "nocional": 3432.9,
+   "apalancamiento": 1,
+   "margen": 3432.9,
+   "stop": 0.9738547000000001,
+   "objetivo": 0.8887606,
+   "comision_entrada": 1.7164477793549546,
+   "abierta_en": "2026-11-15T19:41:45+00:00",
+   "revisada_hasta": 1794771705000,
+   "motivo": "tendencia short con momento (fuerza 2.1 ATR)"
   }
  ],
  "predicciones": [],
@@ -4109,10 +4109,50 @@
    "cerrada_en": "2026-11-15T09:18:20+00:00",
    "pnl": -111.37,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 200,
+   "simbolo": "xyz:AMZN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 263.225,
+   "nocional": 13443.11,
+   "apalancamiento": 3,
+   "margen": 4481.04,
+   "stop": 265.3308,
+   "objetivo": 259.01340000000005,
+   "comision_entrada": 6.721556158877414,
+   "abierta_en": "2026-11-14T15:54:03+00:00",
+   "revisada_hasta": 1794771600000,
+   "motivo": "tendencia short con momento (fuerza 1.6 ATR)",
+   "precio_salida": 264.225,
+   "cerrada_en": "2026-11-15T19:41:45+00:00",
+   "pnl": -64.54,
+   "razon_cierre": "tendencia rota"
+  },
+  {
+   "id": 201,
+   "simbolo": "xyz:NVDA",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 159.675,
+   "nocional": 8245.89,
+   "apalancamiento": 3,
+   "margen": 2748.63,
+   "stop": 161.77969262792251,
+   "objetivo": 155.46561474415506,
+   "comision_entrada": 4.1229451500917,
+   "abierta_en": "2026-11-14T16:37:59+00:00",
+   "revisada_hasta": 1794771600000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)",
+   "precio_salida": 161.77969262792251,
+   "cerrada_en": "2026-11-15T19:41:45+00:00",
+   "pnl": -116.99,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1328.159202713284,
- "ultima_ejecucion": "2026-11-15T19:01:49+00:00",
+ "comisiones_pagadas": 1342.5167642053566,
+ "ultima_ejecucion": "2026-11-15T19:41:45+00:00",
  "ultimo_resumen": "2026-11-14",
  "pausado": false,
  "historial_patrimonio": [
@@ -7347,7 +7387,11 @@
   [
    "2026-11-15T19:01:49+00:00",
    10446.93
+  ],
+  [
+   "2026-11-15T19:41:45+00:00",
+   10296.97
   ]
  ],
- "siguiente_id": 208
+ "siguiente_id": 210
 }

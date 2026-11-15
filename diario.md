@@ -2153,3 +2153,13 @@
 - 2026-11-15 17:34 UTC · sin operaciones · patrimonio $10.406,42 (+4.06%)
 - 2026-11-15 18:08 UTC · sin operaciones · patrimonio $10.462,63 (+4.63%)
 - 2026-11-15 19:01 UTC · sin operaciones · patrimonio $10.446,93 (+4.47%)
+
+## 2026-11-15 19:41 UTC · patrimonio $10.296,97 (+2.97%)
+
+- Cerrado short xyz:AMZN a 264.225 (tendencia rota): -$64,54
+- Cerrado short xyz:NVDA a 161.7797 (stop-loss): -$116,99
+- Abierto short PENGU 1x $3.433,47 a 0.004942 (stop 0.00509026, obj. 0.00464548)
+- Abierto short TRUMP 1x $3.432,90 a 0.94549 (stop 0.9738547, obj. 0.8887606)
+- Abiertas: short xyz:COPPER, short BNB, short xyz:EUR, short PENGU, short TRUMP
+- Sin señal: ETH, SOL, HYPE, XRP, DOGE, kSHIB, FARTCOIN, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER
+
