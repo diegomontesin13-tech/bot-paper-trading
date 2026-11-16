@@ -2193,3 +2193,10 @@
 - 2026-11-16 04:08 UTC · sin operaciones · patrimonio $10.297,18 (+2.97%)
 - 2026-11-16 05:41 UTC · sin operaciones · patrimonio $10.341,50 (+3.41%)
 - 2026-11-16 07:21 UTC · sin operaciones · patrimonio $10.408,23 (+4.08%)
+
+## 2026-11-16 09:56 UTC · patrimonio $10.456,41 (+4.56%)
+
+- Apuesta SILVER <= 48.095 (16-11 22:00 UTC) $52,28 a 68% (modelo 81%)
+- Abiertas: short BNB, short PENGU, short TRUMP, short SOL, SILVER <= 48.095 (16-11 22:00 UTC)
+- Sin señal: xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
