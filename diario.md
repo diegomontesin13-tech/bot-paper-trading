@@ -2182,3 +2182,10 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kSHIB, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
 - 2026-11-16 00:35 UTC · sin operaciones · patrimonio $10.319,05 (+3.19%)
+
+## 2026-11-16 02:00 UTC · patrimonio $10.417,99 (+4.18%)
+
+- Abierto short SOL 3x $5.228,63 a 71.2925 (stop 72.7134, obj. 68.4508)
+- Abiertas: short BNB, short PENGU, short TRUMP, short SOL
+- Sin señal: xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
