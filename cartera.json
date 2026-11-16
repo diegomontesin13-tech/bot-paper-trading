@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 416.0358274397993,
+ "efectivo": 492.4408407178845,
  "posiciones": [
   {
    "id": 206,
@@ -15,7 +15,7 @@
    "objetivo": 566.0629384199947,
    "comision_entrada": 1.7387140294877372,
    "abierta_en": "2026-11-15T03:35:21+00:00",
-   "revisada_hasta": 1794864600000,
+   "revisada_hasta": 1794867600000,
    "motivo": "tendencia short con momento (fuerza 2.3 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 0.00464548,
    "comision_entrada": 1.7167333523705246,
    "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794864600000,
+   "revisada_hasta": 1794867600000,
    "motivo": "tendencia short con momento (fuerza 3.1 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 0.8887606,
    "comision_entrada": 1.7164477793549546,
    "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794864600000,
+   "revisada_hasta": 1794867600000,
    "motivo": "tendencia short con momento (fuerza 2.1 ATR)"
   },
   {
@@ -63,27 +63,11 @@
    "objetivo": 68.10745042926432,
    "comision_entrada": 2.347462549424024,
    "abierta_en": "2026-11-16T17:58:49+00:00",
-   "revisada_hasta": 1794864600000,
+   "revisada_hasta": 1794867600000,
    "motivo": "tendencia short con momento (fuerza 0.9 ATR)"
   }
  ],
- "predicciones": [
-  {
-   "id": 211,
-   "outcome": 36923,
-   "lado_id": 1,
-   "titulo": "SILVER <= 48.095 (16-11 22:00 UTC)",
-   "subyacente": "xyz:SILVER",
-   "umbral": 48.095,
-   "vence": "2026-11-16T22:00:00+00:00",
-   "precio_entrada": 0.6843,
-   "importe": 52.28,
-   "contratos": 76.40501327808525,
-   "comision_entrada": 0.02614197529309687,
-   "abierta_en": "2026-11-16T09:56:36+00:00",
-   "motivo": "modelo 81% vs mercado 68%"
-  }
- ],
+ "predicciones": [],
  "cerradas": [
   {
    "id": 2,
@@ -4248,10 +4232,29 @@
    "cerrada_en": "2026-11-16T21:34:17+00:00",
    "pnl": 11.1,
    "razon_cierre": "liquidada (719.53 vs 765.4)"
+  },
+  {
+   "id": 211,
+   "outcome": 36923,
+   "lado_id": 1,
+   "titulo": "SILVER <= 48.095 (16-11 22:00 UTC)",
+   "subyacente": "xyz:SILVER",
+   "umbral": 48.095,
+   "vence": "2026-11-16T22:00:00+00:00",
+   "precio_entrada": 0.6843,
+   "importe": 52.28,
+   "contratos": 76.40501327808525,
+   "comision_entrada": 0.02614197529309687,
+   "abierta_en": "2026-11-16T09:56:36+00:00",
+   "motivo": "modelo 81% vs mercado 68%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-16T22:22:25+00:00",
+   "pnl": 24.1,
+   "razon_cierre": "liquidada (47.018 vs 48.095)"
   }
  ],
  "comisiones_pagadas": 1357.8872910946309,
- "ultima_ejecucion": "2026-11-16T21:34:17+00:00",
+ "ultima_ejecucion": "2026-11-16T22:22:25+00:00",
  "ultimo_resumen": "2026-11-16",
  "pausado": false,
  "historial_patrimonio": [
@@ -7578,6 +7581,10 @@
   [
    "2026-11-16T21:34:17+00:00",
    10044.85
+  ],
+  [
+   "2026-11-16T22:22:25+00:00",
+   10081.82
   ]
  ],
  "siguiente_id": 215

@@ -2235,3 +2235,10 @@
 - Abiertas: short BNB, short PENGU, short TRUMP, short SOL, SILVER <= 48.095 (16-11 22:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, TRUMP, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-11-16 22:22 UTC · patrimonio $10.081,82 (+0.82%)
+
+- Predicción SILVER <= 48.095 (16-11 22:00 UTC): GANADA +$24,10
+- Abiertas: short BNB, short PENGU, short TRUMP, short SOL
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, TRUMP, xyz:AAPL, xyz:GOOGL, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
+
