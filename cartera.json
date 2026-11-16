@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 445.0935092725309,
+ "efectivo": 392.6011586363429,
  "posiciones": [
   {
    "id": 206,
@@ -15,7 +15,7 @@
    "objetivo": 566.0629384199947,
    "comision_entrada": 1.7387140294877372,
    "abierta_en": "2026-11-15T03:35:21+00:00",
-   "revisada_hasta": 1794828000000,
+   "revisada_hasta": 1794832500000,
    "motivo": "tendencia short con momento (fuerza 2.3 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 0.00464548,
    "comision_entrada": 1.7167333523705246,
    "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794828000000,
+   "revisada_hasta": 1794832500000,
    "motivo": "tendencia short con momento (fuerza 3.1 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 0.8887606,
    "comision_entrada": 1.7164477793549546,
    "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794828000000,
+   "revisada_hasta": 1794832500000,
    "motivo": "tendencia short con momento (fuerza 2.1 ATR)"
   },
   {
@@ -63,7 +63,7 @@
    "objetivo": 68.4507975560828,
    "comision_entrada": 2.614315215300816,
    "abierta_en": "2026-11-16T02:00:11+00:00",
-   "revisada_hasta": 1794828000000,
+   "revisada_hasta": 1794832500000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   }
  ],
@@ -82,6 +82,21 @@
    "comision_entrada": 0.02614197529309687,
    "abierta_en": "2026-11-16T09:56:36+00:00",
    "motivo": "modelo 81% vs mercado 68%"
+  },
+  {
+   "id": 212,
+   "outcome": 36876,
+   "lado_id": 1,
+   "titulo": "MU <= 765.4 (16-11 21:00 UTC)",
+   "subyacente": "xyz:MU",
+   "umbral": 765.4,
+   "vence": "2026-11-16T21:00:00+00:00",
+   "precio_entrada": 0.825,
+   "importe": 52.47,
+   "contratos": 63.59529403321131,
+   "comision_entrada": 0.026233058788699665,
+   "abierta_en": "2026-11-16T12:36:11+00:00",
+   "motivo": "modelo 94% vs mercado 82%"
   }
  ],
  "cerradas": [
@@ -4191,8 +4206,8 @@
    "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1348.1430067959507,
- "ultima_ejecucion": "2026-11-16T11:21:54+00:00",
+ "comisiones_pagadas": 1348.1692398547393,
+ "ultima_ejecucion": "2026-11-16T12:36:11+00:00",
  "ultimo_resumen": "2026-11-15",
  "pausado": false,
  "historial_patrimonio": [
@@ -7487,7 +7502,11 @@
   [
    "2026-11-16T11:21:54+00:00",
    10279.48
+  ],
+  [
+   "2026-11-16T12:36:11+00:00",
+   10492.24
   ]
  ],
- "siguiente_id": 212
+ "siguiente_id": 213
 }

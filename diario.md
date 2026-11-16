@@ -2201,3 +2201,10 @@
 - Sin señal: xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
 - 2026-11-16 11:21 UTC · sin operaciones · patrimonio $10.279,48 (+2.79%)
+
+## 2026-11-16 12:36 UTC · patrimonio $10.492,24 (+4.92%)
+
+- Apuesta MU <= 765.4 (16-11 21:00 UTC) $52,47 a 82% (modelo 94%)
+- Abiertas: short BNB, short PENGU, short TRUMP, short SOL, SILVER <= 48.095 (16-11 22:00 UTC), MU <= 765.4 (16-11 21:00 UTC)
+- Sin señal: xyz:TSLA, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
