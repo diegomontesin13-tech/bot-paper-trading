@@ -2225,3 +2225,4 @@
 - Abiertas: short BNB, short PENGU, short TRUMP, short SOL, SILVER <= 48.095 (16-11 22:00 UTC), MU <= 765.4 (16-11 21:00 UTC)
 - Sin señal: BTC, ETH, HYPE, XRP, DOGE, kPEPE, xyz:AAPL, xyz:MSFT, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
 
+- 2026-11-16 18:52 UTC · sin operaciones · patrimonio $10.069,79 (+0.70%)
