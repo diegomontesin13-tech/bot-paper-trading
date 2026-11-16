@@ -2217,3 +2217,11 @@
 - Sin señal: ETH, xyz:AAPL, xyz:MSFT, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
 - 2026-11-16 16:58 UTC · sin operaciones · patrimonio $10.165,42 (+1.65%)
+
+## 2026-11-16 17:58 UTC · patrimonio $10.185,90 (+1.86%)
+
+- Cerrado short SOL a 71.7229 (stop-loss): -$108,85
+- Abierto short SOL 3x $4.694,93 a 71.1975 (stop 72.7425, obj. 68.1075)
+- Abiertas: short BNB, short PENGU, short TRUMP, short SOL, SILVER <= 48.095 (16-11 22:00 UTC), MU <= 765.4 (16-11 21:00 UTC)
+- Sin señal: BTC, ETH, HYPE, XRP, DOGE, kPEPE, xyz:AAPL, xyz:MSFT, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
+
