@@ -2228,3 +2228,10 @@
 - 2026-11-16 18:52 UTC · sin operaciones · patrimonio $10.069,79 (+0.70%)
 - 2026-11-16 19:54 UTC · sin operaciones · patrimonio $10.118,99 (+1.19%)
 - 2026-11-16 20:48 UTC · sin operaciones · patrimonio $10.101,92 (+1.02%)
+
+## 2026-11-16 21:34 UTC · patrimonio $10.044,85 (+0.45%)
+
+- Predicción MU <= 765.4 (16-11 21:00 UTC): GANADA +$11,10
+- Abiertas: short BNB, short PENGU, short TRUMP, short SOL, SILVER <= 48.095 (16-11 22:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, TRUMP, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
+
