@@ -2208,3 +2208,11 @@
 - Abiertas: short BNB, short PENGU, short TRUMP, short SOL, SILVER <= 48.095 (16-11 22:00 UTC), MU <= 765.4 (16-11 21:00 UTC)
 - Sin señal: xyz:TSLA, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+
+## 2026-11-16 15:38 UTC · patrimonio $10.411,84 (+4.12%)
+
+- Cerrado short SOL a 72.7134 (stop-loss): -$109,49
+- Abierto short SOL 3x $4.652,10 a 70.1525 (stop 71.7229, obj. 67.0116)
+- Abiertas: short BNB, short PENGU, short TRUMP, short SOL, SILVER <= 48.095 (16-11 22:00 UTC), MU <= 765.4 (16-11 21:00 UTC)
+- Sin señal: ETH, xyz:AAPL, xyz:MSFT, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+

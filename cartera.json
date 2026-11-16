@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 392.6011586363429,
+ "efectivo": 475.58278386525853,
  "posiciones": [
   {
    "id": 206,
@@ -15,7 +15,7 @@
    "objetivo": 566.0629384199947,
    "comision_entrada": 1.7387140294877372,
    "abierta_en": "2026-11-15T03:35:21+00:00",
-   "revisada_hasta": 1794832500000,
+   "revisada_hasta": 1794843300000,
    "motivo": "tendencia short con momento (fuerza 2.3 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 0.00464548,
    "comision_entrada": 1.7167333523705246,
    "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794832500000,
+   "revisada_hasta": 1794843300000,
    "motivo": "tendencia short con momento (fuerza 3.1 ATR)"
   },
   {
@@ -47,24 +47,24 @@
    "objetivo": 0.8887606,
    "comision_entrada": 1.7164477793549546,
    "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794832500000,
+   "revisada_hasta": 1794843300000,
    "motivo": "tendencia short con momento (fuerza 2.1 ATR)"
   },
   {
-   "id": 210,
+   "id": 213,
    "simbolo": "SOL",
    "mercado": "cripto",
    "lado": "short",
-   "precio_entrada": 71.2925,
-   "nocional": 5228.63,
+   "precio_entrada": 70.1525,
+   "nocional": 4652.1,
    "apalancamiento": 3,
-   "margen": 1742.88,
-   "stop": 72.7133512219586,
-   "objetivo": 68.4507975560828,
-   "comision_entrada": 2.614315215300816,
-   "abierta_en": "2026-11-16T02:00:11+00:00",
-   "revisada_hasta": 1794832500000,
-   "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
+   "margen": 1550.7,
+   "stop": 71.72292969609522,
+   "objetivo": 67.01164060780955,
+   "comision_entrada": 2.326049879920764,
+   "abierta_en": "2026-11-16T15:38:23+00:00",
+   "revisada_hasta": 1794843503000,
+   "motivo": "tendencia short con momento (fuerza 1.0 ATR)"
   }
  ],
  "predicciones": [
@@ -4204,10 +4204,30 @@
    "cerrada_en": "2026-11-15T23:43:06+00:00",
    "pnl": -23.81,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 210,
+   "simbolo": "SOL",
+   "mercado": "cripto",
+   "lado": "short",
+   "precio_entrada": 71.2925,
+   "nocional": 5228.63,
+   "apalancamiento": 3,
+   "margen": 1742.88,
+   "stop": 72.7133512219586,
+   "objetivo": 68.4507975560828,
+   "comision_entrada": 2.614315215300816,
+   "abierta_en": "2026-11-16T02:00:11+00:00",
+   "revisada_hasta": 1794843300000,
+   "motivo": "tendencia short con momento (fuerza 1.5 ATR)",
+   "precio_salida": 72.7133512219586,
+   "cerrada_en": "2026-11-16T15:38:23+00:00",
+   "pnl": -109.49,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1348.1692398547393,
- "ultima_ejecucion": "2026-11-16T12:36:11+00:00",
+ "comisiones_pagadas": 1353.1617077281353,
+ "ultima_ejecucion": "2026-11-16T15:38:23+00:00",
  "ultimo_resumen": "2026-11-15",
  "pausado": false,
  "historial_patrimonio": [
@@ -7506,7 +7526,11 @@
   [
    "2026-11-16T12:36:11+00:00",
    10492.24
+  ],
+  [
+   "2026-11-16T15:38:23+00:00",
+   10411.84
   ]
  ],
- "siguiente_id": 213
+ "siguiente_id": 214
 }
