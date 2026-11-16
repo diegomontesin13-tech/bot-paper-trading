@@ -2243,3 +2243,4 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, TRUMP, xyz:AAPL, xyz:GOOGL, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL
 
 - 2026-11-16 23:16 UTC · sin operaciones · patrimonio $10.098,25 (+0.98%)
+- 2026-11-16 23:56 UTC · sin operaciones · patrimonio $10.144,75 (+1.45%)
