@@ -2317,3 +2317,4 @@
 - Sin señal: SOL, HYPE, XRP, PENGU, TRUMP, xyz:MSFT, xyz:GOOGL, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-17 17:45 UTC · sin operaciones · patrimonio $10.554,58 (+5.55%)
+- 2026-11-17 18:36 UTC · sin operaciones · patrimonio $10.439,31 (+4.39%)
