@@ -2326,3 +2326,4 @@
 - Abiertas: short xyz:PLTR, short xyz:JP225, short xyz:GOOGL, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC), MU > 718.1 (17-11 21:00 UTC)
 - Sin señal: SOL, HYPE, PENGU, xyz:MSTR, xyz:SP500, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-17 20:33 UTC · sin operaciones · patrimonio $10.286,55 (+2.87%)
