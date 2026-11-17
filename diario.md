@@ -2300,3 +2300,11 @@
 - Abiertas: short xyz:NVDA, short xyz:GOOGL, short PENGU, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC), MU > 718.1 (17-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+
+## 2026-11-17 15:37 UTC · patrimonio $10.326,78 (+3.27%)
+
+- Cerrado short xyz:NVDA a 152.5253 (objetivo): +$194,22
+- Abierto short xyz:PLTR 3x $7.518,01 a 157.715 (stop 159.8822, obj. 153.3807)
+- Abiertas: short xyz:GOOGL, short PENGU, short xyz:PLTR, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC), MU > 718.1 (17-11 21:00 UTC)
+- Sin señal: BTC, SOL, HYPE, XRP, DOGE, PENGU, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:SP500, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
