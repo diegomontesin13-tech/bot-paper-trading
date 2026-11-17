@@ -2282,3 +2282,4 @@
 - Abiertas: short PENGU, short xyz:NVDA, short xyz:GOOGL, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC)
 - Sin señal: SOL, HYPE, TRUMP, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-17 10:34 UTC · sin operaciones · patrimonio $10.112,61 (+1.13%)
