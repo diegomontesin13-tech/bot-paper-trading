@@ -2247,3 +2247,14 @@
 - 2026-11-17 00:59 UTC · sin operaciones · patrimonio $10.197,43 (+1.97%)
 - 2026-11-17 02:10 UTC · sin operaciones · patrimonio $10.093,46 (+0.93%)
 - 2026-11-17 03:03 UTC · sin operaciones · patrimonio $10.175,06 (+1.75%)
+
+## 2026-11-17 03:53 UTC · patrimonio $9.990,03 (-0.10%)
+
+- Cerrado short BNB a 593.825 (más de 48 h abierta): -$8,08
+- Cerrado short TRUMP a 0.9568 (tendencia rota): -$44,52
+- Cerrado short SOL a 72.5795 (tendencia rota): -$95,87
+- Abierto short xyz:NATGAS 3x $12.814,44 a 3.4713 (stop 3.4984, obj. 3.4171)
+- Abierto short xyz:NVDA 3x $5.742,58 a 158.025 (stop 160.7749, obj. 152.5253)
+- Abiertas: short PENGU, short xyz:NATGAS, short xyz:NVDA
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
+
