@@ -2258,3 +2258,10 @@
 - Abiertas: short PENGU, short xyz:NATGAS, short xyz:NVDA
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-11-17 04:56 UTC · patrimonio $10.030,25 (+0.30%)
+
+- Apuesta SILVER > 47.012 (17-11 22:00 UTC) $50,15 a 60% (modelo 72%)
+- Abiertas: short PENGU, short xyz:NATGAS, short xyz:NVDA, SILVER > 47.012 (17-11 22:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
