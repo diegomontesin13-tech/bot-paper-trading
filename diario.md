@@ -2265,3 +2265,4 @@
 - Abiertas: short PENGU, short xyz:NATGAS, short xyz:NVDA, SILVER > 47.012 (17-11 22:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-17 05:57 UTC · sin operaciones · patrimonio $10.079,81 (+0.80%)
