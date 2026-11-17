@@ -2327,3 +2327,13 @@
 - Sin señal: SOL, HYPE, PENGU, xyz:MSTR, xyz:SP500, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-17 20:33 UTC · sin operaciones · patrimonio $10.286,55 (+2.87%)
+
+## 2026-11-17 21:24 UTC · patrimonio $10.148,41 (+1.48%)
+
+- Cerrado short xyz:JP225 a 59081.95 (stop-loss): -$116,72
+- Predicción SP500 <= 7414.3 (17-11 21:00 UTC): GANADA +$26,26
+- Predicción MU > 718.1 (17-11 21:00 UTC): perdida -$49,69
+- Abierto short xyz:MSFT 3x $9.879,81 a 505.52 (stop 510.7152, obj. 495.1297)
+- Abiertas: short xyz:PLTR, short xyz:GOOGL, short xyz:MSFT, SILVER > 47.012 (17-11 22:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AMD, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:NATGAS, xyz:COPPER
+

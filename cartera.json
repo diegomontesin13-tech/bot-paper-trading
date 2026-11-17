@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 587.7972998993619,
+ "efectivo": 873.1291399727374,
  "posiciones": [
   {
    "id": 222,
@@ -15,23 +15,7 @@
    "objetivo": 153.38065946733028,
    "comision_entrada": 3.759006715336564,
    "abierta_en": "2026-11-17T15:37:16+00:00",
-   "revisada_hasta": 1794947400000,
-   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
-  },
-  {
-   "id": 223,
-   "simbolo": "xyz:JP225",
-   "mercado": "indice",
-   "lado": "short",
-   "precio_entrada": 58511.5,
-   "nocional": 10852.91,
-   "apalancamiento": 3,
-   "margen": 3617.64,
-   "stop": 59081.953570283564,
-   "objetivo": 57370.59285943286,
-   "comision_entrada": 5.426453312787259,
-   "abierta_en": "2026-11-17T16:45:04+00:00",
-   "revisada_hasta": 1794947400000,
+   "revisada_hasta": 1794950400000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   },
   {
@@ -47,8 +31,24 @@
    "objetivo": 274.70899042589934,
    "comision_entrada": 5.145235740285566,
    "abierta_en": "2026-11-17T19:39:30+00:00",
-   "revisada_hasta": 1794947400000,
+   "revisada_hasta": 1794950400000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
+  },
+  {
+   "id": 225,
+   "simbolo": "xyz:MSFT",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 505.52,
+   "nocional": 9879.81,
+   "apalancamiento": 3,
+   "margen": 3293.27,
+   "stop": 510.7151645624198,
+   "objetivo": 495.1296708751605,
+   "comision_entrada": 4.939902866515686,
+   "abierta_en": "2026-11-17T21:24:54+00:00",
+   "revisada_hasta": 1794950694000,
+   "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   }
  ],
  "predicciones": [
@@ -66,36 +66,6 @@
    "comision_entrada": 0.02507691203513963,
    "abierta_en": "2026-11-17T04:56:28+00:00",
    "motivo": "modelo 72% vs mercado 60%"
-  },
-  {
-   "id": 219,
-   "outcome": 37910,
-   "lado_id": 1,
-   "titulo": "SP500 <= 7414.3 (17-11 21:00 UTC)",
-   "subyacente": "xyz:SP500",
-   "umbral": 7414.3,
-   "vence": "2026-11-17T21:00:00+00:00",
-   "precio_entrada": 0.65946,
-   "importe": 50.9,
-   "contratos": 77.18932909957678,
-   "comision_entrada": 0.025451637484003458,
-   "abierta_en": "2026-11-17T09:34:41+00:00",
-   "motivo": "modelo 79% vs mercado 66%"
-  },
-  {
-   "id": 220,
-   "outcome": 37912,
-   "lado_id": 0,
-   "titulo": "MU > 718.1 (17-11 21:00 UTC)",
-   "subyacente": "xyz:MU",
-   "umbral": 718.1,
-   "vence": "2026-11-17T21:00:00+00:00",
-   "precio_entrada": 0.7224,
-   "importe": 49.67,
-   "contratos": 68.76078713204463,
-   "comision_entrada": 0.02483639631209452,
-   "abierta_en": "2026-11-17T12:22:51+00:00",
-   "motivo": "modelo 83% vs mercado 72%"
   }
  ],
  "cerradas": [
@@ -4441,11 +4411,69 @@
    "cerrada_en": "2026-11-17T19:39:30+00:00",
    "pnl": -105.2,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 223,
+   "simbolo": "xyz:JP225",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 58511.5,
+   "nocional": 10852.91,
+   "apalancamiento": 3,
+   "margen": 3617.64,
+   "stop": 59081.953570283564,
+   "objetivo": 57370.59285943286,
+   "comision_entrada": 5.426453312787259,
+   "abierta_en": "2026-11-17T16:45:04+00:00",
+   "revisada_hasta": 1794950400000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)",
+   "precio_salida": 59081.953570283564,
+   "cerrada_en": "2026-11-17T21:24:54+00:00",
+   "pnl": -116.72,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 219,
+   "outcome": 37910,
+   "lado_id": 1,
+   "titulo": "SP500 <= 7414.3 (17-11 21:00 UTC)",
+   "subyacente": "xyz:SP500",
+   "umbral": 7414.3,
+   "vence": "2026-11-17T21:00:00+00:00",
+   "precio_entrada": 0.65946,
+   "importe": 50.9,
+   "contratos": 77.18932909957678,
+   "comision_entrada": 0.025451637484003458,
+   "abierta_en": "2026-11-17T09:34:41+00:00",
+   "motivo": "modelo 79% vs mercado 66%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-17T21:24:54+00:00",
+   "pnl": 26.26,
+   "razon_cierre": "liquidada (7344.7 vs 7414.3)"
+  },
+  {
+   "id": 220,
+   "outcome": 37912,
+   "lado_id": 0,
+   "titulo": "MU > 718.1 (17-11 21:00 UTC)",
+   "subyacente": "xyz:MU",
+   "umbral": 718.1,
+   "vence": "2026-11-17T21:00:00+00:00",
+   "precio_entrada": 0.7224,
+   "importe": 49.67,
+   "contratos": 68.76078713204463,
+   "comision_entrada": 0.02483639631209452,
+   "abierta_en": "2026-11-17T12:22:51+00:00",
+   "motivo": "modelo 83% vs mercado 72%",
+   "precio_salida": 0.0,
+   "cerrada_en": "2026-11-17T21:24:54+00:00",
+   "pnl": -49.69,
+   "razon_cierre": "liquidada (713.92 vs 718.1)"
   }
  ],
- "comisiones_pagadas": 1413.9468891816568,
- "ultima_ejecucion": "2026-11-17T20:33:25+00:00",
- "ultimo_resumen": "2026-11-16",
+ "comisiones_pagadas": 1424.3661518725016,
+ "ultima_ejecucion": "2026-11-17T21:24:54+00:00",
+ "ultimo_resumen": "2026-11-17",
  "pausado": false,
  "historial_patrimonio": [
   [
@@ -7863,7 +7891,11 @@
   [
    "2026-11-17T20:33:25+00:00",
    10286.55
+  ],
+  [
+   "2026-11-17T21:24:54+00:00",
+   10148.41
   ]
  ],
- "siguiente_id": 225
+ "siguiente_id": 226
 }
