@@ -2337,3 +2337,10 @@
 - Abiertas: short xyz:PLTR, short xyz:GOOGL, short xyz:MSFT, SILVER > 47.012 (17-11 22:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AMD, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-17 22:26 UTC · patrimonio $10.212,64 (+2.13%)
+
+- Predicción SILVER > 47.012 (17-11 22:00 UTC): GANADA +$33,18
+- Abiertas: short xyz:PLTR, short xyz:GOOGL, short xyz:MSFT
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kSHIB, kBONK, PENGU, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AMD, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
