@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 59.65026136407732,
+ "efectivo": 734.645355230025,
  "posiciones": [
-  {
-   "id": 218,
-   "simbolo": "xyz:GOOGL",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 283.815,
-   "nocional": 12317.92,
-   "apalancamiento": 3,
-   "margen": 4105.97,
-   "stop": 286.0977345795994,
-   "objetivo": 279.2495308408013,
-   "comision_entrada": 6.158959831112342,
-   "abierta_en": "2026-11-17T07:12:13+00:00",
-   "revisada_hasta": 1794929700000,
-   "motivo": "tendencia short con momento (fuerza 1.9 ATR)"
-  },
   {
    "id": 221,
    "simbolo": "PENGU",
@@ -31,7 +15,7 @@
    "objetivo": 0.0043719399999999995,
    "comision_entrada": 1.6959796384080663,
    "abierta_en": "2026-11-17T14:40:33+00:00",
-   "revisada_hasta": 1794929700000,
+   "revisada_hasta": 1794933900000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   },
   {
@@ -47,7 +31,23 @@
    "objetivo": 153.38065946733028,
    "comision_entrada": 3.759006715336564,
    "abierta_en": "2026-11-17T15:37:16+00:00",
-   "revisada_hasta": 1794929836000,
+   "revisada_hasta": 1794933900000,
+   "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
+  },
+  {
+   "id": 223,
+   "simbolo": "xyz:JP225",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 58511.5,
+   "nocional": 10852.91,
+   "apalancamiento": 3,
+   "margen": 3617.64,
+   "stop": 59081.953570283564,
+   "objetivo": 57370.59285943286,
+   "comision_entrada": 5.426453312787259,
+   "abierta_en": "2026-11-17T16:45:04+00:00",
+   "revisada_hasta": 1794933904000,
    "motivo": "tendencia short con momento (fuerza 1.2 ATR)"
   }
  ],
@@ -4401,10 +4401,30 @@
    "cerrada_en": "2026-11-17T15:37:16+00:00",
    "pnl": 194.22,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 218,
+   "simbolo": "xyz:GOOGL",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 283.815,
+   "nocional": 12317.92,
+   "apalancamiento": 3,
+   "margen": 4105.97,
+   "stop": 286.0977345795994,
+   "objetivo": 279.2495308408013,
+   "comision_entrada": 6.158959831112342,
+   "abierta_en": "2026-11-17T07:12:13+00:00",
+   "revisada_hasta": 1794933900000,
+   "motivo": "tendencia short con momento (fuerza 1.9 ATR)",
+   "precio_salida": 279.2495308408013,
+   "cerrada_en": "2026-11-17T16:45:04+00:00",
+   "pnl": 185.93,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1395.5684542163585,
- "ultima_ejecucion": "2026-11-17T15:37:16+00:00",
+ "comisiones_pagadas": 1407.0547940413712,
+ "ultima_ejecucion": "2026-11-17T16:45:04+00:00",
  "ultimo_resumen": "2026-11-16",
  "pausado": false,
  "historial_patrimonio": [
@@ -7803,7 +7823,11 @@
   [
    "2026-11-17T15:37:16+00:00",
    10326.78
+  ],
+  [
+   "2026-11-17T16:45:04+00:00",
+   10575.54
   ]
  ],
- "siguiente_id": 223
+ "siguiente_id": 224
 }

@@ -2308,3 +2308,11 @@
 - Abiertas: short xyz:GOOGL, short PENGU, short xyz:PLTR, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC), MU > 718.1 (17-11 21:00 UTC)
 - Sin señal: BTC, SOL, HYPE, XRP, DOGE, PENGU, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:SP500, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-17 16:45 UTC · patrimonio $10.575,54 (+5.76%)
+
+- Cerrado short xyz:GOOGL a 279.2495 (objetivo): +$185,93
+- Abierto short xyz:JP225 3x $10.852,91 a 58511.5 (stop 59081.95, obj. 57370.59)
+- Abiertas: short PENGU, short xyz:PLTR, short xyz:JP225, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC), MU > 718.1 (17-11 21:00 UTC)
+- Sin señal: SOL, HYPE, XRP, PENGU, TRUMP, xyz:MSFT, xyz:GOOGL, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
