@@ -2318,3 +2318,11 @@
 
 - 2026-11-17 17:45 UTC · sin operaciones · patrimonio $10.554,58 (+5.55%)
 - 2026-11-17 18:36 UTC · sin operaciones · patrimonio $10.439,31 (+4.39%)
+
+## 2026-11-17 19:39 UTC · patrimonio $10.320,77 (+3.21%)
+
+- Cerrado short PENGU a 0.00479053 (stop-loss): -$105,20
+- Abierto short xyz:GOOGL 3x $10.290,47 a 280.335 (stop 283.148, obj. 274.709)
+- Abiertas: short xyz:PLTR, short xyz:JP225, short xyz:GOOGL, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC), MU > 718.1 (17-11 21:00 UTC)
+- Sin señal: SOL, HYPE, PENGU, xyz:MSTR, xyz:SP500, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
