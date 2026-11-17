@@ -2275,3 +2275,10 @@
 - Sin señal: ETH, SOL, HYPE, XRP, BNB, kPEPE, kBONK, FARTCOIN, TRUMP, xyz:MSTR, xyz:SP500, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-17 08:29 UTC · sin operaciones · patrimonio $9.921,63 (-0.78%)
+
+## 2026-11-17 09:34 UTC · patrimonio $10.180,73 (+1.81%)
+
+- Apuesta SP500 <= 7414.3 (17-11 21:00 UTC) $50,90 a 66% (modelo 79%)
+- Abiertas: short PENGU, short xyz:NVDA, short xyz:GOOGL, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC)
+- Sin señal: SOL, HYPE, TRUMP, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
