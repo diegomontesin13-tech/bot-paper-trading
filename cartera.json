@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 213.92793134013647,
+ "efectivo": 458.1371439855966,
  "posiciones": [
-  {
-   "id": 208,
-   "simbolo": "PENGU",
-   "mercado": "memecoin",
-   "lado": "short",
-   "precio_entrada": 0.004942,
-   "nocional": 3433.47,
-   "apalancamiento": 1,
-   "margen": 3433.47,
-   "stop": 0.00509026,
-   "objetivo": 0.00464548,
-   "comision_entrada": 1.7167333523705246,
-   "abierta_en": "2026-11-15T19:41:45+00:00",
-   "revisada_hasta": 1794923100000,
-   "motivo": "tendencia short con momento (fuerza 3.1 ATR)"
-  },
   {
    "id": 216,
    "simbolo": "xyz:NVDA",
@@ -31,7 +15,7 @@
    "objetivo": 152.52528481176412,
    "comision_entrada": 2.8712922197043955,
    "abierta_en": "2026-11-17T03:53:17+00:00",
-   "revisada_hasta": 1794923100000,
+   "revisada_hasta": 1794926400000,
    "motivo": "tendencia short con momento (fuerza 0.9 ATR)"
   },
   {
@@ -47,8 +31,24 @@
    "objetivo": 279.2495308408013,
    "comision_entrada": 6.158959831112342,
    "abierta_en": "2026-11-17T07:12:13+00:00",
-   "revisada_hasta": 1794923100000,
+   "revisada_hasta": 1794926400000,
    "motivo": "tendencia short con momento (fuerza 1.9 ATR)"
+  },
+  {
+   "id": 221,
+   "simbolo": "PENGU",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.004651,
+   "nocional": 3391.96,
+   "apalancamiento": 1,
+   "margen": 3391.96,
+   "stop": 0.0047905299999999994,
+   "objetivo": 0.0043719399999999995,
+   "comision_entrada": 1.6959796384080663,
+   "abierta_en": "2026-11-17T14:40:33+00:00",
+   "revisada_hasta": 1794926433000,
+   "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   }
  ],
  "predicciones": [
@@ -4361,10 +4361,30 @@
    "cerrada_en": "2026-11-17T07:12:13+00:00",
    "pnl": -112.86,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 208,
+   "simbolo": "PENGU",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.004942,
+   "nocional": 3433.47,
+   "apalancamiento": 1,
+   "margen": 3433.47,
+   "stop": 0.00509026,
+   "objetivo": 0.00464548,
+   "comision_entrada": 1.7167333523705246,
+   "abierta_en": "2026-11-15T19:41:45+00:00",
+   "revisada_hasta": 1794926400000,
+   "motivo": "tendencia short con momento (fuerza 3.1 ATR)",
+   "precio_salida": 0.00464548,
+   "cerrada_en": "2026-11-17T14:40:33+00:00",
+   "pnl": 202.68,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1385.728375943616,
- "ultima_ejecucion": "2026-11-17T13:46:20+00:00",
+ "comisiones_pagadas": 1389.038086482024,
+ "ultima_ejecucion": "2026-11-17T14:40:33+00:00",
  "ultimo_resumen": "2026-11-16",
  "pausado": false,
  "historial_patrimonio": [
@@ -7755,7 +7775,11 @@
   [
    "2026-11-17T13:46:20+00:00",
    10060.04
+  ],
+  [
+   "2026-11-17T14:40:33+00:00",
+   10174.18
   ]
  ],
- "siguiente_id": 221
+ "siguiente_id": 222
 }

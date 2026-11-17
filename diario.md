@@ -2292,3 +2292,11 @@
 - Sin señal: BTC, SOL, HYPE, XRP, BNB, DOGE, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:MSTR, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-17 13:46 UTC · sin operaciones · patrimonio $10.060,04 (+0.60%)
+
+## 2026-11-17 14:40 UTC · patrimonio $10.174,18 (+1.74%)
+
+- Cerrado short PENGU a 0.00464548 (objetivo): +$202,68
+- Abierto short PENGU 1x $3.391,96 a 0.004651 (stop 0.00479053, obj. 0.00437194)
+- Abiertas: short xyz:NVDA, short xyz:GOOGL, short PENGU, SILVER > 47.012 (17-11 22:00 UTC), SP500 <= 7414.3 (17-11 21:00 UTC), MU > 718.1 (17-11 21:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
