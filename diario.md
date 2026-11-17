@@ -2283,3 +2283,4 @@
 - Sin señal: SOL, HYPE, TRUMP, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-17 10:34 UTC · sin operaciones · patrimonio $10.112,61 (+1.13%)
+- 2026-11-17 11:23 UTC · sin operaciones · patrimonio $10.077,96 (+0.78%)
