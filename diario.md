@@ -2425,3 +2425,10 @@
 
 - 2026-11-18 20:12 UTC · sin operaciones · patrimonio $9.940,57 (-0.59%)
 - 2026-11-18 21:08 UTC · sin operaciones · patrimonio $9.954,15 (-0.46%)
+
+## 2026-11-18 22:05 UTC · patrimonio $9.937,01 (-0.63%)
+
+- Predicción SILVER <= 47.419 (18-11 22:00 UTC): GANADA +$12,63
+- Abiertas: short xyz:GOLD, short xyz:SILVER, short xyz:CL
+- Sin señal: BTC, SOL, XRP, xyz:TSLA, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:NATGAS, xyz:COPPER
+
