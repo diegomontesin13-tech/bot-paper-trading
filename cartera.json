@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 3104.82977478126,
+ "efectivo": 88.98762304400088,
  "posiciones": [
   {
    "id": 231,
@@ -15,7 +15,7 @@
    "objetivo": 3702.953668864094,
    "comision_entrada": 6.798112580350979,
    "abierta_en": "2026-11-18T15:17:45+00:00",
-   "revisada_hasta": 1795015065000,
+   "revisada_hasta": 1795018500000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   },
   {
@@ -31,8 +31,24 @@
    "objetivo": 43.9834761214944,
    "comision_entrada": 3.4856165356296764,
    "abierta_en": "2026-11-18T15:17:45+00:00",
-   "revisada_hasta": 1795015065000,
+   "revisada_hasta": 1795018500000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
+  },
+  {
+   "id": 233,
+   "simbolo": "xyz:JP225",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 58355.0,
+   "nocional": 9033.98,
+   "apalancamiento": 3,
+   "margen": 3011.33,
+   "stop": 59004.79293419163,
+   "objetivo": 57055.414131616744,
+   "comision_entrada": 4.516987745986908,
+   "abierta_en": "2026-11-18T16:18:29+00:00",
+   "revisada_hasta": 1795018709000,
+   "motivo": "tendencia short con momento (fuerza 0.5 ATR)"
   }
  ],
  "predicciones": [
@@ -4614,8 +4630,8 @@
    "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1486.6346347360115,
- "ultima_ejecucion": "2026-11-18T15:17:45+00:00",
+ "comisiones_pagadas": 1491.1516224819984,
+ "ultima_ejecucion": "2026-11-18T16:18:29+00:00",
  "ultimo_resumen": "2026-11-17",
  "pausado": false,
  "historial_patrimonio": [
@@ -8106,7 +8122,11 @@
   [
    "2026-11-18T15:17:45+00:00",
    9992.0
+  ],
+  [
+   "2026-11-18T16:18:29+00:00",
+   10054.97
   ]
  ],
- "siguiente_id": 233
+ "siguiente_id": 234
 }
