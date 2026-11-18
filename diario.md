@@ -2386,3 +2386,4 @@
 - 2026-11-18 09:58 UTC · sin operaciones · patrimonio $10.052,03 (+0.52%)
 - 2026-11-18 10:59 UTC · sin operaciones · patrimonio $10.061,32 (+0.61%)
 - 2026-11-18 11:57 UTC · sin operaciones · patrimonio $10.107,04 (+1.07%)
+- 2026-11-18 13:05 UTC · sin operaciones · patrimonio $10.196,05 (+1.96%)
