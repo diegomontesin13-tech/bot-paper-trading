@@ -2382,3 +2382,4 @@
 - Abiertas: short xyz:AAPL, short xyz:MSTR, short xyz:GOOGL, SILVER <= 47.419 (18-11 22:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kSHIB, WIF, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-18 08:59 UTC · sin operaciones · patrimonio $10.092,22 (+0.92%)
