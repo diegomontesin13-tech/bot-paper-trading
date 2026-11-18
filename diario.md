@@ -2415,3 +2415,11 @@
 - Abiertas: short xyz:GOLD, short xyz:SILVER, short xyz:PLTR, SILVER <= 47.419 (18-11 22:00 UTC)
 - Sin señal: SOL, XRP, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:EUR, xyz:CL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-18 19:15 UTC · patrimonio $9.919,53 (-0.80%)
+
+- Cerrado short xyz:PLTR a 157.4566 (stop-loss): -$106,03
+- Abierto short xyz:CL 3x $8.410,53 a 81.98 (stop 82.9473, obj. 80.0454)
+- Abiertas: short xyz:GOLD, short xyz:SILVER, short xyz:CL, SILVER <= 47.419 (18-11 22:00 UTC)
+- Sin señal: SOL, XRP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:JPY, xyz:GOLD, xyz:NATGAS, xyz:COPPER
+
