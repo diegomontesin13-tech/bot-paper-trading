@@ -2406,3 +2406,4 @@
 - Abiertas: short xyz:GOLD, short xyz:SILVER, short xyz:JP225, SILVER <= 47.419 (18-11 22:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-18 17:22 UTC · sin operaciones · patrimonio $10.009,34 (+0.09%)

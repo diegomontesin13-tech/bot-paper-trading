@@ -15,7 +15,7 @@
    "objetivo": 3702.953668864094,
    "comision_entrada": 6.798112580350979,
    "abierta_en": "2026-11-18T15:17:45+00:00",
-   "revisada_hasta": 1795018500000,
+   "revisada_hasta": 1795022400000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 43.9834761214944,
    "comision_entrada": 3.4856165356296764,
    "abierta_en": "2026-11-18T15:17:45+00:00",
-   "revisada_hasta": 1795018500000,
+   "revisada_hasta": 1795022400000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 57055.414131616744,
    "comision_entrada": 4.516987745986908,
    "abierta_en": "2026-11-18T16:18:29+00:00",
-   "revisada_hasta": 1795018709000,
+   "revisada_hasta": 1795022400000,
    "motivo": "tendencia short con momento (fuerza 0.5 ATR)"
   }
  ],
@@ -4631,7 +4631,7 @@
   }
  ],
  "comisiones_pagadas": 1491.1516224819984,
- "ultima_ejecucion": "2026-11-18T16:18:29+00:00",
+ "ultima_ejecucion": "2026-11-18T17:22:01+00:00",
  "ultimo_resumen": "2026-11-17",
  "pausado": false,
  "historial_patrimonio": [
@@ -8126,6 +8126,10 @@
   [
    "2026-11-18T16:18:29+00:00",
    10054.97
+  ],
+  [
+   "2026-11-18T17:22:01+00:00",
+   10009.34
   ]
  ],
  "siguiente_id": 234
