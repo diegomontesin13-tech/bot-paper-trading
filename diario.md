@@ -2355,3 +2355,10 @@
 - Abiertas: short xyz:CL, short xyz:AAPL
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-18 00:20 UTC · patrimonio $9.871,47 (-1.29%)
+
+- Abierto short xyz:MSTR 3x $4.083,00 a 100.125 (stop 102.5462, obj. 95.2826)
+- Abiertas: short xyz:CL, short xyz:AAPL, short xyz:MSTR
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
