@@ -2388,3 +2388,14 @@
 - 2026-11-18 11:57 UTC · sin operaciones · patrimonio $10.107,04 (+1.07%)
 - 2026-11-18 13:05 UTC · sin operaciones · patrimonio $10.196,05 (+1.96%)
 - 2026-11-18 14:20 UTC · sin operaciones · patrimonio $10.159,17 (+1.59%)
+
+## 2026-11-18 15:17 UTC · patrimonio $9.992,00 (-0.08%)
+
+- Cerrado short xyz:AAPL a 353.1982 (stop-loss): -$110,96
+- Cerrado short xyz:MSTR a 95.2826 (objetivo): +$193,49
+- Cerrado short xyz:GOOGL a 284.9137 (stop-loss): -$111,80
+- Abierto short xyz:GOLD 3x $13.596,23 a 3758.25 (stop 3785.9, obj. 3702.95)
+- Abierto short xyz:SILVER 3x $6.971,23 a 45.282 (stop 45.9313, obj. 43.9835)
+- Abiertas: short xyz:GOLD, short xyz:SILVER, SILVER <= 47.419 (18-11 22:00 UTC)
+- Sin señal: SOL, XRP, DOGE, PENGU, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:NATGAS, xyz:COPPER
+
