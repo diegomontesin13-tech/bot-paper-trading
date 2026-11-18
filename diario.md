@@ -2407,3 +2407,11 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, FARTCOIN, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:NATGAS, xyz:COPPER
 
 - 2026-11-18 17:22 UTC · sin operaciones · patrimonio $10.009,34 (+0.09%)
+
+## 2026-11-18 18:09 UTC · patrimonio $9.955,90 (-0.44%)
+
+- Cerrado short xyz:JP225 a 59004.79 (stop-loss): -$109,68
+- Abierto short xyz:PLTR 3x $6.389,36 a 155.04 (stop 157.4566, obj. 150.2068)
+- Abiertas: short xyz:GOLD, short xyz:SILVER, short xyz:PLTR, SILVER <= 47.419 (18-11 22:00 UTC)
+- Sin señal: SOL, XRP, xyz:TSLA, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:MSTR, xyz:EUR, xyz:CL, xyz:NATGAS, xyz:COPPER
+
