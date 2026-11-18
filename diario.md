@@ -2366,3 +2366,10 @@
 - 2026-11-18 02:37 UTC · sin operaciones · patrimonio $10.015,36 (+0.15%)
 - 2026-11-18 03:39 UTC · sin operaciones · patrimonio $10.020,15 (+0.20%)
 - 2026-11-18 04:44 UTC · sin operaciones · patrimonio $10.055,94 (+0.56%)
+
+## 2026-11-18 05:45 UTC · patrimonio $10.027,41 (+0.27%)
+
+- Apuesta SILVER <= 47.419 (18-11 22:00 UTC) $50,14 a 80% (modelo 90%)
+- Abiertas: short xyz:CL, short xyz:AAPL, short xyz:MSTR, SILVER <= 47.419 (18-11 22:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kSHIB, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AMZN, xyz:AMD, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:GOLD, xyz:NATGAS, xyz:COPPER
+
