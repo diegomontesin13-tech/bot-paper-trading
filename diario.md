@@ -2469,3 +2469,11 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:SILVER, xyz:BRENTOIL
 
 - 2026-11-19 06:43 UTC · sin operaciones · patrimonio $9.568,71 (-4.31%)
+
+## 2026-11-19 08:03 UTC · patrimonio $9.524,63 (-4.75%)
+
+- Cerrado long xyz:NATGAS a 3.7366 (stop-loss): -$105,80
+- Abierto long xyz:NATGAS 3x $9.189,14 a 3.7523 (stop 3.7134, obj. 3.8301)
+- Abiertas: short xyz:SILVER, short xyz:COPPER, short xyz:MSTR, short xyz:COIN, long xyz:NATGAS
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:BRENTOIL
+
