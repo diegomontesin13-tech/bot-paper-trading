@@ -2526,3 +2526,13 @@
 - Sin señal: SOL, HYPE, XRP, kPEPE, TRUMP, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:KR200, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
 - 2026-11-19 20:28 UTC · sin operaciones · patrimonio $9.527,44 (-4.73%)
+
+## 2026-11-19 21:22 UTC · patrimonio $9.661,35 (-3.39%)
+
+- Cerrado short xyz:SILVER a 43.9835 (objetivo): +$193,04
+- Cerrado short xyz:MSTR a 85.9575 (objetivo): +$182,72
+- Abierto short PENGU 1x $3.221,38 a 0.004537 (stop 0.00467311, obj. 0.00426478)
+- Abierto short xyz:AMD 3x $2.373,33 a 483.39 (stop 503.0703, obj. 444.0294)
+- Abiertas: short xyz:COPPER, short xyz:COIN, short FARTCOIN, short PENGU, short xyz:AMD
+- Sin señal: BTC, SOL, XRP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
