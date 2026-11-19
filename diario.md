@@ -2450,3 +2450,4 @@
 - Abiertas: short xyz:GOLD, short xyz:SILVER, short xyz:COPPER, short xyz:MSTR, short xyz:COIN
 - Sin señal: ETH, SOL, XRP, kPEPE, kSHIB, kBONK, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-19 02:50 UTC · sin operaciones · patrimonio $9.894,14 (-1.06%)
