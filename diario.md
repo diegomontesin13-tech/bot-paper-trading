@@ -2478,3 +2478,12 @@
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:BRENTOIL
 
 - 2026-11-19 09:01 UTC · sin operaciones · patrimonio $9.491,74 (-5.08%)
+
+## 2026-11-19 10:01 UTC · patrimonio $9.467,43 (-5.33%)
+
+- Cerrado short xyz:MSTR a 94.3146 (stop-loss): -$100,01
+- Cerrado short xyz:COIN a 114.4015 (stop-loss): -$100,94
+- Abierto long xyz:AMD 3x $4.554,84 a 543.72 (stop 532.4158, obj. 566.3283)
+- Abiertas: short xyz:SILVER, short xyz:COPPER, long xyz:NATGAS, long xyz:AMD
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL
+

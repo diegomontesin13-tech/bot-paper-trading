@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1613.2343512866419,
+ "efectivo": 2443.0816287995713,
  "posiciones": [
   {
    "id": 232,
@@ -15,7 +15,7 @@
    "objetivo": 43.9834761214944,
    "comision_entrada": 3.4856165356296764,
    "abierta_en": "2026-11-18T15:17:45+00:00",
-   "revisada_hasta": 1795078800000,
+   "revisada_hasta": 1795082400000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   },
   {
@@ -31,40 +31,8 @@
    "objetivo": 5.67734429680123,
    "comision_entrada": 0.17883114834923616,
    "abierta_en": "2026-11-19T00:39:11+00:00",
-   "revisada_hasta": 1795078800000,
+   "revisada_hasta": 1795082100000,
    "motivo": "tendencia short con momento (fuerza 2.8 ATR)"
-  },
-  {
-   "id": 237,
-   "simbolo": "xyz:MSTR",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 91.669,
-   "nocional": 3347.7,
-   "apalancamiento": 3,
-   "margen": 1115.9,
-   "stop": 94.31463685051207,
-   "objetivo": 86.37772629897582,
-   "comision_entrada": 1.6738521194662477,
-   "abierta_en": "2026-11-19T01:59:52+00:00",
-   "revisada_hasta": 1795078800000,
-   "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
-  },
-  {
-   "id": 238,
-   "simbolo": "xyz:COIN",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 111.885,
-   "nocional": 4294.91,
-   "apalancamiento": 3,
-   "margen": 1431.64,
-   "stop": 114.40150325633824,
-   "objetivo": 106.85199348732348,
-   "comision_entrada": 2.147454069673183,
-   "abierta_en": "2026-11-19T01:59:52+00:00",
-   "revisada_hasta": 1795078800000,
-   "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   },
   {
    "id": 241,
@@ -79,8 +47,24 @@
    "objetivo": 3.830123386557975,
    "comision_entrada": 4.594570920895742,
    "abierta_en": "2026-11-19T08:03:31+00:00",
-   "revisada_hasta": 1795078800000,
+   "revisada_hasta": 1795082400000,
    "motivo": "tendencia long con momento (fuerza 2.7 ATR)"
+  },
+  {
+   "id": 242,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 543.72,
+   "nocional": 4554.84,
+   "apalancamiento": 3,
+   "margen": 1518.28,
+   "stop": 532.4158312928661,
+   "objetivo": 566.3283374142679,
+   "comision_entrada": 2.2774194849439917,
+   "abierta_en": "2026-11-19T10:01:31+00:00",
+   "revisada_hasta": 1795082491000,
+   "motivo": "tendencia long con momento (fuerza 1.3 ATR)"
   }
  ],
  "predicciones": [],
@@ -4783,10 +4767,50 @@
    "cerrada_en": "2026-11-19T08:03:31+00:00",
    "pnl": -105.8,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 237,
+   "simbolo": "xyz:MSTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 91.669,
+   "nocional": 3347.7,
+   "apalancamiento": 3,
+   "margen": 1115.9,
+   "stop": 94.31463685051207,
+   "objetivo": 86.37772629897582,
+   "comision_entrada": 1.6738521194662477,
+   "abierta_en": "2026-11-19T01:59:52+00:00",
+   "revisada_hasta": 1795082400000,
+   "motivo": "tendencia short con momento (fuerza 1.8 ATR)",
+   "precio_salida": 94.31463685051207,
+   "cerrada_en": "2026-11-19T10:01:31+00:00",
+   "pnl": -100.01,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 238,
+   "simbolo": "xyz:COIN",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 111.885,
+   "nocional": 4294.91,
+   "apalancamiento": 3,
+   "margen": 1431.64,
+   "stop": 114.40150325633824,
+   "objetivo": 106.85199348732348,
+   "comision_entrada": 2.147454069673183,
+   "abierta_en": "2026-11-19T01:59:52+00:00",
+   "revisada_hasta": 1795082400000,
+   "motivo": "tendencia short con momento (fuerza 1.4 ATR)",
+   "precio_salida": 114.40150325633824,
+   "cerrada_en": "2026-11-19T10:01:31+00:00",
+   "pnl": -100.94,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1547.960609294017,
- "ultima_ejecucion": "2026-11-19T09:01:38+00:00",
+ "comisiones_pagadas": 1554.1559426452143,
+ "ultima_ejecucion": "2026-11-19T10:01:31+00:00",
  "ultimo_resumen": "2026-11-18",
  "pausado": false,
  "historial_patrimonio": [
@@ -8349,7 +8373,11 @@
   [
    "2026-11-19T09:01:38+00:00",
    9491.74
+  ],
+  [
+   "2026-11-19T10:01:31+00:00",
+   9467.43
   ]
  ],
- "siguiente_id": 242
+ "siguiente_id": 243
 }
