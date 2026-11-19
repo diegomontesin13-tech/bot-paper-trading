@@ -2525,3 +2525,4 @@
 - Abiertas: short xyz:SILVER, short xyz:COPPER, short xyz:MSTR, short xyz:COIN, short FARTCOIN
 - Sin señal: SOL, HYPE, XRP, kPEPE, TRUMP, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:KR200, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-19 20:28 UTC · sin operaciones · patrimonio $9.527,44 (-4.73%)
