@@ -2441,3 +2441,12 @@
 - Abiertas: short xyz:GOLD, short xyz:SILVER, short xyz:CL, short xyz:COPPER
 - Sin señal: ETH, SOL, XRP, DOGE, kPEPE, kSHIB, kBONK, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:NATGAS
 
+
+## 2026-11-19 01:59 UTC · patrimonio $9.657,91 (-3.42%)
+
+- Cerrado short xyz:CL a 82.9473 (stop-loss): -$107,70
+- Abierto short xyz:MSTR 3x $3.347,70 a 91.669 (stop 94.3146, obj. 86.3777)
+- Abierto short xyz:COIN 3x $4.294,91 a 111.885 (stop 114.4015, obj. 106.852)
+- Abiertas: short xyz:GOLD, short xyz:SILVER, short xyz:COPPER, short xyz:MSTR, short xyz:COIN
+- Sin señal: ETH, SOL, XRP, kPEPE, kSHIB, kBONK, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:JPY, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
