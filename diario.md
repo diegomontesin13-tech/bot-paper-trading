@@ -2545,3 +2545,4 @@
 - Abiertas: short FARTCOIN, short PENGU, short xyz:AMD, short xyz:NVDA
 - Sin señal: xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+- 2026-11-19 23:17 UTC · sin operaciones · patrimonio $9.647,57 (-3.52%)
