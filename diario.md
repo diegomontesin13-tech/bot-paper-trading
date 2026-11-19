@@ -2517,3 +2517,11 @@
 
 - 2026-11-19 17:29 UTC · sin operaciones · patrimonio $9.252,44 (-7.48%)
 - 2026-11-19 18:24 UTC · sin operaciones · patrimonio $9.384,91 (-6.15%)
+
+## 2026-11-19 19:35 UTC · patrimonio $9.378,20 (-6.22%)
+
+- Cerrado long xyz:NATGAS a 3.6906 (stop-loss): -$101,95
+- Abierto short FARTCOIN 1x $3.126,59 a 0.08461 (stop 0.0871483, obj. 0.0795334)
+- Abiertas: short xyz:SILVER, short xyz:COPPER, short xyz:MSTR, short xyz:COIN, short FARTCOIN
+- Sin señal: SOL, HYPE, XRP, kPEPE, TRUMP, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:KR200, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
