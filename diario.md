@@ -2536,3 +2536,12 @@
 - Abiertas: short xyz:COPPER, short xyz:COIN, short FARTCOIN, short PENGU, short xyz:AMD
 - Sin señal: BTC, SOL, XRP, xyz:NVDA, xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-19 22:22 UTC · patrimonio $9.680,22 (-3.20%)
+
+- Cerrado short xyz:COPPER a 5.6773 (objetivo): +$6,64
+- Cerrado short xyz:COIN a 107.8742 (objetivo): +$180,56
+- Abierto short xyz:NVDA 3x $4.648,87 a 146.785 (stop 149.8422, obj. 140.6706)
+- Abiertas: short FARTCOIN, short PENGU, short xyz:AMD, short xyz:NVDA
+- Sin señal: xyz:TSLA, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
