@@ -2489,3 +2489,12 @@
 
 - 2026-11-19 10:58 UTC · sin operaciones · patrimonio $9.518,60 (-4.81%)
 - 2026-11-19 11:55 UTC · sin operaciones · patrimonio $9.581,11 (-4.19%)
+
+## 2026-11-19 13:09 UTC · patrimonio $9.389,48 (-6.11%)
+
+- Cerrado long xyz:NATGAS a 3.7134 (stop-loss): -$104,43
+- Abierto long xyz:NATGAS 3x $8.026,41 a 3.7344 (stop 3.6906, obj. 3.8218)
+- Abierto long XRP 3x $6.655,37 a 0.98971 (stop 0.97574211, obj. 1.0176)
+- Abiertas: short xyz:SILVER, short xyz:COPPER, long xyz:AMD, long xyz:NATGAS, long XRP
+- Sin señal: BTC, ETH, SOL, HYPE, BNB, DOGE, kPEPE, kSHIB, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL
+
