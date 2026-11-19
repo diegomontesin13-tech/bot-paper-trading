@@ -1,23 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 173.4680258486262,
+ "efectivo": 613.9659065752821,
  "posiciones": [
-  {
-   "id": 231,
-   "simbolo": "xyz:GOLD",
-   "mercado": "materia_prima",
-   "lado": "short",
-   "precio_entrada": 3758.25,
-   "nocional": 13596.23,
-   "apalancamiento": 3,
-   "margen": 4532.08,
-   "stop": 3785.898165567953,
-   "objetivo": 3702.953668864094,
-   "comision_entrada": 6.798112580350979,
-   "abierta_en": "2026-11-18T15:17:45+00:00",
-   "revisada_hasta": 1795056600000,
-   "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
-  },
   {
    "id": 232,
    "simbolo": "xyz:SILVER",
@@ -31,7 +15,7 @@
    "objetivo": 43.9834761214944,
    "comision_entrada": 3.4856165356296764,
    "abierta_en": "2026-11-18T15:17:45+00:00",
-   "revisada_hasta": 1795056600000,
+   "revisada_hasta": 1795059600000,
    "motivo": "tendencia short con momento (fuerza 1.5 ATR)"
   },
   {
@@ -47,7 +31,7 @@
    "objetivo": 5.67734429680123,
    "comision_entrada": 0.17883114834923616,
    "abierta_en": "2026-11-19T00:39:11+00:00",
-   "revisada_hasta": 1795056600000,
+   "revisada_hasta": 1795059600000,
    "motivo": "tendencia short con momento (fuerza 2.8 ATR)"
   },
   {
@@ -63,7 +47,7 @@
    "objetivo": 86.37772629897582,
    "comision_entrada": 1.6738521194662477,
    "abierta_en": "2026-11-19T01:59:52+00:00",
-   "revisada_hasta": 1795056600000,
+   "revisada_hasta": 1795059300000,
    "motivo": "tendencia short con momento (fuerza 1.8 ATR)"
   },
   {
@@ -79,8 +63,24 @@
    "objetivo": 106.85199348732348,
    "comision_entrada": 2.147454069673183,
    "abierta_en": "2026-11-19T01:59:52+00:00",
-   "revisada_hasta": 1795056600000,
+   "revisada_hasta": 1795059600000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
+  },
+  {
+   "id": 239,
+   "simbolo": "xyz:GOLD",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 3713.85,
+   "nocional": 12835.54,
+   "apalancamiento": 3,
+   "margen": 4278.51,
+   "stop": 3742.5899952532613,
+   "objetivo": 3656.3700094934775,
+   "comision_entrada": 6.417767892626585,
+   "abierta_en": "2026-11-19T03:40:52+00:00",
+   "revisada_hasta": 1795059652000,
+   "motivo": "tendencia short con momento (fuerza 2.0 ATR)"
   }
  ],
  "predicciones": [],
@@ -4723,10 +4723,30 @@
    "cerrada_en": "2026-11-19T01:59:52+00:00",
    "pnl": -107.7,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 231,
+   "simbolo": "xyz:GOLD",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 3758.25,
+   "nocional": 13596.23,
+   "apalancamiento": 3,
+   "margen": 4532.08,
+   "stop": 3785.898165567953,
+   "objetivo": 3702.953668864094,
+   "comision_entrada": 6.798112580350979,
+   "abierta_en": "2026-11-18T15:17:45+00:00",
+   "revisada_hasta": 1795059600000,
+   "motivo": "tendencia short con momento (fuerza 1.6 ATR)",
+   "precio_salida": 3702.953668864094,
+   "cerrada_en": "2026-11-19T03:40:52+00:00",
+   "pnl": 186.55,
+   "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1514.618351275874,
- "ultima_ejecucion": "2026-11-19T02:50:33+00:00",
+ "comisiones_pagadas": 1527.7342113338993,
+ "ultima_ejecucion": "2026-11-19T03:40:52+00:00",
  "ultimo_resumen": "2026-11-18",
  "pausado": false,
  "historial_patrimonio": [
@@ -8265,7 +8285,11 @@
   [
    "2026-11-19T02:50:33+00:00",
    9894.14
+  ],
+  [
+   "2026-11-19T03:40:52+00:00",
+   9926.49
   ]
  ],
- "siguiente_id": 239
+ "siguiente_id": 240
 }
