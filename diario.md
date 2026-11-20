@@ -2554,3 +2554,10 @@
 - 2026-11-20 04:58 UTC · sin operaciones · patrimonio $9.917,38 (-0.83%)
 - 2026-11-20 05:59 UTC · sin operaciones · patrimonio $9.832,97 (-1.67%)
 - 2026-11-20 07:12 UTC · sin operaciones · patrimonio $9.899,41 (-1.01%)
+
+## 2026-11-20 08:30 UTC · patrimonio $9.805,22 (-1.95%)
+
+- Apuesta ANT <= 96.772 (20-11 21:00 UTC) $49,03 a 75% (modelo 92%)
+- Abiertas: short FARTCOIN, short PENGU, short xyz:AMD, short xyz:NVDA, ANT <= 96.772 (20-11 21:00 UTC)
+- Sin señal: XRP, xyz:AAPL, xyz:AMZN, xyz:EUR, xyz:NATGAS, xyz:COPPER
+
