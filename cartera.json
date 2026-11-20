@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 890.2992415827651,
+ "efectivo": 790.2335062192494,
  "posiciones": [
   {
    "id": 247,
@@ -15,7 +15,7 @@
    "objetivo": 0.0795334,
    "comision_entrada": 1.56329259861191,
    "abierta_en": "2026-11-19T19:35:21+00:00",
-   "revisada_hasta": 1795163400000,
+   "revisada_hasta": 1795167000000,
    "motivo": "tendencia short con momento (fuerza 1.0 ATR)"
   },
   {
@@ -31,7 +31,7 @@
    "objetivo": 0.00426478,
    "comision_entrada": 1.6106914380940303,
    "abierta_en": "2026-11-19T21:22:24+00:00",
-   "revisada_hasta": 1795163400000,
+   "revisada_hasta": 1795167000000,
    "motivo": "tendencia short con momento (fuerza 0.6 ATR)"
   },
   {
@@ -47,7 +47,7 @@
    "objetivo": 444.0294444761551,
    "comision_entrada": 1.186663338701418,
    "abierta_en": "2026-11-19T21:22:24+00:00",
-   "revisada_hasta": 1795163400000,
+   "revisada_hasta": 1795167000000,
    "motivo": "tendencia short con momento (fuerza 0.4 ATR)"
   },
   {
@@ -63,7 +63,7 @@
    "objetivo": 140.67059721336386,
    "comision_entrada": 2.324435509448256,
    "abierta_en": "2026-11-19T22:22:34+00:00",
-   "revisada_hasta": 1795163400000,
+   "revisada_hasta": 1795167000000,
    "motivo": "tendencia short con momento (fuerza 1.3 ATR)"
   }
  ],
@@ -82,6 +82,36 @@
    "comision_entrada": 0.02451558584628342,
    "abierta_en": "2026-11-20T08:30:24+00:00",
    "motivo": "modelo 92% vs mercado 75%"
+  },
+  {
+   "id": 252,
+   "outcome": 40890,
+   "lado_id": 1,
+   "titulo": "SP500 <= 7182.4 (20-11 21:00 UTC)",
+   "subyacente": "xyz:SP500",
+   "umbral": 7182.4,
+   "vence": "2026-11-20T21:00:00+00:00",
+   "precio_entrada": 0.6825,
+   "importe": 50.01,
+   "contratos": 73.27542038933328,
+   "comision_entrada": 0.025005237207859982,
+   "abierta_en": "2026-11-20T09:31:55+00:00",
+   "motivo": "modelo 82% vs mercado 68%"
+  },
+  {
+   "id": 253,
+   "outcome": 40894,
+   "lado_id": 1,
+   "titulo": "SPCX <= 138.18 (20-11 21:00 UTC)",
+   "subyacente": "xyz:SPCX",
+   "umbral": 138.18,
+   "vence": "2026-11-20T21:00:00+00:00",
+   "precio_entrada": 0.8397,
+   "importe": 50.01,
+   "contratos": 59.55133152798124,
+   "comision_entrada": 0.025002626542022923,
+   "abierta_en": "2026-11-20T09:31:55+00:00",
+   "motivo": "modelo 97% vs mercado 84%"
   }
  ],
  "cerradas": [
@@ -4985,8 +5015,8 @@
    "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1594.1624990606388,
- "ultima_ejecucion": "2026-11-20T08:30:24+00:00",
+ "comisiones_pagadas": 1594.2125069243887,
+ "ultima_ejecucion": "2026-11-20T09:31:55+00:00",
  "ultimo_resumen": "2026-11-19",
  "pausado": false,
  "historial_patrimonio": [
@@ -8641,7 +8671,11 @@
   [
    "2026-11-20T08:30:24+00:00",
    9805.22
+  ],
+  [
+   "2026-11-20T09:31:55+00:00",
+   10000.74
   ]
  ],
- "siguiente_id": 252
+ "siguiente_id": 254
 }

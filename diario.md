@@ -2561,3 +2561,11 @@
 - Abiertas: short FARTCOIN, short PENGU, short xyz:AMD, short xyz:NVDA, ANT <= 96.772 (20-11 21:00 UTC)
 - Sin señal: XRP, xyz:AAPL, xyz:AMZN, xyz:EUR, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-20 09:31 UTC · patrimonio $10.000,74 (+0.01%)
+
+- Apuesta SP500 <= 7182.4 (20-11 21:00 UTC) $50,01 a 68% (modelo 82%)
+- Apuesta SPCX <= 138.18 (20-11 21:00 UTC) $50,01 a 84% (modelo 97%)
+- Abiertas: short FARTCOIN, short PENGU, short xyz:AMD, short xyz:NVDA, ANT <= 96.772 (20-11 21:00 UTC), SP500 <= 7182.4 (20-11 21:00 UTC), SPCX <= 138.18 (20-11 21:00 UTC)
+- Sin señal: kBONK, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:NATGAS
+
