@@ -2569,3 +2569,15 @@
 - Abiertas: short FARTCOIN, short PENGU, short xyz:AMD, short xyz:NVDA, ANT <= 96.772 (20-11 21:00 UTC), SP500 <= 7182.4 (20-11 21:00 UTC), SPCX <= 138.18 (20-11 21:00 UTC)
 - Sin señal: kBONK, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:XYZ100, xyz:KR200, xyz:NATGAS
 
+
+## 2026-11-20 17:57 UTC · patrimonio $10.431,40 (+4.31%)
+
+- Cerrado short FARTCOIN a 0.0795334 (objetivo): +$184,56
+- Cerrado short PENGU a 0.00426478 (objetivo): +$190,16
+- Cerrado short xyz:AMD a 444.0294 (objetivo): +$190,97
+- Cerrado short xyz:NVDA a 140.6706 (objetivo): +$189,10
+- Abierto short xyz:META 3x $5.901,09 a 570.14 (stop 580.2235, obj. 549.9729)
+- Abierto short xyz:PLTR 3x $4.712,06 a 146.775 (stop 150.025, obj. 140.275)
+- Abiertas: short xyz:META, short xyz:PLTR, ANT <= 96.772 (20-11 21:00 UTC), SP500 <= 7182.4 (20-11 21:00 UTC), SPCX <= 138.18 (20-11 21:00 UTC)
+- Sin señal: BTC, ETH, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
