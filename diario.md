@@ -2581,3 +2581,15 @@
 - Abiertas: short xyz:META, short xyz:PLTR, ANT <= 96.772 (20-11 21:00 UTC), SP500 <= 7182.4 (20-11 21:00 UTC), SPCX <= 138.18 (20-11 21:00 UTC)
 - Sin señal: BTC, ETH, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMD, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-20 23:54 UTC · patrimonio $10.480,69 (+4.81%)
+
+- Predicción ANT <= 96.772 (20-11 21:00 UTC): GANADA +$16,38
+- Predicción SP500 <= 7182.4 (20-11 21:00 UTC): GANADA +$23,24
+- Predicción SPCX <= 138.18 (20-11 21:00 UTC): GANADA +$9,52
+- Abierto short xyz:GOLD 3x $10.070,84 a 3540.35 (stop 3577.23, obj. 3466.59)
+- Abierto short xyz:MSTR 3x $3.129,37 a 79.055 (stop 81.7038, obj. 73.7574)
+- Apuesta MU <= 593.16 (21-11 21:00 UTC) $52,42 a 20% (modelo 32%)
+- Abiertas: short xyz:META, short xyz:PLTR, short xyz:GOLD, short xyz:MSTR, MU <= 593.16 (21-11 21:00 UTC)
+- Sin señal: ETH, BNB, xyz:NVDA, xyz:XYZ100, xyz:JPY, xyz:CL, xyz:BRENTOIL
+

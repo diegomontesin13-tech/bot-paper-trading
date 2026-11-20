@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 6697.387352677474,
+ "efectivo": 2436.5333708411013,
  "posiciones": [
   {
    "id": 254,
@@ -15,7 +15,7 @@
    "objetivo": 549.9729459236924,
    "comision_entrada": 2.9505474827512406,
    "abierta_en": "2026-11-20T17:57:56+00:00",
-   "revisada_hasta": 1795197476000,
+   "revisada_hasta": 1795218600000,
    "motivo": "tendencia short con momento (fuerza 1.9 ATR)"
   },
   {
@@ -31,55 +31,57 @@
    "objetivo": 140.27502179437965,
    "comision_entrada": 2.3560303629154147,
    "abierta_en": "2026-11-20T17:57:56+00:00",
-   "revisada_hasta": 1795197476000,
+   "revisada_hasta": 1795218600000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
+  },
+  {
+   "id": 256,
+   "simbolo": "xyz:GOLD",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 3540.35,
+   "nocional": 10070.84,
+   "apalancamiento": 3,
+   "margen": 3356.95,
+   "stop": 3577.2276382049017,
+   "objetivo": 3466.594723590196,
+   "comision_entrada": 5.035418681344135,
+   "abierta_en": "2026-11-20T23:54:59+00:00",
+   "revisada_hasta": 1795218899000,
+   "motivo": "tendencia short con momento (fuerza 2.5 ATR)"
+  },
+  {
+   "id": 257,
+   "simbolo": "xyz:MSTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 79.055,
+   "nocional": 3129.37,
+   "apalancamiento": 3,
+   "margen": 1043.12,
+   "stop": 81.70378433206295,
+   "objetivo": 73.75743133587412,
+   "comision_entrada": 1.564684891254049,
+   "abierta_en": "2026-11-20T23:54:59+00:00",
+   "revisada_hasta": 1795218899000,
+   "motivo": "tendencia short con momento (fuerza 2.4 ATR)"
   }
  ],
  "predicciones": [
   {
-   "id": 251,
-   "outcome": 40887,
+   "id": 258,
+   "outcome": 41990,
    "lado_id": 1,
-   "titulo": "ANT <= 96.772 (20-11 21:00 UTC)",
-   "subyacente": "xyz:ANT",
-   "umbral": 96.772,
-   "vence": "2026-11-20T21:00:00+00:00",
-   "precio_entrada": 0.74934,
-   "importe": 49.03,
-   "contratos": 65.43247616911795,
-   "comision_entrada": 0.02451558584628342,
-   "abierta_en": "2026-11-20T08:30:24+00:00",
-   "motivo": "modelo 92% vs mercado 75%"
-  },
-  {
-   "id": 252,
-   "outcome": 40890,
-   "lado_id": 1,
-   "titulo": "SP500 <= 7182.4 (20-11 21:00 UTC)",
-   "subyacente": "xyz:SP500",
-   "umbral": 7182.4,
-   "vence": "2026-11-20T21:00:00+00:00",
-   "precio_entrada": 0.6825,
-   "importe": 50.01,
-   "contratos": 73.27542038933328,
-   "comision_entrada": 0.025005237207859982,
-   "abierta_en": "2026-11-20T09:31:55+00:00",
-   "motivo": "modelo 82% vs mercado 68%"
-  },
-  {
-   "id": 253,
-   "outcome": 40894,
-   "lado_id": 1,
-   "titulo": "SPCX <= 138.18 (20-11 21:00 UTC)",
-   "subyacente": "xyz:SPCX",
-   "umbral": 138.18,
-   "vence": "2026-11-20T21:00:00+00:00",
-   "precio_entrada": 0.8397,
-   "importe": 50.01,
-   "contratos": 59.55133152798124,
-   "comision_entrada": 0.025002626542022923,
-   "abierta_en": "2026-11-20T09:31:55+00:00",
-   "motivo": "modelo 97% vs mercado 84%"
+   "titulo": "MU <= 593.16 (21-11 21:00 UTC)",
+   "subyacente": "xyz:MU",
+   "umbral": 593.16,
+   "vence": "2026-11-21T21:00:00+00:00",
+   "precio_entrada": 0.202,
+   "importe": 52.42,
+   "contratos": 259.494302113392,
+   "comision_entrada": 0.026208924513452594,
+   "abierta_en": "2026-11-20T23:54:59+00:00",
+   "motivo": "modelo 32% vs mercado 20%"
   }
  ],
  "cerradas": [
@@ -5061,11 +5063,68 @@
    "cerrada_en": "2026-11-20T17:57:56+00:00",
    "pnl": 189.1,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 251,
+   "outcome": 40887,
+   "lado_id": 1,
+   "titulo": "ANT <= 96.772 (20-11 21:00 UTC)",
+   "subyacente": "xyz:ANT",
+   "umbral": 96.772,
+   "vence": "2026-11-20T21:00:00+00:00",
+   "precio_entrada": 0.74934,
+   "importe": 49.03,
+   "contratos": 65.43247616911795,
+   "comision_entrada": 0.02451558584628342,
+   "abierta_en": "2026-11-20T08:30:24+00:00",
+   "motivo": "modelo 92% vs mercado 75%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-20T23:54:59+00:00",
+   "pnl": 16.38,
+   "razon_cierre": "liquidada (88.354 vs 96.772)"
+  },
+  {
+   "id": 252,
+   "outcome": 40890,
+   "lado_id": 1,
+   "titulo": "SP500 <= 7182.4 (20-11 21:00 UTC)",
+   "subyacente": "xyz:SP500",
+   "umbral": 7182.4,
+   "vence": "2026-11-20T21:00:00+00:00",
+   "precio_entrada": 0.6825,
+   "importe": 50.01,
+   "contratos": 73.27542038933328,
+   "comision_entrada": 0.025005237207859982,
+   "abierta_en": "2026-11-20T09:31:55+00:00",
+   "motivo": "modelo 82% vs mercado 68%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-20T23:54:59+00:00",
+   "pnl": 23.24,
+   "razon_cierre": "liquidada (6930.2 vs 7182.4)"
+  },
+  {
+   "id": 253,
+   "outcome": 40894,
+   "lado_id": 1,
+   "titulo": "SPCX <= 138.18 (20-11 21:00 UTC)",
+   "subyacente": "xyz:SPCX",
+   "umbral": 138.18,
+   "vence": "2026-11-20T21:00:00+00:00",
+   "precio_entrada": 0.8397,
+   "importe": 50.01,
+   "contratos": 59.55133152798124,
+   "comision_entrada": 0.025002626542022923,
+   "abierta_en": "2026-11-20T09:31:55+00:00",
+   "motivo": "modelo 97% vs mercado 84%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-20T23:54:59+00:00",
+   "pnl": 9.52,
+   "razon_cierre": "liquidada (128.08 vs 138.18)"
   }
  ],
- "comisiones_pagadas": 1605.8202796785602,
- "ultima_ejecucion": "2026-11-20T17:57:56+00:00",
- "ultimo_resumen": "2026-11-19",
+ "comisiones_pagadas": 1612.4465921756716,
+ "ultima_ejecucion": "2026-11-20T23:54:59+00:00",
+ "ultimo_resumen": "2026-11-20",
  "pausado": false,
  "historial_patrimonio": [
   [
@@ -8727,7 +8786,11 @@
   [
    "2026-11-20T17:57:56+00:00",
    10431.4
+  ],
+  [
+   "2026-11-20T23:54:59+00:00",
+   10480.69
   ]
  ],
- "siguiente_id": 256
+ "siguiente_id": 259
 }
