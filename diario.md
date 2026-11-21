@@ -2603,3 +2603,11 @@
 - Sin señal: ETH, xyz:CL, xyz:BRENTOIL
 
 - 2026-11-21 15:15 UTC · sin operaciones · patrimonio $10.467,25 (+4.67%)
+
+## 2026-11-21 20:55 UTC · patrimonio $10.332,70 (+3.33%)
+
+- Cerrado short xyz:GOLD a 3577.23 (stop-loss): -$115,03
+- Abierto long xyz:NATGAS 3x $9.952,51 a 3.7872 (stop 3.7623, obj. 3.8369)
+- Abiertas: short xyz:META, short xyz:PLTR, short xyz:NVDA, short xyz:KR200, long xyz:NATGAS, MU <= 593.16 (21-11 21:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
