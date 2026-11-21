@@ -2602,3 +2602,4 @@
 - Abiertas: short xyz:META, short xyz:PLTR, short xyz:GOLD, short xyz:NVDA, short xyz:KR200, MU <= 593.16 (21-11 21:00 UTC)
 - Sin señal: ETH, xyz:CL, xyz:BRENTOIL
 
+- 2026-11-21 15:15 UTC · sin operaciones · patrimonio $10.467,25 (+4.67%)
