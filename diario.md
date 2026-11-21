@@ -2593,3 +2593,12 @@
 - Abiertas: short xyz:META, short xyz:PLTR, short xyz:GOLD, short xyz:MSTR, MU <= 593.16 (21-11 21:00 UTC)
 - Sin señal: ETH, BNB, xyz:NVDA, xyz:XYZ100, xyz:JPY, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-11-21 06:53 UTC · patrimonio $10.760,27 (+7.60%)
+
+- Cerrado short xyz:MSTR a 73.7574 (objetivo): +$206,68
+- Abierto short xyz:NVDA 3x $4.138,03 a 129.485 (stop 132.8537, obj. 122.7476)
+- Abierto short xyz:KR200 3x $6.309,35 a 711.94 (stop 724.0853, obj. 687.6493)
+- Abiertas: short xyz:META, short xyz:PLTR, short xyz:GOLD, short xyz:NVDA, short xyz:KR200, MU <= 593.16 (21-11 21:00 UTC)
+- Sin señal: ETH, xyz:CL, xyz:BRENTOIL
+
