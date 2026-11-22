@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 34.62644596771452,
+ "efectivo": 516.3851657895166,
  "posiciones": [
   {
    "id": 254,
@@ -15,7 +15,7 @@
    "objetivo": 549.9729459236924,
    "comision_entrada": 2.9505474827512406,
    "abierta_en": "2026-11-20T17:57:56+00:00",
-   "revisada_hasta": 1795334400000,
+   "revisada_hasta": 1795363800000,
    "motivo": "tendencia short con momento (fuerza 1.9 ATR)"
   },
   {
@@ -31,56 +31,24 @@
    "objetivo": 140.27502179437965,
    "comision_entrada": 2.3560303629154147,
    "abierta_en": "2026-11-20T17:57:56+00:00",
-   "revisada_hasta": 1795333800000,
+   "revisada_hasta": 1795363200000,
    "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
   },
   {
-   "id": 259,
-   "simbolo": "xyz:NVDA",
-   "mercado": "accion",
+   "id": 263,
+   "simbolo": "xyz:JPY",
+   "mercado": "forex",
    "lado": "short",
-   "precio_entrada": 129.485,
-   "nocional": 4138.03,
+   "precio_entrada": 158.225,
+   "nocional": 18018.39,
    "apalancamiento": 3,
-   "margen": 1379.34,
-   "stop": 132.85367926717154,
-   "objetivo": 122.74764146565695,
-   "comision_entrada": 2.0690162694142367,
-   "abierta_en": "2026-11-21T06:53:43+00:00",
-   "revisada_hasta": 1795334400000,
-   "motivo": "tendencia short con momento (fuerza 3.1 ATR)"
-  },
-  {
-   "id": 260,
-   "simbolo": "xyz:KR200",
-   "mercado": "indice",
-   "lado": "short",
-   "precio_entrada": 711.94,
-   "nocional": 6309.35,
-   "apalancamiento": 3,
-   "margen": 2103.12,
-   "stop": 724.0853281537471,
-   "objetivo": 687.6493436925059,
-   "comision_entrada": 3.154674864475177,
-   "abierta_en": "2026-11-21T06:53:43+00:00",
-   "revisada_hasta": 1795334100000,
-   "motivo": "tendencia short con momento (fuerza 2.7 ATR)"
-  },
-  {
-   "id": 262,
-   "simbolo": "xyz:AMD",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 438.425,
-   "nocional": 9996.7,
-   "apalancamiento": 3,
-   "margen": 3332.23,
-   "stop": 442.4653582422962,
-   "objetivo": 430.3442835154077,
-   "comision_entrada": 4.998350262603357,
-   "abierta_en": "2026-11-22T08:03:30+00:00",
-   "revisada_hasta": 1795334610000,
-   "motivo": "tendencia short con momento (fuerza 3.3 ATR)"
+   "margen": 6006.13,
+   "stop": 158.54145,
+   "objetivo": 157.5921,
+   "comision_entrada": 9.009197084733449,
+   "abierta_en": "2026-11-22T16:10:19+00:00",
+   "revisada_hasta": 1795363819000,
+   "motivo": "tendencia short con momento (fuerza 1.1 ATR)"
   }
  ],
  "predicciones": [],
@@ -5199,10 +5167,70 @@
    "cerrada_en": "2026-11-22T08:03:30+00:00",
    "pnl": -75.31,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 259,
+   "simbolo": "xyz:NVDA",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 129.485,
+   "nocional": 4138.03,
+   "apalancamiento": 3,
+   "margen": 1379.34,
+   "stop": 132.85367926717154,
+   "objetivo": 122.74764146565695,
+   "comision_entrada": 2.0690162694142367,
+   "abierta_en": "2026-11-21T06:53:43+00:00",
+   "revisada_hasta": 1795363800000,
+   "motivo": "tendencia short con momento (fuerza 3.1 ATR)",
+   "precio_salida": 132.85367926717154,
+   "cerrada_en": "2026-11-22T16:10:19+00:00",
+   "pnl": -111.85,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 260,
+   "simbolo": "xyz:KR200",
+   "mercado": "indice",
+   "lado": "short",
+   "precio_entrada": 711.94,
+   "nocional": 6309.35,
+   "apalancamiento": 3,
+   "margen": 2103.12,
+   "stop": 724.0853281537471,
+   "objetivo": 687.6493436925059,
+   "comision_entrada": 3.154674864475177,
+   "abierta_en": "2026-11-21T06:53:43+00:00",
+   "revisada_hasta": 1795363500000,
+   "motivo": "tendencia short con momento (fuerza 2.7 ATR)",
+   "precio_salida": 724.0853281537471,
+   "cerrada_en": "2026-11-22T16:10:19+00:00",
+   "pnl": -114.0,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 262,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 438.425,
+   "nocional": 9996.7,
+   "apalancamiento": 3,
+   "margen": 3332.23,
+   "stop": 442.4653582422962,
+   "objetivo": 430.3442835154077,
+   "comision_entrada": 4.998350262603357,
+   "abierta_en": "2026-11-22T08:03:30+00:00",
+   "revisada_hasta": 1795363800000,
+   "motivo": "tendencia short con momento (fuerza 3.3 ATR)",
+   "precio_salida": 442.4653582422962,
+   "cerrada_en": "2026-11-22T16:10:19+00:00",
+   "pnl": -102.17,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1639.136149734252,
- "ultima_ejecucion": "2026-11-22T08:03:30+00:00",
+ "comisiones_pagadas": 1658.5210942918845,
+ "ultima_ejecucion": "2026-11-22T16:10:19+00:00",
  "ultimo_resumen": "2026-11-20",
  "pausado": false,
  "historial_patrimonio": [
@@ -8889,7 +8917,11 @@
   [
    "2026-11-22T08:03:30+00:00",
    10347.41
+  ],
+  [
+   "2026-11-22T16:10:19+00:00",
+   10001.21
   ]
  ],
- "siguiente_id": 263
+ "siguiente_id": 264
 }

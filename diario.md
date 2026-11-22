@@ -2626,3 +2626,13 @@
 - Abiertas: short xyz:META, short xyz:PLTR, short xyz:NVDA, short xyz:KR200, short xyz:AMD
 - Sin señal: TRUMP, xyz:MSFT, xyz:GOOGL, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-22 16:10 UTC · patrimonio $10.001,21 (+0.01%)
+
+- Cerrado short xyz:NVDA a 132.8537 (stop-loss): -$111,85
+- Cerrado short xyz:KR200 a 724.0853 (stop-loss): -$114,00
+- Cerrado short xyz:AMD a 442.4654 (stop-loss): -$102,17
+- Abierto short xyz:JPY 3x $18.018,39 a 158.225 (stop 158.5414, obj. 157.5921)
+- Abiertas: short xyz:META, short xyz:PLTR, short xyz:JPY
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
