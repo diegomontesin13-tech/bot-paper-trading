@@ -2611,3 +2611,10 @@
 - Abiertas: short xyz:META, short xyz:PLTR, short xyz:NVDA, short xyz:KR200, long xyz:NATGAS, MU <= 593.16 (21-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:COPPER
 
+
+## 2026-11-22 01:07 UTC · patrimonio $10.325,45 (+3.25%)
+
+- Predicción MU <= 593.16 (21-11 21:00 UTC): perdida -$52,45
+- Abiertas: short xyz:META, short xyz:PLTR, short xyz:NVDA, short xyz:KR200, long xyz:NATGAS
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, PENGU, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JPY, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:COPPER
+
