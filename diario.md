@@ -2636,3 +2636,12 @@
 - Abiertas: short xyz:META, short xyz:PLTR, short xyz:JPY
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-22 21:51 UTC · patrimonio $9.945,70 (-0.54%)
+
+- Cerrado short xyz:META a 574.735 (más de 48 h abierta): -$53,48
+- Cerrado short xyz:PLTR a 148.315 (tendencia rota): -$54,18
+- Abierto short xyz:SILVER 3x $11.836,46 a 41.5015 (stop 41.7505, obj. 41.0035)
+- Abiertas: short xyz:JPY, short xyz:SILVER
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+

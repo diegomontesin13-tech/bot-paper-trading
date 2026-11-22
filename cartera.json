@@ -1,39 +1,7 @@
 {
  "capital_inicial": 10000,
- "efectivo": 516.3851657895166,
+ "efectivo": 0.3450741717610981,
  "posiciones": [
-  {
-   "id": 254,
-   "simbolo": "xyz:META",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 570.14,
-   "nocional": 5901.09,
-   "apalancamiento": 3,
-   "margen": 1967.03,
-   "stop": 580.2235270381539,
-   "objetivo": 549.9729459236924,
-   "comision_entrada": 2.9505474827512406,
-   "abierta_en": "2026-11-20T17:57:56+00:00",
-   "revisada_hasta": 1795363800000,
-   "motivo": "tendencia short con momento (fuerza 1.9 ATR)"
-  },
-  {
-   "id": 255,
-   "simbolo": "xyz:PLTR",
-   "mercado": "accion",
-   "lado": "short",
-   "precio_entrada": 146.775,
-   "nocional": 4712.06,
-   "apalancamiento": 3,
-   "margen": 1570.69,
-   "stop": 150.02498910281017,
-   "objetivo": 140.27502179437965,
-   "comision_entrada": 2.3560303629154147,
-   "abierta_en": "2026-11-20T17:57:56+00:00",
-   "revisada_hasta": 1795363200000,
-   "motivo": "tendencia short con momento (fuerza 1.6 ATR)"
-  },
   {
    "id": 263,
    "simbolo": "xyz:JPY",
@@ -47,8 +15,24 @@
    "objetivo": 157.5921,
    "comision_entrada": 9.009197084733449,
    "abierta_en": "2026-11-22T16:10:19+00:00",
-   "revisada_hasta": 1795363819000,
+   "revisada_hasta": 1795383900000,
    "motivo": "tendencia short con momento (fuerza 1.1 ATR)"
+  },
+  {
+   "id": 264,
+   "simbolo": "xyz:SILVER",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 41.5015,
+   "nocional": 11836.46,
+   "apalancamiento": 3,
+   "margen": 3945.49,
+   "stop": 41.750509,
+   "objetivo": 41.003482,
+   "comision_entrada": 5.918230931733797,
+   "abierta_en": "2026-11-22T21:51:15+00:00",
+   "revisada_hasta": 1795384275000,
+   "motivo": "tendencia short con momento (fuerza 1.3 ATR)"
   }
  ],
  "predicciones": [],
@@ -5227,11 +5211,51 @@
    "cerrada_en": "2026-11-22T16:10:19+00:00",
    "pnl": -102.17,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 254,
+   "simbolo": "xyz:META",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 570.14,
+   "nocional": 5901.09,
+   "apalancamiento": 3,
+   "margen": 1967.03,
+   "stop": 580.2235270381539,
+   "objetivo": 549.9729459236924,
+   "comision_entrada": 2.9505474827512406,
+   "abierta_en": "2026-11-20T17:57:56+00:00",
+   "revisada_hasta": 1795384200000,
+   "motivo": "tendencia short con momento (fuerza 1.9 ATR)",
+   "precio_salida": 574.735,
+   "cerrada_en": "2026-11-22T21:51:15+00:00",
+   "pnl": -53.48,
+   "razon_cierre": "más de 48 h abierta"
+  },
+  {
+   "id": 255,
+   "simbolo": "xyz:PLTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 146.775,
+   "nocional": 4712.06,
+   "apalancamiento": 3,
+   "margen": 1570.69,
+   "stop": 150.02498910281017,
+   "objetivo": 140.27502179437965,
+   "comision_entrada": 2.3560303629154147,
+   "abierta_en": "2026-11-20T17:57:56+00:00",
+   "revisada_hasta": 1795384200000,
+   "motivo": "tendencia short con momento (fuerza 1.6 ATR)",
+   "precio_salida": 148.315,
+   "cerrada_en": "2026-11-22T21:51:15+00:00",
+   "pnl": -54.18,
+   "razon_cierre": "tendencia rota"
   }
  ],
- "comisiones_pagadas": 1658.5210942918845,
- "ultima_ejecucion": "2026-11-22T16:10:19+00:00",
- "ultimo_resumen": "2026-11-20",
+ "comisiones_pagadas": 1669.7943999726756,
+ "ultima_ejecucion": "2026-11-22T21:51:15+00:00",
+ "ultimo_resumen": "2026-11-22",
  "pausado": false,
  "historial_patrimonio": [
   [
@@ -8921,7 +8945,11 @@
   [
    "2026-11-22T16:10:19+00:00",
    10001.21
+  ],
+  [
+   "2026-11-22T21:51:15+00:00",
+   9945.7
   ]
  ],
- "siguiente_id": 264
+ "siguiente_id": 265
 }
