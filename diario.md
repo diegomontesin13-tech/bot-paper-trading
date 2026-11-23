@@ -2645,3 +2645,13 @@
 - Abiertas: short xyz:JPY, short xyz:SILVER
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:EUR, xyz:JPY, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-23 02:01 UTC · patrimonio $9.826,65 (-1.73%)
+
+- Cerrado short xyz:JPY a 158.5414 (stop-loss): -$54,07
+- Cerrado short xyz:SILVER a 41.7505 (stop-loss): -$82,89
+- Abierto short PENGU 1x $3.276,64 a 0.004238 (stop 0.00436514, obj. 0.00398372)
+- Abierto short kPEPE 1x $3.276,10 a 0.00335 (stop 0.0034505, obj. 0.003149)
+- Abiertas: short PENGU, short kPEPE
+- Sin señal: BTC, ETH, SOL, HYPE, BNB, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:NATGAS, xyz:COPPER
+
