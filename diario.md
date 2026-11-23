@@ -2655,3 +2655,13 @@
 - Abiertas: short PENGU, short kPEPE
 - Sin señal: BTC, ETH, SOL, HYPE, BNB, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-23 10:37 UTC · patrimonio $9.625,60 (-3.74%)
+
+- Cerrado short PENGU a 0.00436514 (stop-loss): -$101,62
+- Cerrado short kPEPE a 0.0034505 (stop-loss): -$101,61
+- Apuesta SILVER > 41.496 (23-11 22:00 UTC) $48,13 a 76% (modelo 89%)
+- Apuesta NVDA > 132.97 (23-11 21:00 UTC) $48,13 a 66% (modelo 76%)
+- Abiertas: SILVER > 41.496 (23-11 22:00 UTC), NVDA > 132.97 (23-11 21:00 UTC)
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+

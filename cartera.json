@@ -1,41 +1,39 @@
 {
  "capital_inicial": 10000,
- "efectivo": 3273.9135517695977,
- "posiciones": [
+ "efectivo": 9530.382818219246,
+ "posiciones": [],
+ "predicciones": [
   {
-   "id": 265,
-   "simbolo": "PENGU",
-   "mercado": "memecoin",
-   "lado": "short",
-   "precio_entrada": 0.004238,
-   "nocional": 3276.64,
-   "apalancamiento": 1,
-   "margen": 3276.64,
-   "stop": 0.00436514,
-   "objetivo": 0.00398372,
-   "comision_entrada": 1.6383214302336269,
-   "abierta_en": "2026-11-23T02:01:30+00:00",
-   "revisada_hasta": 1795399290000,
-   "motivo": "tendencia short con momento (fuerza 0.9 ATR)"
+   "id": 267,
+   "outcome": 44239,
+   "lado_id": 0,
+   "titulo": "SILVER > 41.496 (23-11 22:00 UTC)",
+   "subyacente": "xyz:SILVER",
+   "umbral": 41.496,
+   "vence": "2026-11-23T22:00:00+00:00",
+   "precio_entrada": 0.76201,
+   "importe": 48.13,
+   "contratos": 63.16647216355165,
+   "comision_entrada": 0.024066741726673998,
+   "abierta_en": "2026-11-23T10:37:51+00:00",
+   "motivo": "modelo 89% vs mercado 76%"
   },
   {
-   "id": 266,
-   "simbolo": "kPEPE",
-   "mercado": "memecoin",
-   "lado": "short",
-   "precio_entrada": 0.00335,
-   "nocional": 3276.1,
-   "apalancamiento": 1,
-   "margen": 3276.1,
-   "stop": 0.0034505,
-   "objetivo": 0.003149,
-   "comision_entrada": 1.6380478999173789,
-   "abierta_en": "2026-11-23T02:01:30+00:00",
-   "revisada_hasta": 1795399290000,
-   "motivo": "tendencia short con momento (fuerza 0.8 ATR)"
+   "id": 268,
+   "outcome": 44186,
+   "lado_id": 0,
+   "titulo": "NVDA > 132.97 (23-11 21:00 UTC)",
+   "subyacente": "xyz:NVDA",
+   "umbral": 132.97,
+   "vence": "2026-11-23T21:00:00+00:00",
+   "precio_entrada": 0.65939,
+   "importe": 48.13,
+   "contratos": 72.99512599101396,
+   "comision_entrada": 0.024066128063607348,
+   "abierta_en": "2026-11-23T10:37:51+00:00",
+   "motivo": "modelo 76% vs mercado 66%"
   }
  ],
- "predicciones": [],
  "cerradas": [
   {
    "id": 2,
@@ -5291,10 +5289,50 @@
    "cerrada_en": "2026-11-23T02:01:30+00:00",
    "pnl": -82.89,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 265,
+   "simbolo": "PENGU",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.004238,
+   "nocional": 3276.64,
+   "apalancamiento": 1,
+   "margen": 3276.64,
+   "stop": 0.00436514,
+   "objetivo": 0.00398372,
+   "comision_entrada": 1.6383214302336269,
+   "abierta_en": "2026-11-23T02:01:30+00:00",
+   "revisada_hasta": 1795430100000,
+   "motivo": "tendencia short con momento (fuerza 0.9 ATR)",
+   "precio_salida": 0.00436514,
+   "cerrada_en": "2026-11-23T10:37:51+00:00",
+   "pnl": -101.62,
+   "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 266,
+   "simbolo": "kPEPE",
+   "mercado": "memecoin",
+   "lado": "short",
+   "precio_entrada": 0.00335,
+   "nocional": 3276.1,
+   "apalancamiento": 1,
+   "margen": 3276.1,
+   "stop": 0.0034505,
+   "objetivo": 0.003149,
+   "comision_entrada": 1.6380478999173789,
+   "abierta_en": "2026-11-23T02:01:30+00:00",
+   "revisada_hasta": 1795430100000,
+   "motivo": "tendencia short con momento (fuerza 0.8 ATR)",
+   "precio_salida": 0.0034505,
+   "cerrada_en": "2026-11-23T10:37:51+00:00",
+   "pnl": -101.61,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1688.0517220728266,
- "ultima_ejecucion": "2026-11-23T02:01:30+00:00",
+ "comisiones_pagadas": 1691.4745160426169,
+ "ultima_ejecucion": "2026-11-23T10:37:51+00:00",
  "ultimo_resumen": "2026-11-22",
  "pausado": false,
  "historial_patrimonio": [
@@ -8993,7 +9031,11 @@
   [
    "2026-11-23T02:01:30+00:00",
    9826.65
+  ],
+  [
+   "2026-11-23T10:37:51+00:00",
+   9625.6
   ]
  ],
- "siguiente_id": 267
+ "siguiente_id": 269
 }
