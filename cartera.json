@@ -1,39 +1,41 @@
 {
  "capital_inicial": 10000,
- "efectivo": 9530.382818219246,
- "posiciones": [],
- "predicciones": [
+ "efectivo": 1599.3950991327329,
+ "posiciones": [
   {
-   "id": 267,
-   "outcome": 44239,
-   "lado_id": 0,
-   "titulo": "SILVER > 41.496 (23-11 22:00 UTC)",
-   "subyacente": "xyz:SILVER",
-   "umbral": 41.496,
-   "vence": "2026-11-23T22:00:00+00:00",
-   "precio_entrada": 0.76201,
-   "importe": 48.13,
-   "contratos": 63.16647216355165,
-   "comision_entrada": 0.024066741726673998,
-   "abierta_en": "2026-11-23T10:37:51+00:00",
-   "motivo": "modelo 89% vs mercado 76%"
+   "id": 269,
+   "simbolo": "xyz:NATGAS",
+   "mercado": "materia_prima",
+   "lado": "short",
+   "precio_entrada": 3.5361,
+   "nocional": 6771.52,
+   "apalancamiento": 3,
+   "margen": 2257.17,
+   "stop": 3.5865788592531485,
+   "objetivo": 3.4351422814937025,
+   "comision_entrada": 3.385760714135721,
+   "abierta_en": "2026-11-23T22:15:32+00:00",
+   "revisada_hasta": 1795472132000,
+   "motivo": "tendencia short con momento (fuerza 2.0 ATR)"
   },
   {
-   "id": 268,
-   "outcome": 44186,
-   "lado_id": 0,
-   "titulo": "NVDA > 132.97 (23-11 21:00 UTC)",
-   "subyacente": "xyz:NVDA",
-   "umbral": 132.97,
-   "vence": "2026-11-23T21:00:00+00:00",
-   "precio_entrada": 0.65939,
-   "importe": 48.13,
-   "contratos": 72.99512599101396,
-   "comision_entrada": 0.024066128063607348,
-   "abierta_en": "2026-11-23T10:37:51+00:00",
-   "motivo": "modelo 76% vs mercado 66%"
+   "id": 270,
+   "simbolo": "xyz:EUR",
+   "mercado": "forex",
+   "lado": "short",
+   "precio_entrada": 1.09035,
+   "nocional": 17393.68,
+   "apalancamiento": 3,
+   "margen": 5797.89,
+   "stop": 1.0925307,
+   "objetivo": 1.0859885999999999,
+   "comision_entrada": 8.696839361612277,
+   "abierta_en": "2026-11-23T22:15:32+00:00",
+   "revisada_hasta": 1795472132000,
+   "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
   }
  ],
+ "predicciones": [],
  "cerradas": [
   {
    "id": 2,
@@ -5329,11 +5331,49 @@
    "cerrada_en": "2026-11-23T10:37:51+00:00",
    "pnl": -101.61,
    "razon_cierre": "stop-loss"
+  },
+  {
+   "id": 267,
+   "outcome": 44239,
+   "lado_id": 0,
+   "titulo": "SILVER > 41.496 (23-11 22:00 UTC)",
+   "subyacente": "xyz:SILVER",
+   "umbral": 41.496,
+   "vence": "2026-11-23T22:00:00+00:00",
+   "precio_entrada": 0.76201,
+   "importe": 48.13,
+   "contratos": 63.16647216355165,
+   "comision_entrada": 0.024066741726673998,
+   "abierta_en": "2026-11-23T10:37:51+00:00",
+   "motivo": "modelo 89% vs mercado 76%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-23T22:15:32+00:00",
+   "pnl": 15.01,
+   "razon_cierre": "liquidada (43.17 vs 41.496)"
+  },
+  {
+   "id": 268,
+   "outcome": 44186,
+   "lado_id": 0,
+   "titulo": "NVDA > 132.97 (23-11 21:00 UTC)",
+   "subyacente": "xyz:NVDA",
+   "umbral": 132.97,
+   "vence": "2026-11-23T21:00:00+00:00",
+   "precio_entrada": 0.65939,
+   "importe": 48.13,
+   "contratos": 72.99512599101396,
+   "comision_entrada": 0.024066128063607348,
+   "abierta_en": "2026-11-23T10:37:51+00:00",
+   "motivo": "modelo 76% vs mercado 66%",
+   "precio_salida": 1.0,
+   "cerrada_en": "2026-11-23T22:15:32+00:00",
+   "pnl": 24.84,
+   "razon_cierre": "liquidada (165.11 vs 132.97)"
   }
  ],
- "comisiones_pagadas": 1691.4745160426169,
- "ultima_ejecucion": "2026-11-23T10:37:51+00:00",
- "ultimo_resumen": "2026-11-22",
+ "comisiones_pagadas": 1703.557116118365,
+ "ultima_ejecucion": "2026-11-23T22:15:32+00:00",
+ "ultimo_resumen": "2026-11-23",
  "pausado": false,
  "historial_patrimonio": [
   [
@@ -9035,7 +9075,11 @@
   [
    "2026-11-23T10:37:51+00:00",
    9625.6
+  ],
+  [
+   "2026-11-23T22:15:32+00:00",
+   9654.46
   ]
  ],
- "siguiente_id": 269
+ "siguiente_id": 271
 }

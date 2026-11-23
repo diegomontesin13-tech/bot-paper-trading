@@ -2665,3 +2665,13 @@
 - Abiertas: SILVER > 41.496 (23-11 22:00 UTC), NVDA > 132.97 (23-11 21:00 UTC)
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-23 22:15 UTC · patrimonio $9.654,46 (-3.46%)
+
+- Predicción SILVER > 41.496 (23-11 22:00 UTC): GANADA +$15,01
+- Predicción NVDA > 132.97 (23-11 21:00 UTC): GANADA +$24,84
+- Abierto short xyz:NATGAS 3x $6.771,52 a 3.5361 (stop 3.5866, obj. 3.4351)
+- Abierto short xyz:EUR 3x $17.393,68 a 1.0903 (stop 1.0925, obj. 1.086)
+- Abiertas: short xyz:NATGAS, short xyz:EUR
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
