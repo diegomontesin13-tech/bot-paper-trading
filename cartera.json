@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 1599.3950991327329,
+ "efectivo": 42.27653397491815,
  "posiciones": [
   {
    "id": 269,
@@ -15,7 +15,7 @@
    "objetivo": 3.4351422814937025,
    "comision_entrada": 3.385760714135721,
    "abierta_en": "2026-11-23T22:15:32+00:00",
-   "revisada_hasta": 1795472132000,
+   "revisada_hasta": 1795500300000,
    "motivo": "tendencia short con momento (fuerza 2.0 ATR)"
   },
   {
@@ -31,8 +31,40 @@
    "objetivo": 1.0859885999999999,
    "comision_entrada": 8.696839361612277,
    "abierta_en": "2026-11-23T22:15:32+00:00",
-   "revisada_hasta": 1795472132000,
+   "revisada_hasta": 1795500000000,
    "motivo": "tendencia short con momento (fuerza 1.7 ATR)"
+  },
+  {
+   "id": 271,
+   "simbolo": "xyz:NVDA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 163.3,
+   "nocional": 3736.81,
+   "apalancamiento": 3,
+   "margen": 1245.6,
+   "stop": 159.09963897281656,
+   "objetivo": 171.70072205436693,
+   "comision_entrada": 1.868404463397384,
+   "abierta_en": "2026-11-24T06:06:24+00:00",
+   "revisada_hasta": 1795500384000,
+   "motivo": "tendencia long con momento (fuerza 3.5 ATR)"
+  },
+  {
+   "id": 272,
+   "simbolo": "xyz:TSLA",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 386.625,
+   "nocional": 927.55,
+   "apalancamiento": 3,
+   "margen": 309.18,
+   "stop": 381.9493394941465,
+   "objetivo": 395.976321011707,
+   "comision_entrada": 0.4637751149717842,
+   "abierta_en": "2026-11-24T06:06:24+00:00",
+   "revisada_hasta": 1795500384000,
+   "motivo": "tendencia long con momento (fuerza 2.9 ATR)"
   }
  ],
  "predicciones": [],
@@ -5371,8 +5403,8 @@
    "razon_cierre": "liquidada (165.11 vs 132.97)"
   }
  ],
- "comisiones_pagadas": 1703.557116118365,
- "ultima_ejecucion": "2026-11-23T22:15:32+00:00",
+ "comisiones_pagadas": 1705.8892956967343,
+ "ultima_ejecucion": "2026-11-24T06:06:24+00:00",
  "ultimo_resumen": "2026-11-23",
  "pausado": false,
  "historial_patrimonio": [
@@ -9079,7 +9111,11 @@
   [
    "2026-11-23T22:15:32+00:00",
    9654.46
+  ],
+  [
+   "2026-11-24T06:06:24+00:00",
+   9609.39
   ]
  ],
- "siguiente_id": 271
+ "siguiente_id": 273
 }

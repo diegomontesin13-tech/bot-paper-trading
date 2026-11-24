@@ -2675,3 +2675,11 @@
 - Abiertas: short xyz:NATGAS, short xyz:EUR
 - Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:META, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
 
+
+## 2026-11-24 06:06 UTC · patrimonio $9.609,39 (-3.91%)
+
+- Abierto long xyz:NVDA 3x $3.736,81 a 163.3 (stop 159.0996, obj. 171.7007)
+- Abierto long xyz:TSLA 3x $927,55 a 386.625 (stop 381.9493, obj. 395.9763)
+- Abiertas: short xyz:NATGAS, short xyz:EUR, long xyz:NVDA, long xyz:TSLA
+- Sin señal: BTC, ETH, SOL, HYPE, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
+
