@@ -2683,3 +2683,15 @@
 - Abiertas: short xyz:NATGAS, short xyz:EUR, long xyz:NVDA, long xyz:TSLA
 - Sin señal: BTC, ETH, SOL, HYPE, BNB, DOGE, kPEPE, kSHIB, kBONK, WIF, PENGU, FARTCOIN, xyz:AAPL, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
+
+## 2026-11-24 17:32 UTC · patrimonio $9.394,94 (-6.05%)
+
+- Cerrado short xyz:NATGAS a 3.5866 (stop-loss): -$103,49
+- Cerrado short xyz:EUR a 1.0925 (stop-loss): -$52,20
+- Cerrado long xyz:NVDA a 159.0996 (stop-loss): -$99,81
+- Cerrado long xyz:TSLA a 381.9493 (stop-loss): -$12,14
+- Abierto short TRUMP 1x $3.132,97 a 0.82767 (stop 0.8525001, obj. 0.7780098)
+- Abierto long xyz:PLTR 3x $4.807,28 a 162.145 (stop 158.9754, obj. 168.4843)
+- Abiertas: short TRUMP, long xyz:PLTR
+- Sin señal: xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
