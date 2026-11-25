@@ -2713,3 +2713,15 @@
 - Abiertas: short TRUMP, short xyz:MSTR, short xyz:COIN, short xyz:SILVER
 - Sin señal: HYPE, kPEPE, xyz:NVDA, xyz:TSLA, xyz:AAPL, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:SP500, xyz:JP225, xyz:KR200, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-25 19:58 UTC · patrimonio $9.933,98 (-0.66%)
+
+- Cerrado short TRUMP a 0.8525001 (stop-loss): -$97,17
+- Cerrado short xyz:MSTR a 73.3726 (objetivo): +$182,96
+- Cerrado short xyz:COIN a 97.2603 (objetivo): +$185,19
+- Cerrado short xyz:SILVER a 39.0723 (objetivo): +$184,50
+- Abierto short xyz:AMZN 3x $6.211,86 a 245.755 (stop 249.6872, obj. 237.8905)
+- Abierto long xyz:PLTR 3x $4.635,29 a 163.7 (stop 160.1909, obj. 170.7182)
+- Abiertas: short xyz:AMZN, long xyz:PLTR
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:CL, xyz:BRENTOIL, xyz:NATGAS, xyz:COPPER
+
