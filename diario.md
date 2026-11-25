@@ -2695,3 +2695,11 @@
 - Abiertas: short TRUMP, long xyz:PLTR
 - Sin señal: xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:META, xyz:GOOGL, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
 
+
+## 2026-11-25 01:32 UTC · patrimonio $9.333,63 (-6.66%)
+
+- Abierto short xyz:MSTR 3x $3.875,53 a 77.087 (stop 78.9442, obj. 73.3726)
+- Abierto short xyz:AMD 3x $3.061,85 a 412.36 (stop 424.9323, obj. 387.2154)
+- Abiertas: short TRUMP, long xyz:PLTR, short xyz:MSTR, short xyz:AMD
+- Sin señal: HYPE, kPEPE, xyz:NVDA, xyz:META, xyz:GOOGL, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:KR200, xyz:EUR, xyz:GOLD, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+

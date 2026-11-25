@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 4659.536795758601,
+ "efectivo": 2343.607261745893,
  "posiciones": [
   {
    "id": 273,
@@ -15,7 +15,7 @@
    "objetivo": 0.7780098,
    "comision_entrada": 1.5664837138563514,
    "abierta_en": "2026-11-24T17:32:38+00:00",
-   "revisada_hasta": 1795541558000,
+   "revisada_hasta": 1795570200000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   },
   {
@@ -31,8 +31,40 @@
    "objetivo": 168.4842613916321,
    "comision_entrada": 2.403641901077805,
    "abierta_en": "2026-11-24T17:32:38+00:00",
-   "revisada_hasta": 1795541558000,
+   "revisada_hasta": 1795570200000,
    "motivo": "tendencia long con momento (fuerza 1.3 ATR)"
+  },
+  {
+   "id": 275,
+   "simbolo": "xyz:MSTR",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 77.087,
+   "nocional": 3875.53,
+   "apalancamiento": 3,
+   "margen": 1291.84,
+   "stop": 78.9442131444564,
+   "objetivo": 73.37257371108721,
+   "comision_entrada": 1.9377657602990044,
+   "abierta_en": "2026-11-25T01:32:01+00:00",
+   "revisada_hasta": 1795570321000,
+   "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
+  },
+  {
+   "id": 276,
+   "simbolo": "xyz:AMD",
+   "mercado": "accion",
+   "lado": "short",
+   "precio_entrada": 412.36,
+   "nocional": 3061.85,
+   "apalancamiento": 3,
+   "margen": 1020.62,
+   "stop": 424.9322797467369,
+   "objetivo": 387.2154405065262,
+   "comision_entrada": 1.5309255038238736,
+   "abierta_en": "2026-11-25T01:32:01+00:00",
+   "revisada_hasta": 1795570321000,
+   "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   }
  ],
  "predicciones": [],
@@ -5451,8 +5483,8 @@
    "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1724.2862603895637,
- "ultima_ejecucion": "2026-11-24T17:32:38+00:00",
+ "comisiones_pagadas": 1727.7549516536867,
+ "ultima_ejecucion": "2026-11-25T01:32:01+00:00",
  "ultimo_resumen": "2026-11-23",
  "pausado": false,
  "historial_patrimonio": [
@@ -9167,7 +9199,11 @@
   [
    "2026-11-24T17:32:38+00:00",
    9394.94
+  ],
+  [
+   "2026-11-25T01:32:01+00:00",
+   9333.63
   ]
  ],
- "siguiente_id": 275
+ "siguiente_id": 277
 }
