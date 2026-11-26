@@ -2742,3 +2742,4 @@
 - Abiertas: short xyz:AMZN, long xyz:PLTR, long xyz:META, long xyz:CL, long xyz:BRENTOIL
 - Sin señal: BTC, ETH, SOL, HYPE, BNB, kSHIB, WIF, TRUMP, xyz:NVDA, xyz:MSFT, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:KR200, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
+- 2026-11-26 20:28 UTC · sin operaciones · patrimonio $9.834,50 (-1.66%)
