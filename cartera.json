@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 216.06705618675232,
+ "efectivo": 26.156519337580903,
  "posiciones": [
   {
    "id": 279,
@@ -15,7 +15,7 @@
    "objetivo": 237.89050551500662,
    "comision_entrada": 3.1059282982208085,
    "abierta_en": "2026-11-25T19:58:57+00:00",
-   "revisada_hasta": 1795660800000,
+   "revisada_hasta": 1795692600000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   },
   {
@@ -31,24 +31,8 @@
    "objetivo": 170.71820778888244,
    "comision_entrada": 2.317643585439799,
    "abierta_en": "2026-11-25T19:58:57+00:00",
-   "revisada_hasta": 1795660800000,
+   "revisada_hasta": 1795692600000,
    "motivo": "tendencia long con momento (fuerza 0.4 ATR)"
-  },
-  {
-   "id": 281,
-   "simbolo": "xyz:BRENTOIL",
-   "mercado": "materia_prima",
-   "lado": "long",
-   "precio_entrada": 90.6655,
-   "nocional": 11238.58,
-   "apalancamiento": 3,
-   "margen": 3746.19,
-   "stop": 89.86229378748358,
-   "objetivo": 92.27191242503281,
-   "comision_entrada": 5.619289412921804,
-   "abierta_en": "2026-11-26T02:44:20+00:00",
-   "revisada_hasta": 1795661060000,
-   "motivo": "tendencia long con momento (fuerza 1.6 ATR)"
   },
   {
    "id": 282,
@@ -63,8 +47,40 @@
    "objetivo": 632.0960399145704,
    "comision_entrada": 3.5202833324957923,
    "abierta_en": "2026-11-26T02:44:20+00:00",
-   "revisada_hasta": 1795661060000,
+   "revisada_hasta": 1795692600000,
    "motivo": "tendencia long con momento (fuerza 1.1 ATR)"
+  },
+  {
+   "id": 283,
+   "simbolo": "xyz:CL",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 84.489,
+   "nocional": 9589.26,
+   "apalancamiento": 3,
+   "margen": 3196.42,
+   "stop": 83.62619386731598,
+   "objetivo": 86.21461226536805,
+   "comision_entrada": 4.794627801847128,
+   "abierta_en": "2026-11-26T11:31:41+00:00",
+   "revisada_hasta": 1795692701000,
+   "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
+  },
+  {
+   "id": 284,
+   "simbolo": "xyz:BRENTOIL",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 91.0595,
+   "nocional": 1886.44,
+   "apalancamiento": 3,
+   "margen": 628.81,
+   "stop": 90.1647054892976,
+   "objetivo": 92.84908902140478,
+   "comision_entrada": 0.9432179994854305,
+   "abierta_en": "2026-11-26T11:31:41+00:00",
+   "revisada_hasta": 1795692701000,
+   "motivo": "tendencia long con momento (fuerza 1.4 ATR)"
   }
  ],
  "predicciones": [],
@@ -5601,10 +5617,30 @@
    "cerrada_en": "2026-11-25T19:58:57+00:00",
    "pnl": 184.5,
    "razon_cierre": "objetivo"
+  },
+  {
+   "id": 281,
+   "simbolo": "xyz:BRENTOIL",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 90.6655,
+   "nocional": 11238.58,
+   "apalancamiento": 3,
+   "margen": 3746.19,
+   "stop": 89.86229378748358,
+   "objetivo": 92.27191242503281,
+   "comision_entrada": 5.619289412921804,
+   "abierta_en": "2026-11-26T02:44:20+00:00",
+   "revisada_hasta": 1795692600000,
+   "motivo": "tendencia long con momento (fuerza 1.6 ATR)",
+   "precio_salida": 89.86229378748358,
+   "cerrada_en": "2026-11-26T11:31:41+00:00",
+   "pnl": -110.75,
+   "razon_cierre": "stop-loss"
   }
  ],
- "comisiones_pagadas": 1761.3894525872709,
- "ultima_ejecucion": "2026-11-26T02:44:20+00:00",
+ "comisiones_pagadas": 1772.6968070645282,
+ "ultima_ejecucion": "2026-11-26T11:31:41+00:00",
  "ultimo_resumen": "2026-11-23",
  "pausado": false,
  "historial_patrimonio": [
@@ -9335,7 +9371,11 @@
   [
    "2026-11-26T02:44:20+00:00",
    9947.13
+  ],
+  [
+   "2026-11-26T11:31:41+00:00",
+   9786.86
   ]
  ],
- "siguiente_id": 283
+ "siguiente_id": 285
 }
