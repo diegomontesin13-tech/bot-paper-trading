@@ -1,6 +1,6 @@
 {
  "capital_inicial": 10000,
- "efectivo": 6318.255125877234,
+ "efectivo": 216.06705618675232,
  "posiciones": [
   {
    "id": 279,
@@ -15,7 +15,7 @@
    "objetivo": 237.89050551500662,
    "comision_entrada": 3.1059282982208085,
    "abierta_en": "2026-11-25T19:58:57+00:00",
-   "revisada_hasta": 1795636737000,
+   "revisada_hasta": 1795660800000,
    "motivo": "tendencia short con momento (fuerza 1.4 ATR)"
   },
   {
@@ -31,8 +31,40 @@
    "objetivo": 170.71820778888244,
    "comision_entrada": 2.317643585439799,
    "abierta_en": "2026-11-25T19:58:57+00:00",
-   "revisada_hasta": 1795636737000,
+   "revisada_hasta": 1795660800000,
    "motivo": "tendencia long con momento (fuerza 0.4 ATR)"
+  },
+  {
+   "id": 281,
+   "simbolo": "xyz:BRENTOIL",
+   "mercado": "materia_prima",
+   "lado": "long",
+   "precio_entrada": 90.6655,
+   "nocional": 11238.58,
+   "apalancamiento": 3,
+   "margen": 3746.19,
+   "stop": 89.86229378748358,
+   "objetivo": 92.27191242503281,
+   "comision_entrada": 5.619289412921804,
+   "abierta_en": "2026-11-26T02:44:20+00:00",
+   "revisada_hasta": 1795661060000,
+   "motivo": "tendencia long con momento (fuerza 1.6 ATR)"
+  },
+  {
+   "id": 282,
+   "simbolo": "xyz:META",
+   "mercado": "accion",
+   "lado": "long",
+   "precio_entrada": 614.72,
+   "nocional": 7040.57,
+   "apalancamiento": 3,
+   "margen": 2346.86,
+   "stop": 606.0319800427148,
+   "objetivo": 632.0960399145704,
+   "comision_entrada": 3.5202833324957923,
+   "abierta_en": "2026-11-26T02:44:20+00:00",
+   "revisada_hasta": 1795661060000,
+   "motivo": "tendencia long con momento (fuerza 1.1 ATR)"
   }
  ],
  "predicciones": [],
@@ -5571,8 +5603,8 @@
    "razon_cierre": "objetivo"
   }
  ],
- "comisiones_pagadas": 1752.2498798418533,
- "ultima_ejecucion": "2026-11-25T19:58:57+00:00",
+ "comisiones_pagadas": 1761.3894525872709,
+ "ultima_ejecucion": "2026-11-26T02:44:20+00:00",
  "ultimo_resumen": "2026-11-23",
  "pausado": false,
  "historial_patrimonio": [
@@ -9299,7 +9331,11 @@
   [
    "2026-11-25T19:58:57+00:00",
    9933.98
+  ],
+  [
+   "2026-11-26T02:44:20+00:00",
+   9947.13
   ]
  ],
- "siguiente_id": 281
+ "siguiente_id": 283
 }
