@@ -2762,3 +2762,15 @@
 - Abiertas: long xyz:PLTR, long xyz:MSTR, long xyz:META, long xyz:SILVER
 - Sin señal: DOGE, PENGU, xyz:NVDA, xyz:AMZN, xyz:AMD, xyz:EUR, xyz:GOLD, xyz:CL, xyz:NATGAS
 
+
+## 2026-11-27 21:35 UTC · patrimonio $9.990,55 (-0.09%)
+
+- Cerrado long xyz:PLTR a 170.7182 (objetivo): +$193,99
+- Cerrado long xyz:MSTR a 82.3703 (stop-loss): -$106,24
+- Cerrado long xyz:META a 624.0982 (stop-loss): -$114,05
+- Cerrado long xyz:SILVER a 43.2942 (stop-loss): -$109,90
+- Abierto long xyz:PLTR 3x $8.338,21 a 172.055 (stop 169.9915, obj. 176.1819)
+- Abierto long xyz:META 3x $10.556,11 a 628.855 (stop 622.9002, obj. 640.7646)
+- Abiertas: long xyz:PLTR, long xyz:META
+- Sin señal: BTC, ETH, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:MSFT, xyz:GOOGL, xyz:AMD, xyz:MSTR, xyz:EUR, xyz:CL, xyz:BRENTOIL, xyz:NATGAS
+
