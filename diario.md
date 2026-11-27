@@ -2743,3 +2743,11 @@
 - Sin señal: BTC, ETH, SOL, HYPE, BNB, kSHIB, WIF, TRUMP, xyz:NVDA, xyz:MSFT, xyz:GOOGL, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:XYZ100, xyz:KR200, xyz:GOLD, xyz:SILVER, xyz:NATGAS, xyz:COPPER
 
 - 2026-11-26 20:28 UTC · sin operaciones · patrimonio $9.834,50 (-1.66%)
+
+## 2026-11-27 03:09 UTC · patrimonio $10.067,85 (+0.68%)
+
+- Cerrado short xyz:AMZN a 249.6872 (stop-loss): -$105,66
+- Abierto long xyz:MSTR 3x $5.584,35 a 83.883 (stop 82.3703, obj. 86.9084)
+- Abiertas: long xyz:PLTR, long xyz:META, long xyz:CL, long xyz:BRENTOIL, long xyz:MSTR
+- Sin señal: BTC, SOL, HYPE, BNB, DOGE, TRUMP, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
+
