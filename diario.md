@@ -2751,3 +2751,14 @@
 - Abiertas: long xyz:PLTR, long xyz:META, long xyz:CL, long xyz:BRENTOIL, long xyz:MSTR
 - Sin señal: BTC, SOL, HYPE, BNB, DOGE, TRUMP, xyz:META, xyz:GOOGL, xyz:AMZN, xyz:AMD, xyz:PLTR, xyz:KR200, xyz:JPY, xyz:GOLD, xyz:SILVER, xyz:COPPER
 
+
+## 2026-11-27 12:34 UTC · patrimonio $10.285,38 (+2.85%)
+
+- Cerrado long xyz:META a 632.096 (objetivo): +$191,87
+- Cerrado long xyz:CL a 86.2146 (objetivo): +$186,16
+- Cerrado long xyz:BRENTOIL a 92.8491 (objetivo): +$35,17
+- Abierto long xyz:META 3x $11.157,56 a 629.91 (stop 624.0982, obj. 641.5337)
+- Abierto long xyz:SILVER 3x $7.065,12 a 43.934 (stop 43.2942, obj. 45.2136)
+- Abiertas: long xyz:PLTR, long xyz:MSTR, long xyz:META, long xyz:SILVER
+- Sin señal: DOGE, PENGU, xyz:NVDA, xyz:AMZN, xyz:AMD, xyz:EUR, xyz:GOLD, xyz:CL, xyz:NATGAS
+
