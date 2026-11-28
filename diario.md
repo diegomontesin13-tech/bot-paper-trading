@@ -2782,3 +2782,11 @@
 - Abiertas: long xyz:PLTR, long xyz:META, long xyz:SILVER, short xyz:NATGAS
 - Sin señal: BTC, SOL, HYPE, XRP, BNB, DOGE, kPEPE, kSHIB, kBONK, PENGU, FARTCOIN, TRUMP, xyz:NVDA, xyz:TSLA, xyz:GOOGL, xyz:AMD, xyz:MSTR, xyz:JPY, xyz:CL, xyz:BRENTOIL
 
+
+## 2026-11-28 12:13 UTC · patrimonio $9.828,36 (-1.72%)
+
+- Cerrado long xyz:META a 622.9002 (stop-loss): -$110,46
+- Abierto long xyz:TSLA 3x $10.104,90 a 398.675 (stop 395.4856, obj. 405.0538)
+- Abiertas: long xyz:PLTR, long xyz:SILVER, short xyz:NATGAS, long xyz:TSLA
+- Sin señal: SOL, HYPE, XRP, BNB, DOGE, kPEPE, TRUMP, xyz:NVDA, xyz:AAPL, xyz:MSFT, xyz:META, xyz:AMZN, xyz:AMD, xyz:COIN, xyz:MSTR, xyz:SP500, xyz:XYZ100, xyz:JP225, xyz:CL, xyz:BRENTOIL
+
